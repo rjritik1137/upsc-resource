@@ -11871,5 +11871,1091 @@
   ],
   "review_status": "draft-unreviewed",
   "confidence": "medium"
+ },
+ {
+  "id": "scitech-electricity-electronics-communication",
+  "subject": "scitech",
+  "group": "A",
+  "title": "Electricity, electronics and communication technology",
+  "definition": "Circuits, semiconductors and the technologies behind radio, radar, optical fibre and mobile communication.",
+  "subconcepts": [
+   "Ohm's law, series and parallel circuits, power",
+   "Diodes, transistors, LEDs, solar cells",
+   "Integrated circuits and chips",
+   "Radio waves, radar and sonar",
+   "Optical fibre and total internal reflection",
+   "Mobile communication and satellites",
+   "Superconductivity and its uses",
+   "Lasers and their applications"
+  ],
+  "distinctions": [
+   "Analog vs digital signal",
+   "LED vs LCD vs OLED",
+   "Radar vs sonar"
+  ],
+  "prerequisites": [
+   "scitech-physics-basics"
+  ],
+  "foundation_focus": "Definitions, devices and uses.",
+  "mains_focus": "Link electronics to digital infrastructure and defence.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-07",
+   "S-GS3-11",
+   "S-GS3-13"
+  ],
+  "keywords": [
+   "semiconductor|transistor|diode",
+   "\\bLED\\b|\\bOLED\\b|\\bLCD\\b",
+   "\\bradar\\b|\\bsonar\\b",
+   "optical fi[bv]re",
+   "integrated circuit|microchip|\\bchip\\b",
+   "\\blaser\\b",
+   "Ohm",
+   "radio wave|microwave",
+   "superconduct"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-DST",
+   "R-MEITY"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "scitech-information-technology-cyber",
+   "scitech-physics-basics"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-organic-chemistry-everyday",
+  "subject": "scitech",
+  "group": "A",
+  "title": "Organic chemistry and everyday products",
+  "definition": "Carbon compounds, polymers, fuels, food additives and household chemicals.",
+  "subconcepts": [
+   "Hydrocarbons and functional groups",
+   "Petroleum products and fuels; biofuels",
+   "Polymers, plastics, synthetic fibres, rubber",
+   "Soaps, detergents, dyes",
+   "Food additives and preservatives",
+   "Fertilisers and pesticides",
+   "Pharmaceuticals basics",
+   "Green chemistry"
+  ],
+  "distinctions": [
+   "Soap vs detergent",
+   "Biodegradable vs non-biodegradable",
+   "LPG vs CNG vs PNG"
+  ],
+  "prerequisites": [
+   "scitech-chemistry-basics"
+  ],
+  "foundation_focus": "Compounds and uses.",
+  "mains_focus": "Link to pollution, health and energy policy.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-07",
+   "S-GS3-11"
+  ],
+  "keywords": [
+   "hydrocarbon|methane|ethanol|ethylene",
+   "\\bLPG\\b|\\bCNG\\b|\\bPNG\\b|biofuel|biodiesel",
+   "polymer|plastic|nylon|polythene|\\bPVC\\b|rubber",
+   "soap|detergent",
+   "preservative|food additive",
+   "pesticide|DDT|insecticide",
+   "green chemistry",
+   "vulcani[sz]ation",
+   "petroleum product"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-DST"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "scitech-chemistry-basics"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-human-physiology-nutrition",
+  "subject": "scitech",
+  "group": "A",
+  "title": "Human physiology, nutrition and common disorders",
+  "definition": "Body systems, nutrients, deficiency diseases and lifestyle disorders.",
+  "subconcepts": [
+   "Digestive, circulatory, respiratory, excretory, nervous systems",
+   "Endocrine glands and hormones",
+   "Vitamins, minerals and deficiency diseases",
+   "Carbohydrates, proteins, fats",
+   "Blood groups and immunity",
+   "Lifestyle diseases: diabetes, hypertension",
+   "Fortification and malnutrition",
+   "Genetic and hormonal disorders"
+  ],
+  "distinctions": [
+   "Hormone vs enzyme",
+   "Vitamin deficiency diseases"
+  ],
+  "prerequisites": [
+   "scitech-biology-basics"
+  ],
+  "foundation_focus": "Organs, nutrients and disorders.",
+  "mains_focus": "Link nutrition to public-health programmes.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-07",
+   "S-GS3-11"
+  ],
+  "keywords": [
+   "digestive|circulatory|respiratory|excretory|nervous system",
+   "endocrine|hormone|insulin|thyroid",
+   "vitamin [A-K]|scurvy|rickets|beriberi|night blindness",
+   "protein|carbohydrate|\\bfats?\\b",
+   "blood group|haemoglobin|hemoglobin",
+   "diabetes|hypertension|obesity",
+   "fortification|anaemia|anemia",
+   "\\bpancreas|\\bliver\\b|\\bkidney"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-DST"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-food-security-pds"
+  ],
+  "related": [
+   "scitech-biology-basics",
+   "scitech-health-diseases"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-genetics-evolution",
+  "subject": "scitech",
+  "group": "A",
+  "title": "Genetics, heredity and evolution",
+  "definition": "Mendelian genetics, DNA structure, mutations, genomics and theories of evolution.",
+  "subconcepts": [
+   "Mendel's laws; dominant and recessive traits",
+   "Chromosomes, genes, sex determination",
+   "DNA replication, transcription, translation",
+   "Mutation and genetic disorders",
+   "Human genome project and genome sequencing",
+   "Darwin, natural selection, speciation",
+   "Population genetics basics",
+   "DNA fingerprinting and forensics"
+  ],
+  "distinctions": [
+   "Genotype vs phenotype",
+   "Gene vs allele",
+   "Natural vs artificial selection"
+  ],
+  "prerequisites": [
+   "scitech-biology-basics"
+  ],
+  "foundation_focus": "Definitions and examples.",
+  "mains_focus": "Connect genetics to biotechnology and ethics.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-07",
+   "S-GS3-11",
+   "S-GS3-13"
+  ],
+  "keywords": [
+   "Mendel",
+   "chromosome|allele|genotype|phenotype",
+   "mutation",
+   "Human Genome|genome sequencing|\\bGenomeIndia\\b",
+   "Darwin|natural selection|\\bevolution(ary)?\\b|speciation",
+   "DNA (finger)?print",
+   "genetic (disorder|disease)|sickle cell|thalassemia|Down syndrome",
+   "transcription|translation|replication"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-DST"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "scitech-biotechnology-genetics",
+   "scitech-biology-basics"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-vaccines-immunology",
+  "subject": "scitech",
+  "group": "B",
+  "title": "Vaccines, immunity and pandemics",
+  "definition": "Types of vaccines, immunisation programmes and pandemic response technology.",
+  "subconcepts": [
+   "Innate and adaptive immunity; antibodies",
+   "Vaccine types: live attenuated, inactivated, mRNA, vector",
+   "Universal Immunisation Programme and Mission Indradhanush",
+   "Herd immunity",
+   "COVID-19 vaccines and their development",
+   "Cold chain and logistics",
+   "Epidemic Diseases Act and disease surveillance",
+   "Vaccine hesitancy and misinformation"
+  ],
+  "distinctions": [
+   "Vaccine vs antiserum",
+   "Live vs inactivated vaccine",
+   "Herd immunity vs natural immunity"
+  ],
+  "prerequisites": [
+   "scitech-health-diseases"
+  ],
+  "foundation_focus": "Types and programmes.",
+  "mains_focus": "Evaluate vaccine delivery and surveillance.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-11",
+   "S-GS3-12",
+   "S-P1-07"
+  ],
+  "keywords": [
+   "vaccin",
+   "mRNA|viral vector",
+   "herd immunity",
+   "antibod|antigen",
+   "Indradhanush|Universal Immunisation",
+   "cold chain",
+   "Epidemic Diseases Act",
+   "COVID|Covaxin|Covishield|coronavirus",
+   "immunity|immunisation"
+  ],
+  "resource_ids": [
+   "R-DST",
+   "R-PIB",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "disaster-epidemics-biological-disasters"
+  ],
+  "related": [
+   "scitech-health-diseases"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-medical-technology-drugs",
+  "subject": "scitech",
+  "group": "B",
+  "title": "Medical technology, drugs and diagnostics",
+  "definition": "Imaging, robotics and digital health, and regulation of drugs and medical devices.",
+  "subconcepts": [
+   "Imaging: X-ray, CT, MRI, ultrasound",
+   "Robotic surgery and telemedicine",
+   "Generic drugs and patents; compulsory licensing",
+   "Drug regulation (CDSCO) and clinical trials",
+   "Medical devices regulation",
+   "AYUSH and traditional medicine",
+   "Digital health records",
+   "Antimicrobial resistance"
+  ],
+  "distinctions": [
+   "Generic vs branded drug",
+   "CT vs MRI",
+   "Patent vs compulsory licence"
+  ],
+  "prerequisites": [
+   "scitech-health-diseases"
+  ],
+  "foundation_focus": "Techniques and regulations.",
+  "mains_focus": "Discuss affordability, regulation and indigenous drug capacity.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-11",
+   "S-GS3-13",
+   "S-P1-07"
+  ],
+  "keywords": [
+   "\\bMRI\\b|\\bCT scan|X-ray|ultrasound",
+   "robotic surgery|telemedicine|e-?Sanjeevani",
+   "generic (drug|medicine)",
+   "compulsory licen[cs]",
+   "\\bCDSCO\\b|clinical trial",
+   "\\bAYUSH\\b|Ayurveda|Unani|Siddha",
+   "medical device",
+   "antimicrobial resistance|\\bAMR\\b",
+   "pharmaceutical"
+  ],
+  "resource_ids": [
+   "R-DST",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-health-policy"
+  ],
+  "related": [
+   "scitech-health-diseases"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-astronomy-astrophysics",
+  "subject": "scitech",
+  "group": "C",
+  "title": "Astronomy and astrophysics",
+  "definition": "Stars, galaxies, black holes, telescopes and recent discoveries.",
+  "subconcepts": [
+   "Life cycle of stars; supernova, neutron star, black hole",
+   "Galaxies, Milky Way and the Big Bang",
+   "Gravitational waves and LIGO-India",
+   "Exoplanets and habitability",
+   "Telescopes: Hubble, James Webb, Astrosat",
+   "Solar physics and space weather",
+   "Dark matter and dark energy",
+   "Observatories in India"
+  ],
+  "distinctions": [
+   "Black hole vs neutron star",
+   "Asteroid vs comet vs meteor"
+  ],
+  "prerequisites": [
+   "scitech-space-technology"
+  ],
+  "foundation_focus": "Terms and instruments.",
+  "mains_focus": "Link discoveries to Indian science missions.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-13",
+   "S-GS3-11",
+   "S-P1-07"
+  ],
+  "keywords": [
+   "black hole|neutron star|supernova|pulsar",
+   "gravitational wave|\\bLIGO\\b",
+   "exoplanet|habitable",
+   "James Webb|Hubble|Astrosat|telescope",
+   "Big Bang|dark matter|dark energy",
+   "galax",
+   "asteroid|comet|meteor",
+   "solar (flare|wind|storm)|sunspot",
+   "Milky Way"
+  ],
+  "resource_ids": [
+   "R-ISRO",
+   "R-DST",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "geography-astronomy-earth-sun"
+  ],
+  "related": [
+   "scitech-space-technology"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-space-sector-commercial",
+  "subject": "scitech",
+  "group": "C",
+  "title": "Space sector reforms, private players and space policy",
+  "definition": "Opening up the space sector, regulator IN-SPACe, and space law and policy.",
+  "subconcepts": [
+   "IN-SPACe and NewSpace India Limited",
+   "Private launch vehicles and satellites (Skyroot, Agnikul)",
+   "Space policy and FDI",
+   "Satellite communication and spectrum",
+   "Space debris and sustainability",
+   "Outer Space Treaty and Artemis Accords",
+   "Earth observation commercial use",
+   "Space for defence and strategic needs"
+  ],
+  "distinctions": [
+   "ISRO vs IN-SPACe vs NSIL"
+  ],
+  "prerequisites": [
+   "scitech-space-technology"
+  ],
+  "foundation_focus": "Bodies and roles.",
+  "mains_focus": "Evaluate private participation and space security.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-13",
+   "S-GS3-12"
+  ],
+  "keywords": [
+   "IN-?SPACe|NewSpace India|\\bNSIL\\b",
+   "Skyroot|Agnikul|private (space|satellite|launch)",
+   "space (policy|sector|economy|law)",
+   "Outer Space Treaty|Artemis Accords",
+   "space debris",
+   "satellite (communication|internet)|Starlink",
+   "Earth observation"
+  ],
+  "resource_ids": [
+   "R-ISRO",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "security-defence-reforms-procurement"
+  ],
+  "related": [
+   "scitech-space-technology"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-energy-storage-ev-hydrogen",
+  "subject": "scitech",
+  "group": "D",
+  "title": "Batteries, electric vehicles, hydrogen and clean energy technologies",
+  "definition": "Technologies behind storage, mobility and the hydrogen economy.",
+  "subconcepts": [
+   "Lithium-ion and alternative batteries; recycling",
+   "Electric vehicles and charging; FAME and PLI",
+   "Fuel cells and green hydrogen",
+   "Solar PV, wind and hybrid systems",
+   "Smart grids and storage",
+   "Small modular reactors",
+   "Biofuels and ethanol blending",
+   "Critical minerals for the energy transition"
+  ],
+  "distinctions": [
+   "Green vs grey vs blue hydrogen",
+   "Battery vs fuel cell"
+  ],
+  "prerequisites": [
+   "scitech-materials-nanotechnology"
+  ],
+  "foundation_focus": "Technologies and missions.",
+  "mains_focus": "Assess technology readiness and supply-chain risks.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-13",
+   "S-GS3-11",
+   "S-P1-07"
+  ],
+  "keywords": [
+   "lithium|battery|batteries",
+   "electric vehicle|\\bEV\\b|\\bFAME\\b",
+   "green hydrogen|hydrogen (fuel|economy|mission|energy)|fuel cell",
+   "smart grid|energy storage",
+   "solar (cell|panel|PV)|photovoltaic",
+   "ethanol blending|biofuel",
+   "small modular reactor",
+   "critical mineral"
+  ],
+  "resource_ids": [
+   "R-PIB",
+   "R-DST",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-renewable-energy-green-tech",
+   "economy-energy-sector-economy"
+  ],
+  "related": [
+   "scitech-materials-nanotechnology",
+   "scitech-nuclear-energy"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "scitech-ocean-polar-science-missions",
+  "subject": "scitech",
+  "group": "D",
+  "title": "Ocean, polar and mission-mode science programmes",
+  "definition": "India's deep-ocean, Antarctic and Arctic science and recent national missions.",
+  "subconcepts": [
+   "Deep Ocean Mission and Samudrayaan",
+   "Antarctic stations: Maitri, Bharati; Arctic: Himadri",
+   "Indian Antarctic programme and Antarctic Treaty",
+   "INCOIS and tsunami warning",
+   "National Quantum Mission, IndiaAI and Semicon India",
+   "Mission Shakti and defence tech missions",
+   "Weather and climate missions (Mission Mausam)",
+   "Science and Technology diplomacy"
+  ],
+  "distinctions": [
+   "Antarctic Treaty vs Arctic Council"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Names, locations and aims.",
+  "mains_focus": "Link science missions to strategy and resources.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-12",
+   "S-GS3-13"
+  ],
+  "keywords": [
+   "Deep Ocean Mission|Samudrayaan|Matsya",
+   "Antarctic|Maitri|Bharati station|Arctic|Himadri",
+   "\\bINCOIS\\b",
+   "National Quantum Mission|IndiaAI|Semicon India",
+   "Mission Shakti",
+   "Mission Mausam",
+   "polar (research|region)"
+  ],
+  "resource_ids": [
+   "R-DST",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-marine-coastal-crz"
+  ],
+  "related": [
+   "scitech-science-institutions-achievements"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-epidemics-biological-disasters",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Epidemics, pandemics and biological disasters",
+  "definition": "Biological hazards, surveillance and pandemic management in India.",
+  "subconcepts": [
+   "Epidemic, pandemic, endemic: meaning",
+   "Epidemic Diseases Act and Disaster Management Act use during COVID-19",
+   "Integrated Disease Surveillance Programme",
+   "International Health Regulations and WHO",
+   "Zoonotic spillover and One Health",
+   "Biosafety and bioterrorism",
+   "Lockdowns, containment and health logistics",
+   "Lessons: preparedness, vaccines, data"
+  ],
+  "distinctions": [
+   "Epidemic vs pandemic",
+   "Biosafety vs biosecurity"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Acts and concepts.",
+  "mains_focus": "Evaluate pandemic governance and federal coordination.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-15",
+   "S-GS3-11"
+  ],
+  "keywords": [
+   "pandemic|epidemic",
+   "Epidemic Diseases Act",
+   "COVID|coronavirus|lockdown",
+   "One Health|zoono",
+   "International Health Regulations|\\bWHO\\b(?=.*(emergency|PHEIC))",
+   "bioterror|biological (weapon|hazard|disaster)",
+   "disease surveillance|\\bIDSP\\b",
+   "quarantine"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MHA",
+   "R-DST"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-vaccines-immunology"
+  ],
+  "related": [
+   "disaster-man-made-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-cbrn-hazards",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Chemical, biological, radiological and nuclear (CBRN) hazards",
+  "definition": "Mass-casualty hazards from CBRN agents and the response framework.",
+  "subconcepts": [
+   "Chemical agents and industrial chemical hazards",
+   "Radiological dispersal and nuclear accidents (Chernobyl, Fukushima)",
+   "Biological agents",
+   "NDMA CBRN guidelines and specialised NDRF units",
+   "Hazardous waste and transportation rules",
+   "Chemical Weapons Convention and OPCW",
+   "Nuclear safety: AERB",
+   "Emergency planning and evacuation"
+  ],
+  "distinctions": [
+   "Nuclear accident vs radiological emergency",
+   "Chemical vs biological weapon"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Agents, accidents and bodies.",
+  "mains_focus": "Assess preparedness for low-probability high-impact events.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-15",
+   "S-GS3-13"
+  ],
+  "keywords": [
+   "\\bCBRN\\b|chemical, biological, radiological",
+   "Chernobyl|Fukushima|Three Mile Island",
+   "Chemical Weapons Convention|\\bOPCW\\b",
+   "\\bAERB\\b|Atomic Energy Regulatory",
+   "radiological|radiation (hazard|emergency)",
+   "hazardous (waste|chemical)",
+   "nuclear (accident|safety|emergency)"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-DAE"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-nuclear-energy"
+  ],
+  "related": [
+   "disaster-man-made-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-wildfires-heat-waves",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Forest fires, heat waves and extreme temperature hazards",
+  "definition": "Causes, impacts and management of wildfires and heat and cold waves.",
+  "subconcepts": [
+   "Forest fire causes and seasons in India",
+   "Forest Survey fire alerts and fire lines",
+   "Heat wave criteria and heat action plans",
+   "Urban heat island and vulnerable groups",
+   "Cold waves and fog",
+   "Health impacts and cooling strategies",
+   "Climate change and extreme temperatures",
+   "Community fire management"
+  ],
+  "distinctions": [
+   "Wildfire vs controlled burning",
+   "Heat wave vs heat stroke"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Criteria and plans.",
+  "mains_focus": "Evaluate early warning and local action plans.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-15",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "forest fire|wildfire",
+   "heat ?wave|heat action plan|heat stroke",
+   "urban heat island",
+   "cold wave|fog",
+   "fire line|fire alert",
+   "controlled burning",
+   "extreme temperature"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-IMD",
+   "R-MOEF"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-forest-resources-policy"
+  ],
+  "related": [
+   "disaster-hydro-meteorological-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-community-preparedness-capacity",
+  "subject": "disaster",
+  "group": "C",
+  "title": "Community preparedness, capacity building and technology in disaster management",
+  "definition": "Training, awareness, early warning and inclusive approaches at local level.",
+  "subconcepts": [
+   "Aapda Mitra and civil defence volunteers",
+   "NIDM and training institutions",
+   "Mock drills and school safety",
+   "Common Alerting Protocol and cell broadcast",
+   "Gender- and disability-inclusive DRR",
+   "Role of media and social media",
+   "Local knowledge and traditional practices",
+   "Insurance and livelihoods protection"
+  ],
+  "distinctions": [
+   "Capacity building vs awareness",
+   "Top-down vs community-based approach"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Bodies and tools.",
+  "mains_focus": "Argue for bottom-up resilience.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "Aapda Mitra|volunteer",
+   "\\bNIDM\\b|National Institute of Disaster",
+   "mock drill|school safety",
+   "Common Alerting Protocol|cell broadcast|early warning",
+   "community[- ]based",
+   "traditional (knowledge|practice)",
+   "capacity building",
+   "gender-sensitive|disability-inclusive"
+  ],
+  "resource_ids": [
+   "R-NDMA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "disaster-relief-recovery-financing"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-lessons-major-disasters",
+  "subject": "disaster",
+  "group": "C",
+  "title": "Lessons from major disasters in India and abroad",
+  "definition": "Case studies of major disasters and the policy changes they triggered.",
+  "subconcepts": [
+   "Bhuj earthquake 2001 and the Disaster Management Act",
+   "Indian Ocean tsunami 2004",
+   "Uttarakhand floods 2013 and Himalayan development",
+   "Kerala floods 2018 and dam management",
+   "Odisha cyclones and zero-casualty approach",
+   "Bhopal gas tragedy",
+   "Japan's Tohoku and Nepal's 2015 earthquake",
+   "Common lessons: governance and land use"
+  ],
+  "distinctions": [
+   "Preparedness vs response failure"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Events and outcomes.",
+  "mains_focus": "Use cases as evidence in answers.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "Bhuj|Gujarat earthquake",
+   "Indian Ocean tsunami|2004 tsunami",
+   "Uttarakhand (flood|disaster)|Kedarnath",
+   "Kerala flood",
+   "Odisha cyclone|Phailin|Fani|Super Cyclone",
+   "Nepal earthquake|Tohoku|Fukushima",
+   "Bhopal",
+   "Chamoli|Joshimath|Wayanad"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MHA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "disaster-hydro-meteorological-disasters",
+   "disaster-geological-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-lwe-naxalism",
+  "subject": "security",
+  "group": "A",
+  "title": "Left-wing extremism (Naxalism)",
+  "definition": "Origins, geography, causes and policy response to Left-wing extremism.",
+  "subconcepts": [
+   "Naxalbari movement 1967 to Maoist consolidation",
+   "Affected regions: Red Corridor and Bastar",
+   "Causes: land, forest rights, displacement, governance gaps",
+   "Policy: SAMADHAN, security and development approach",
+   "Salwa Judum and the Supreme Court",
+   "Surrender and rehabilitation policies",
+   "Role of CAPFs and state police; Greyhounds",
+   "Aspirational districts and road connectivity"
+  ],
+  "distinctions": [
+   "Naxalism vs insurgency",
+   "Security approach vs development approach"
+  ],
+  "prerequisites": [
+   "security-external-actors-extremism"
+  ],
+  "foundation_focus": "Timeline, regions and schemes.",
+  "mains_focus": "Assess integrated security–development strategy.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS3-16",
+   "S-GS3-17"
+  ],
+  "keywords": [
+   "Naxal|Maoist|Left[- ]Wing Extremis",
+   "Red Corridor|Bastar|Dantewada",
+   "SAMADHAN|Salwa Judum|Greyhounds",
+   "aspirational district",
+   "tribal.*(displacement|alienation)",
+   "Scheduled Areas.*extremis"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-ARC"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "society-tribal-society-issues"
+  ],
+  "related": [
+   "security-external-actors-extremism"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-organised-crime-narcotics",
+  "subject": "security",
+  "group": "A",
+  "title": "Organised crime and narcotics trafficking",
+  "definition": "Drug trafficking, arms and human smuggling, and legal responses.",
+  "subconcepts": [
+   "NDPS Act and Narcotics Control Bureau",
+   "Golden Crescent and Golden Triangle routes",
+   "Drone-based smuggling across borders",
+   "Arms trafficking and counterfeit currency",
+   "Hawala and money laundering",
+   "Narco-terror and gang networks",
+   "International conventions on drugs",
+   "Prevention, treatment and rehabilitation"
+  ],
+  "distinctions": [
+   "Narcotic vs psychotropic substance",
+   "Smuggling vs trafficking"
+  ],
+  "prerequisites": [
+   "security-border-management-organised-crime"
+  ],
+  "foundation_focus": "Laws, bodies and routes.",
+  "mains_focus": "Balance enforcement with public-health approaches.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-19",
+   "S-GS3-17"
+  ],
+  "keywords": [
+   "NDPS|narcotic|drug (trafficking|abuse|menace)",
+   "Golden (Crescent|Triangle)",
+   "\\bNCB\\b|Narcotics Control",
+   "counterfeit (currency|note)",
+   "hawala",
+   "arms (trafficking|smuggling)",
+   "narco[- ]terror",
+   "organi[sz]ed crime|gang"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-UN"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "security-border-management-organised-crime",
+   "security-terrorism-counter-terrorism"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-social-media-information-warfare",
+  "subject": "security",
+  "group": "B",
+  "title": "Social media, disinformation and information warfare",
+  "definition": "How communication networks and social media create security risks and how the State regulates them.",
+  "subconcepts": [
+   "Radicalisation and recruitment online",
+   "Fake news, deepfakes and election influence",
+   "IT Act Section 69A blocking and IT Rules 2021",
+   "Intermediary liability and safe harbour",
+   "Internet shutdowns and rights",
+   "Hybrid and information warfare",
+   "Role of media in security reporting and ethics",
+   "Data localisation and platform regulation"
+  ],
+  "distinctions": [
+   "Misinformation vs disinformation",
+   "Censorship vs regulation"
+  ],
+  "prerequisites": [
+   "security-cyber-security"
+  ],
+  "foundation_focus": "Laws and risks.",
+  "mains_focus": "Balance security and free expression.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-18"
+  ],
+  "keywords": [
+   "social media|social networking",
+   "fake news|disinformation|misinformation|deepfake",
+   "Section 69A|IT Rules|Information Technology Rules|intermediary",
+   "internet shutdown",
+   "information warfare|hybrid war|propaganda",
+   "radicali[sz]ation",
+   "data localisation",
+   "safe harbour"
+  ],
+  "resource_ids": [
+   "R-MEITY",
+   "R-CERT",
+   "R-MHA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-fr-freedoms"
+  ],
+  "related": [
+   "security-cyber-security"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-police-reforms-criminal-law",
+  "subject": "security",
+  "group": "A",
+  "title": "Police reforms and the new criminal laws",
+  "definition": "Structure and reform of policing and the replacement of colonial-era criminal codes.",
+  "subconcepts": [
+   "Prakash Singh judgment and police reform directives",
+   "Bharatiya Nyaya Sanhita, Nagarik Suraksha Sanhita, Sakshya Adhiniyam",
+   "Police modernisation, CCTNS and forensic science",
+   "Police–public relations and accountability",
+   "Custodial violence and human rights",
+   "State vs central police roles",
+   "Crime and criminal justice statistics (NCRB)",
+   "Community policing"
+  ],
+  "distinctions": [
+   "IPC vs BNS",
+   "Police vs public order (List II)"
+  ],
+  "prerequisites": [
+   "security-security-forces-agencies"
+  ],
+  "foundation_focus": "Laws, bodies and judgments.",
+  "mains_focus": "Evaluate implementation and civil-liberty safeguards.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-20",
+   "S-GS3-17"
+  ],
+  "keywords": [
+   "police reform",
+   "Prakash Singh",
+   "Bharatiya Nyaya|Nagarik Suraksha|Sakshya Adhiniyam|\\bBNS\\b|\\bBNSS\\b",
+   "\\bIPC\\b|Indian Penal Code|\\bCrPC\\b",
+   "\\bNCRB\\b",
+   "\\bCCTNS\\b|police modernisation",
+   "custodial (violence|death)",
+   "community policing",
+   "forensic"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-ARC",
+   "R-INDIACODE"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-fr-freedoms"
+  ],
+  "related": [
+   "security-security-forces-agencies"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-national-security-strategy-intelligence",
+  "subject": "security",
+  "group": "C",
+  "title": "National security strategy, intelligence and strategic culture",
+  "definition": "Doctrine, institutions and challenges of India's strategic policy.",
+  "subconcepts": [
+   "National Security Council system and NSA",
+   "Intelligence reforms after Kargil and 26/11",
+   "Nuclear doctrine: credible minimum deterrence and no-first-use",
+   "Two-front challenge and strategic partnerships",
+   "Comprehensive national security: economic, energy, cyber",
+   "Civil–military relations",
+   "Strategic autonomy and defence diplomacy",
+   "Crisis management and escalation"
+  ],
+  "distinctions": [
+   "Deterrence vs defence",
+   "Credible minimum deterrence vs massive retaliation"
+  ],
+  "prerequisites": [
+   "security-security-forces-agencies"
+  ],
+  "foundation_focus": "Doctrine and bodies.",
+  "mains_focus": "Argue for an integrated national security strategy.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-20",
+   "S-GS3-17"
+  ],
+  "keywords": [
+   "National Security (Council|Strategy|Adviser)|\\bNSCS\\b",
+   "Kargil Review|Group of Ministers",
+   "nuclear doctrine|credible minimum deterrence|no[- ]first[- ]use",
+   "two[- ]front",
+   "civil[- ]military",
+   "comprehensive (national )?security",
+   "strategic (culture|autonomy)",
+   "intelligence (reform|agenc)"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-MEA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-defence-technology",
+   "ir-global-conflicts-treaties"
+  ],
+  "related": [
+   "security-defence-reforms-procurement"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
  }
 ]

@@ -9,6 +9,7 @@ import author_subjects3 as S3
 import author_subjects4 as S4
 import author_subjects5 as S5
 import author_subjects6 as S6
+import author_subjects7 as S7
 
 S.STUB_RESOLVE.update({
     'xs-governance-rti': 'governance-transparency-e-governance-citizens-charter',
@@ -21,6 +22,7 @@ S.SUBJECT_META.update(S3.SUBJECT_META)
 S.RATIONALE.update(S3.RATIONALE)
 S.RATIONALE.update(S4.RATIONALE)
 S.RATIONALE.update(S6.RATIONALE)
+S.RATIONALE.update(S7.RATIONALE)
 S.RATIONALE.update(S2.RATIONALE)
 
 for c in P.CONCEPTS:

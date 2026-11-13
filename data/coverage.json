@@ -572,20 +572,25 @@
   ]
  },
  "concepts": {
-  "count": 219,
+  "count": 239,
   "without_pyq_link": [
    "polity-upsc-spsc",
    "security-security-forces-agencies",
-   "disaster-man-made-disasters"
+   "disaster-man-made-disasters",
+   "disaster-cbrn-hazards",
+   "disaster-wildfires-heat-waves",
+   "disaster-lessons-major-disasters",
+   "security-police-reforms-criminal-law",
+   "security-national-security-strategy-intelligence"
   ],
-  "pyq_links": 6310,
+  "pyq_links": 6473,
   "all_links_proposed": true,
   "by_subject": {
    "polity": {
     "title": "Polity & Constitution",
     "status": "authored",
     "concepts": 51,
-    "pyq_links": 886,
+    "pyq_links": 883,
     "prelims_unlinked": 4
    },
    "history": {
@@ -599,21 +604,21 @@
     "title": "Geography",
     "status": "authored",
     "concepts": 23,
-    "pyq_links": 887,
+    "pyq_links": 883,
     "prelims_unlinked": 10
    },
    "society": {
     "title": "Indian Society",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 134,
+    "pyq_links": 132,
     "prelims_unlinked": 0
    },
    "governance": {
     "title": "Governance & Social Justice",
     "status": "authored",
     "concepts": 11,
-    "pyq_links": 135,
+    "pyq_links": 133,
     "prelims_unlinked": 0
    },
    "ir": {
@@ -640,36 +645,36 @@
    "scitech": {
     "title": "Science & Technology",
     "status": "authored",
-    "concepts": 11,
-    "pyq_links": 844,
-    "prelims_unlinked": 22
+    "concepts": 21,
+    "pyq_links": 997,
+    "prelims_unlinked": 14
    },
    "security": {
     "title": "Security",
     "status": "authored",
-    "concepts": 8,
-    "pyq_links": 65,
+    "concepts": 13,
+    "pyq_links": 80,
     "prelims_unlinked": 0
    },
    "disaster": {
     "title": "Disaster Management",
     "status": "authored",
-    "concepts": 6,
-    "pyq_links": 50,
+    "concepts": 11,
+    "pyq_links": 58,
     "prelims_unlinked": 0
    },
    "ethics": {
     "title": "Ethics & GS-IV case studies",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 176,
+    "pyq_links": 174,
     "prelims_unlinked": 0
    }
   },
   "mains_unmatched": {
-   "mains-GS-1": 42,
+   "mains-GS-1": 39,
    "mains-GS-2": 22,
-   "mains-GS-3": 21,
+   "mains-GS-3": 20,
    "mains-GS-4": 2
   }
  },
