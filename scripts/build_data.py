@@ -138,7 +138,7 @@ GENERIC = {r"salient features", r"Parliament", r"Supreme Court", r"sovereign", r
            r"employment", r"poverty", r"agricultur", r"farmer", r"subsid", r"plastic", r"solar", r"\bbond", r"rupee", r"inflation", r"coal", r"Ghats", r"Himalaya", r"biodiversity",
            r"climate change", r"pollut", r"peasant", r"Moderate", r"Extremist", r"revolutionar", r"famine", r"1857", r"1935", r"estuar", r"coral", r"mangrove", r"tide", r"\btide",
            r"conflict|war\b", r"treaty", r"\bscheme", r"\bwomen", r"\bgender", r"\beducation", r"\bdisease", r"terroris", r"extremis", r"\bcyber", r"festival", r"foreign policy",
-           r"transparency", r"accountability", r"stakeholder", r"\bscientist", r"\bsatellite", r"\bmissile", r"\bcell\b", r"\bhazard", r"\bdisaster", r"\bstupa|vihara", r"urbani[sz]ation", r"\bmarriage|family", r"\bethic", r"moral", r"\bvalues?\b", r"civil servant", r"public administration", r"stakeholder"}
+           r"transparency", r"accountability", r"stakeholder", r"\bscientist", r"\bsatellite", r"\bmissile", r"\bcell\b", r"\bhazard", r"\bdisaster", r"\bstupa|vihara", r"urbani[sz]ation", r"\bmarriage|family", r"\bChina\b|Chinese", r"Russia|Soviet", r"\bAfrica", r"United States|\bUSA?\b", r"Gulf|\bGCC\b|Saudi", r"\bresilien", r"\bmedia\b", r"relief|rehabilitation", r"humanitarian", r"tribe|tribal", r"Kashmir", r"\bNGO", r"religion", r"religious", r"\bethic", r"moral", r"\bvalues?\b", r"civil servant", r"public administration", r"stakeholder"}
 pats = {sid: [(c["id"], [re.compile(k, re.I) for k in c["keywords"]], c["keywords"]) for c in cs] for sid, cs in by_subj.items()}
 links, unclassified = [], collections.defaultdict(list)
 MAXC = 3

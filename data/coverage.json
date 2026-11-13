@@ -572,60 +572,61 @@
   ]
  },
  "concepts": {
-  "count": 157,
+  "count": 182,
   "without_pyq_link": [
-   "polity-upsc-spsc"
+   "polity-upsc-spsc",
+   "disaster-man-made-disasters"
   ],
-  "pyq_links": 5640,
+  "pyq_links": 5804,
   "all_links_proposed": true,
   "by_subject": {
    "polity": {
     "title": "Polity & Constitution",
     "status": "authored",
     "concepts": 51,
-    "pyq_links": 889,
+    "pyq_links": 888,
     "prelims_unlinked": 4
    },
    "history": {
     "title": "History & Culture",
     "status": "authored",
     "concepts": 26,
-    "pyq_links": 1007,
+    "pyq_links": 1006,
     "prelims_unlinked": 36
    },
    "geography": {
     "title": "Geography",
     "status": "authored",
     "concepts": 14,
-    "pyq_links": 782,
+    "pyq_links": 776,
     "prelims_unlinked": 14
    },
    "society": {
     "title": "Indian Society",
     "status": "authored",
-    "concepts": 4,
-    "pyq_links": 117,
+    "concepts": 9,
+    "pyq_links": 138,
     "prelims_unlinked": 0
    },
    "governance": {
     "title": "Governance & Social Justice",
     "status": "authored",
-    "concepts": 5,
-    "pyq_links": 92,
+    "concepts": 11,
+    "pyq_links": 135,
     "prelims_unlinked": 0
    },
    "ir": {
     "title": "International Relations",
     "status": "authored",
-    "concepts": 5,
-    "pyq_links": 244,
+    "concepts": 10,
+    "pyq_links": 317,
     "prelims_unlinked": 0
    },
    "economy": {
     "title": "Economy & Agriculture",
     "status": "authored",
     "concepts": 15,
-    "pyq_links": 919,
+    "pyq_links": 916,
     "prelims_unlinked": 2
    },
    "environment": {
@@ -639,35 +640,35 @@
     "title": "Science & Technology",
     "status": "authored",
     "concepts": 11,
-    "pyq_links": 847,
+    "pyq_links": 845,
     "prelims_unlinked": 22
    },
    "security": {
     "title": "Security",
     "status": "authored",
-    "concepts": 4,
-    "pyq_links": 44,
+    "concepts": 8,
+    "pyq_links": 67,
     "prelims_unlinked": 0
    },
    "disaster": {
     "title": "Disaster Management",
     "status": "authored",
-    "concepts": 1,
-    "pyq_links": 30,
+    "concepts": 6,
+    "pyq_links": 52,
     "prelims_unlinked": 0
    },
    "ethics": {
     "title": "Ethics & GS-IV case studies",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 185,
+    "pyq_links": 180,
     "prelims_unlinked": 0
    }
   },
   "mains_unmatched": {
-   "mains-GS-1": 50,
-   "mains-GS-2": 32,
-   "mains-GS-3": 26,
+   "mains-GS-1": 48,
+   "mains-GS-2": 22,
+   "mains-GS-3": 24,
    "mains-GS-4": 2
   }
  },

@@ -8527,5 +8527,1347 @@
   ],
   "review_status": "draft-unreviewed",
   "confidence": "medium"
+ },
+ {
+  "id": "disaster-hydro-meteorological-disasters",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Floods, cyclones, droughts and other weather disasters",
+  "definition": "Causes, vulnerability patterns and management of climate- and weather-driven hazards in India.",
+  "subconcepts": [
+   "Floods: causes, flood plains, urban flooding, flood forecasting",
+   "Tropical cyclones: formation, naming, warning systems, coastal impact",
+   "Droughts: meteorological, hydrological, agricultural",
+   "Cloudbursts, heat waves, cold waves",
+   "Glacial lake outburst floods",
+   "Structural vs non-structural measures",
+   "Early warning and forecasting (IMD, CWC)",
+   "Regional vulnerability: Brahmaputra, Kosi, east coast, Himalaya"
+  ],
+  "distinctions": [
+   "Flood vs flash flood",
+   "Meteorological vs agricultural drought",
+   "Structural vs non-structural mitigation"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Causes, regions and warning agencies.",
+  "mains_focus": "Evaluate flood and cyclone management, and the shift to impact-based forecasting.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "\\bflood",
+   "cyclone",
+   "drought",
+   "cloudburst",
+   "heat ?wave|cold wave",
+   "glacial lake",
+   "urban flooding",
+   "\\bIMD\\b|India Meteorological",
+   "flash flood",
+   "storm surge"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MHA",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "geography-indian-monsoon-climate"
+  ],
+  "related": [
+   "disaster-geological-disasters",
+   "disaster-climate-risk-resilience"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-geological-disasters",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Earthquakes, tsunamis, landslides and other geological hazards",
+  "definition": "Origins and management of earthquakes, tsunamis, landslides, avalanches and volcanic hazards.",
+  "subconcepts": [
+   "Earthquake causes and seismic zones of India",
+   "Building codes and earthquake-resistant construction",
+   "Tsunami: cause, warning systems, 2004 event",
+   "Landslides: causes and mapping in the Himalaya and Western Ghats",
+   "Avalanches and snow hazards",
+   "Volcanoes (India's Barren Island)",
+   "Land subsidence",
+   "Mitigation, mapping and community preparedness"
+  ],
+  "distinctions": [
+   "Epicentre vs focus",
+   "Magnitude vs intensity",
+   "Landslide vs avalanche"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Zones, causes and warning systems.",
+  "mains_focus": "Link development in fragile terrain to hazard risk.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "earthquake|seismic",
+   "tsunami",
+   "landslide",
+   "avalanche",
+   "volcan",
+   "subsidence",
+   "Richter|magnitude",
+   "building code",
+   "seismic zone"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "geography-geophysical-hazards"
+  ],
+  "related": [
+   "disaster-hydro-meteorological-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-man-made-disasters",
+  "subject": "disaster",
+  "group": "B",
+  "title": "Industrial, chemical, fire and other human-induced disasters",
+  "definition": "Hazards arising from industry, infrastructure and human activity, with lessons from major events.",
+  "subconcepts": [
+   "Chemical and industrial accidents (Bhopal gas tragedy)",
+   "Nuclear and radiological emergencies",
+   "Fires: forests, buildings, factories",
+   "Building and bridge collapses; stampedes",
+   "Oil spills and marine pollution",
+   "Mining accidents",
+   "Road and rail accidents",
+   "Legal framework: Factories Act, Environment Protection Act, Public Liability Insurance Act"
+  ],
+  "distinctions": [
+   "Natural vs man-made disaster",
+   "Hazard vs risk"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Examples and laws.",
+  "mains_focus": "Assess regulatory failures and safety culture.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "Bhopal",
+   "industrial (accident|disaster)|chemical (accident|disaster)",
+   "man-?made disaster",
+   "stampede",
+   "building collapse|bridge collapse",
+   "oil spill",
+   "fire (safety|accident)|forest fire",
+   "nuclear (accident|emergency)|radiological",
+   "mining accident"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MOEF"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-pollution-waste-management"
+  ],
+  "related": [
+   "disaster-disaster-management-framework"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-climate-risk-resilience",
+  "subject": "disaster",
+  "group": "C",
+  "title": "Climate risk, adaptation and resilient infrastructure",
+  "definition": "How climate change reshapes disaster risk, and the adaptation and resilience tools used in India and internationally.",
+  "subconcepts": [
+   "Climate-induced hazard trends",
+   "Adaptation vs mitigation",
+   "Coastal and sea-level risk; coastal regulation",
+   "Sendai Framework priorities",
+   "Coalition for Disaster Resilient Infrastructure (CDRI)",
+   "Loss and damage",
+   "Nature-based solutions (mangroves, wetlands)",
+   "Climate-resilient agriculture and housing",
+   "Vulnerability and risk assessments"
+  ],
+  "distinctions": [
+   "Adaptation vs mitigation",
+   "Resilience vs preparedness"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Terms and international frameworks.",
+  "mains_focus": "Argue for integrating DRR into development planning.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-15",
+   "S-GS3-10"
+  ],
+  "keywords": [
+   "\\bresilien",
+   "adaptation",
+   "Sendai",
+   "\\bCDRI\\b|Disaster Resilient Infrastructure",
+   "loss and damage",
+   "sea[- ]level",
+   "nature-based",
+   "climate[- ](risk|resilient)",
+   "coastal (regulation|zone)"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MOEF",
+   "R-UN"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-climate-change-ghg"
+  ],
+  "related": [
+   "disaster-hydro-meteorological-disasters"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "disaster-relief-recovery-financing",
+  "subject": "disaster",
+  "group": "C",
+  "title": "Relief, rehabilitation and disaster financing",
+  "definition": "Institutions, funds and practices for response, recovery and rebuilding.",
+  "subconcepts": [
+   "NDRF and SDRF; National and State Disaster Mitigation Funds",
+   "Role of the armed forces and civil defence",
+   "Finance Commission allocation for disasters",
+   "Disaster insurance and risk transfer",
+   "Build back better and rehabilitation",
+   "Role of NGOs, volunteers and communities",
+   "Incident response system and command",
+   "Humanitarian assistance and international aid",
+   "Psychosocial care and gender-sensitive relief"
+  ],
+  "distinctions": [
+   "Relief vs rehabilitation vs reconstruction",
+   "NDRF (force) vs NDRF (fund)"
+  ],
+  "prerequisites": [
+   "disaster-disaster-management-framework"
+  ],
+  "foundation_focus": "Bodies, funds and sequence.",
+  "mains_focus": "Evaluate federal financing and coordination in major disasters.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-15"
+  ],
+  "keywords": [
+   "\\bNDRF\\b|\\bSDRF\\b|State Disaster Response",
+   "relief|rehabilitation",
+   "build back better",
+   "civil defence",
+   "disaster (insurance|financing|fund)",
+   "Finance Commission.*disaster",
+   "humanitarian",
+   "incident response"
+  ],
+  "resource_ids": [
+   "R-NDMA",
+   "R-MHA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-finance-commission-fiscal-federalism"
+  ],
+  "related": [
+   "disaster-disaster-management-framework"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-terrorism-counter-terrorism",
+  "subject": "security",
+  "group": "A",
+  "title": "Terrorism and counter-terrorism architecture",
+  "definition": "Forms of terrorism India faces, the legal and institutional counter-terror framework, and global cooperation.",
+  "subconcepts": [
+   "Cross-border and domestic terrorism; lone-wolf and online radicalisation",
+   "Major attacks and lessons (26/11)",
+   "UAPA and counter-terror law debates",
+   "NIA, NSG, NATGRID, Multi-Agency Centre",
+   "Terror financing and FATF",
+   "Global bodies and conventions",
+   "Deradicalisation approaches",
+   "Human rights safeguards"
+  ],
+  "distinctions": [
+   "Terrorism vs insurgency",
+   "Preventive detention vs criminal prosecution"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Laws, bodies and landmark events.",
+  "mains_focus": "Balance security measures with civil liberties.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS3-17",
+   "S-GS3-16"
+  ],
+  "keywords": [
+   "terroris",
+   "\\bUAPA\\b|Unlawful Activities",
+   "\\bNIA\\b|National Investigation",
+   "\\bNSG\\b|National Security Guard",
+   "\\bNATGRID\\b|Multi-Agency Centre",
+   "26/11|Mumbai attack",
+   "lone[- ]wolf",
+   "counter[- ]terror",
+   "terror financ|\\bFATF\\b",
+   "radicali[sz]ation"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-ARC"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-fr-freedoms",
+   "ir-global-conflicts-treaties"
+  ],
+  "related": [
+   "security-external-actors-extremism",
+   "security-security-forces-agencies"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-jk-northeast-security",
+  "subject": "security",
+  "group": "A",
+  "title": "Jammu & Kashmir and North-East security challenges",
+  "definition": "Historical roots, groups and policy responses in India's two main insurgency-affected regions.",
+  "subconcepts": [
+   "Jammu & Kashmir: accession, conflict, Article 370 and 2019 changes",
+   "Cross-border infiltration and ceasefire",
+   "North-East: ethnic aspirations, migration, insurgent groups",
+   "Peace accords and Naga talks",
+   "AFSPA: provisions and criticism",
+   "Border and connectivity development",
+   "Role of Assam Rifles and Army",
+   "Political and developmental responses"
+  ],
+  "distinctions": [
+   "Insurgency vs separatism",
+   "Disturbed Area vs Special Powers"
+  ],
+  "prerequisites": [
+   "security-external-actors-extremism"
+  ],
+  "foundation_focus": "Timeline, groups and accords.",
+  "mains_focus": "Assess whether security-led or dialogue-led approaches work.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS3-16",
+   "S-GS3-17"
+  ],
+  "keywords": [
+   "Jammu (and|&) Kashmir|\\bJ&K\\b|Kashmir",
+   "Article 370",
+   "North[- ]East",
+   "Nagaland|Naga\\b|Manipur|Mizoram|Assam|ULFA|NSCN",
+   "AFSPA|Armed Forces \\(Special",
+   "infiltration",
+   "peace (accord|talks|agreement)",
+   "Bodo|Bru\\b|Mizo Accord"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-ARC"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-special-provisions-schedules"
+  ],
+  "related": [
+   "security-external-actors-extremism"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-maritime-security-indian-ocean",
+  "subject": "security",
+  "group": "B",
+  "title": "Maritime and coastal security in the Indian Ocean",
+  "definition": "India's maritime interests, coastal security architecture and Indian Ocean strategy.",
+  "subconcepts": [
+   "Coastal security after 26/11: Coastal Police, Coast Guard, Navy",
+   "Piracy and the Gulf of Aden",
+   "Indian Ocean Region geopolitics and SLOCs",
+   "Blue economy and EEZ",
+   "SAGAR/MAHASAGAR outlook and Indo-Pacific",
+   "Maritime domain awareness and information fusion",
+   "Island territories' strategic value",
+   "UNCLOS dispute settlement"
+  ],
+  "distinctions": [
+   "EEZ vs territorial waters",
+   "Coast Guard vs Navy mandates"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Concepts and agencies.",
+  "mains_focus": "Link maritime power to trade, energy and strategic competition.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-19",
+   "S-GS3-20"
+  ],
+  "keywords": [
+   "coastal security|coastal police",
+   "Coast Guard",
+   "piracy",
+   "Indian Ocean|\\bIOR\\b",
+   "\\bEEZ\\b|exclusive economic zone",
+   "blue economy",
+   "UNCLOS",
+   "sea lanes?|\\bSLOC",
+   "Andaman|Lakshadweep|island territor"
+  ],
+  "resource_ids": [
+   "R-MHA",
+   "R-MEA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "ir-india-neighbourhood"
+  ],
+  "related": [
+   "security-border-management-organised-crime"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "security-defence-reforms-procurement",
+  "subject": "security",
+  "group": "C",
+  "title": "Defence reforms, indigenisation and procurement",
+  "definition": "Higher defence organisation, procurement policy and the push for self-reliance.",
+  "subconcepts": [
+   "Chief of Defence Staff and Department of Military Affairs",
+   "Theatre commands",
+   "Defence Acquisition Council and Procurement Procedure",
+   "Make in India in defence; positive indigenisation lists",
+   "FDI in defence and offsets",
+   "iDEX and start-ups; defence corridors",
+   "Agnipath and manpower reforms",
+   "Defence budget and pensions"
+  ],
+  "distinctions": [
+   "Procurement vs acquisition",
+   "Joint vs integrated commands"
+  ],
+  "prerequisites": [
+   "security-security-forces-agencies"
+  ],
+  "foundation_focus": "Bodies, policies and schemes.",
+  "mains_focus": "Evaluate reform trade-offs: cost, jointness and indigenisation.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-20",
+   "S-GS3-12"
+  ],
+  "keywords": [
+   "Chief of Defence Staff|\\bCDS\\b",
+   "Department of Military Affairs",
+   "theatre command",
+   "Defence Acquisition|procurement",
+   "indigenisation|Atmanirbhar",
+   "defence corridor|iDEX",
+   "Agnipath|Agniveer",
+   "offset",
+   "defence budget"
+  ],
+  "resource_ids": [
+   "R-DRDO",
+   "R-MHA",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-defence-technology"
+  ],
+  "related": [
+   "security-security-forces-agencies"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "society-tribal-society-issues",
+  "subject": "society",
+  "group": "A",
+  "title": "Tribal society, rights and development",
+  "definition": "Characteristics of India's tribal communities, constitutional protection and recurring issues.",
+  "subconcepts": [
+   "Scheduled Tribes and PVTGs",
+   "Fifth and Sixth Schedules; PESA; Forest Rights Act",
+   "Displacement and land alienation",
+   "Tribal health, education and livelihood",
+   "Tribal movements and identity",
+   "Assimilation, isolation and integration debates",
+   "Development schemes and Tribal Sub-Plan",
+   "Culture and language preservation"
+  ],
+  "distinctions": [
+   "Scheduled Tribe vs PVTG",
+   "Assimilation vs integration"
+  ],
+  "prerequisites": [
+   "society-indian-society-diversity"
+  ],
+  "foundation_focus": "Provisions and terms.",
+  "mains_focus": "Weigh development, displacement and autonomy.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-06",
+   "S-GS1-09"
+  ],
+  "keywords": [
+   "tribe|tribal",
+   "\\bPVTG|Particularly Vulnerable",
+   "Forest Rights Act|\\bFRA\\b",
+   "\\bPESA\\b",
+   "Fifth Schedule|Sixth Schedule",
+   "displacement",
+   "Adivasi",
+   "Scheduled Tribe",
+   "land alienation"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-MSJE"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-special-provisions-schedules",
+   "governance-vulnerable-sections-welfare"
+  ],
+  "related": [
+   "society-indian-society-diversity"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "society-religion-secularism-communalism",
+  "subject": "society",
+  "group": "A",
+  "title": "Religion, secularism and communalism",
+  "definition": "Religious diversity, the Indian model of secularism and the causes and effects of communalism.",
+  "subconcepts": [
+   "Religious composition and diversity",
+   "Indian secularism: equal respect vs strict separation",
+   "Communalism: causes, history, consequences",
+   "Role of media and politics in communal tension",
+   "Fundamentalism and radicalisation",
+   "Interfaith harmony and syncretic traditions",
+   "Legal protection: IPC provisions, Places of Worship Act",
+   "Role of education and civil society"
+  ],
+  "distinctions": [
+   "Secularism (Indian) vs Western",
+   "Communalism vs fundamentalism"
+  ],
+  "prerequisites": [
+   "society-indian-society-diversity"
+  ],
+  "foundation_focus": "Definitions and models.",
+  "mains_focus": "Evaluate secularism and remedies for communal polarisation.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-06",
+   "S-GS1-09"
+  ],
+  "keywords": [
+   "secular",
+   "communal",
+   "fundamentalism",
+   "religious (diversity|minorit|harmony|freedom)",
+   "Places of Worship",
+   "interfaith|syncretic",
+   "religion"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-fr-exploitation-religion-cultural"
+  ],
+  "related": [
+   "society-indian-society-diversity"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "society-family-marriage-changes",
+  "subject": "society",
+  "group": "A",
+  "title": "Family, marriage and kinship: continuity and change",
+  "definition": "How family forms, marriage patterns and kinship are changing in India.",
+  "subconcepts": [
+   "Joint, nuclear and extended families",
+   "Changes in marriage age, choice and divorce",
+   "Inter-caste and inter-faith marriage",
+   "Live-in relationships and the law",
+   "Child marriage and dowry",
+   "Ageing and intergenerational support",
+   "Urbanisation, migration and family",
+   "Domestic violence and women's status"
+  ],
+  "distinctions": [
+   "Joint vs nuclear family",
+   "Endogamy vs exogamy"
+  ],
+  "prerequisites": [
+   "society-indian-society-diversity"
+  ],
+  "foundation_focus": "Types and terms.",
+  "mains_focus": "Explain drivers of change and policy implications.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-06",
+   "S-GS1-07"
+  ],
+  "keywords": [
+   "joint family|nuclear family",
+   "marriage",
+   "live-in",
+   "dowry",
+   "child marriage",
+   "divorce",
+   "family (structure|system)",
+   "kinship",
+   "inter-?caste"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-WCD"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "society-social-empowerment-women"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "society-social-movements-civil-society",
+  "subject": "society",
+  "group": "B",
+  "title": "Social movements and civil society",
+  "definition": "Major movements in post-independence India and the role of civil society.",
+  "subconcepts": [
+   "Environmental movements: Chipko, Narmada Bachao",
+   "Dalit, women's and tribal movements",
+   "Farmers' and labour movements",
+   "Anti-corruption and RTI movements",
+   "NGOs, SHGs and community organisations",
+   "Role of social media in mobilisation",
+   "Types of movements: reformist, revolutionary",
+   "Impact on law and policy"
+  ],
+  "distinctions": [
+   "Reform vs revolutionary movement",
+   "NGO vs social movement"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Names, causes and outcomes.",
+  "mains_focus": "Assess how movements have shaped policy and democracy.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-08",
+   "S-GS1-09"
+  ],
+  "keywords": [
+   "Chipko",
+   "Narmada",
+   "social movement",
+   "civil society",
+   "farmers.? (protest|movement)",
+   "Dalit (movement|Panthers)",
+   "women.s movement",
+   "\\bNGO",
+   "RTI movement",
+   "mass movement"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-policy-design-implementation"
+  ],
+  "related": [
+   "society-globalisation-social-change"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "society-regionalism-language-integration",
+  "subject": "society",
+  "group": "A",
+  "title": "Regionalism, language and national integration",
+  "definition": "Roots and effects of regional identity and linguistic politics, and the tools of national integration.",
+  "subconcepts": [
+   "Linguistic reorganisation of States",
+   "Three-language formula and language politics",
+   "Regionalism and sons-of-the-soil politics",
+   "Demand for new States",
+   "Inter-State disputes",
+   "Centre–State friction and federal balance",
+   "Role of National Integration Council",
+   "Cultural pluralism and shared symbols"
+  ],
+  "distinctions": [
+   "Regionalism vs separatism",
+   "Language vs dialect"
+  ],
+  "prerequisites": [
+   "society-indian-society-diversity"
+  ],
+  "foundation_focus": "Events and provisions.",
+  "mains_focus": "Argue for managing diversity through federal accommodation.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-06",
+   "S-GS1-09"
+  ],
+  "keywords": [
+   "regionalism",
+   "linguistic (reorgani|State|diversity|minorit)",
+   "three[- ]language",
+   "sons of the soil",
+   "new State|separate State|statehood",
+   "national integration",
+   "Hindi|official language",
+   "States Reorganisation"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-federalism-centre-state"
+  ],
+  "related": [
+   "society-indian-society-diversity",
+   "society-religion-secularism-communalism"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "ir-india-china-relations",
+  "subject": "ir",
+  "group": "B",
+  "title": "India–China relations",
+  "definition": "History, border dispute, trade and strategic competition between India and China.",
+  "subconcepts": [
+   "1962 war, LAC and boundary disputes",
+   "Doklam and Galwan",
+   "Trade deficit and supply-chain dependence",
+   "Belt and Road, CPEC and the Indian Ocean",
+   "Tibet, Brahmaputra and water issues",
+   "China–Pakistan axis",
+   "Engagement mechanisms and border talks",
+   "Quad and balancing"
+  ],
+  "distinctions": [
+   "LAC vs LoC",
+   "Strategic competition vs cooperation"
+  ],
+  "prerequisites": [
+   "ir-india-neighbourhood"
+  ],
+  "foundation_focus": "Timeline, issues and agreements.",
+  "mains_focus": "Assess India's mix of deterrence, diplomacy and economic de-risking.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS2-17",
+   "S-GS2-19"
+  ],
+  "keywords": [
+   "\\bChina\\b|Chinese",
+   "\\bLAC\\b|Line of Actual Control",
+   "Doklam|Galwan|Arunachal",
+   "Belt and Road|\\bBRI\\b|CPEC",
+   "Tibet",
+   "trade deficit",
+   "Panchsheel",
+   "String of Pearls"
+  ],
+  "resource_ids": [
+   "R-MEA",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "ir-global-groupings-agreements"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "ir-india-us-relations",
+  "subject": "ir",
+  "group": "B",
+  "title": "India–US relations",
+  "definition": "Evolution of strategic, defence, trade and technology ties between India and the United States.",
+  "subconcepts": [
+   "Cold War distance to strategic partnership",
+   "Civil nuclear deal",
+   "Defence agreements (LEMOA, COMCASA, BECA)",
+   "Trade, tariffs and technology (iCET)",
+   "Quad and Indo-Pacific",
+   "Diaspora, visas and education",
+   "Divergences: Russia, human rights",
+   "Counter-terror cooperation"
+  ],
+  "distinctions": [
+   "Strategic partner vs ally",
+   "Strategic autonomy vs alignment"
+  ],
+  "prerequisites": [
+   "ir-global-groupings-agreements"
+  ],
+  "foundation_focus": "Agreements and milestones.",
+  "mains_focus": "Evaluate convergence, divergence and hedging.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-19",
+   "S-GS2-17"
+  ],
+  "keywords": [
+   "United States|\\bUSA?\\b(?! of)|American",
+   "civil nuclear",
+   "\\bLEMOA\\b|COMCASA|\\bBECA\\b|foundational (agreement|pact)",
+   "\\bQuad\\b",
+   "\\biCET\\b",
+   "H-1B|visa",
+   "Indo-Pacific",
+   "Strategic Trade Authori"
+  ],
+  "resource_ids": [
+   "R-MEA",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "ir-india-china-relations"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "ir-india-russia-central-asia",
+  "subject": "ir",
+  "group": "B",
+  "title": "India–Russia and Central Asia",
+  "definition": "Defence, energy and strategic ties with Russia, and India's Central Asia outreach.",
+  "subconcepts": [
+   "Historic defence and nuclear partnership",
+   "Oil and energy trade; sanctions context",
+   "Connectivity: INSTC, Chabahar",
+   "Central Asia: Connect Central Asia policy",
+   "SCO and Eurasian groupings",
+   "Defence diversification",
+   "Arctic and Far East cooperation",
+   "Multi-alignment and the Ukraine war"
+  ],
+  "distinctions": [
+   "INSTC vs Belt and Road"
+  ],
+  "prerequisites": [
+   "ir-global-groupings-agreements"
+  ],
+  "foundation_focus": "Agreements and projects.",
+  "mains_focus": "Weigh dependence against diversification.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-19",
+   "S-GS2-17"
+  ],
+  "keywords": [
+   "Russia|Soviet",
+   "Central Asia",
+   "\\bINSTC\\b|North[- ]South Transport",
+   "Chabahar",
+   "\\bS-400\\b",
+   "Eurasian",
+   "Ukraine",
+   "Kazakhstan|Uzbekistan|Turkmenistan|Tajikistan|Kyrgyz"
+  ],
+  "resource_ids": [
+   "R-MEA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "ir-india-china-relations"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "ir-india-west-asia",
+  "subject": "ir",
+  "group": "B",
+  "title": "India and West Asia",
+  "definition": "Energy, diaspora, trade and strategic ties across the Gulf and wider West Asia.",
+  "subconcepts": [
+   "Energy security and Gulf oil/gas",
+   "Diaspora and remittances",
+   "Look West; Gulf Cooperation Council ties",
+   "Israel, Iran and Palestine balancing",
+   "I2U2 and India-Middle East-Europe corridor",
+   "Chabahar and connectivity",
+   "Evacuation operations",
+   "Security and counter-terror cooperation"
+  ],
+  "distinctions": [
+   "Look West vs Link West",
+   "Two-state solution"
+  ],
+  "prerequisites": [
+   "ir-global-groupings-agreements"
+  ],
+  "foundation_focus": "Countries, corridors and issues.",
+  "mains_focus": "Assess India's balancing strategy.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-19",
+   "S-GS2-18"
+  ],
+  "keywords": [
+   "West Asia|Middle East",
+   "Gulf|\\bGCC\\b|Saudi|\\bUAE\\b|Emirates|Qatar|Oman|Kuwait|Bahrain",
+   "\\bIran\\b|Israel|Palestine",
+   "\\bI2U2\\b|\\bIMEC\\b|Middle East-Europe",
+   "remittance",
+   "energy security"
+  ],
+  "resource_ids": [
+   "R-MEA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-external-sector-bop"
+  ],
+  "related": [
+   "ir-diaspora-foreign-policy-effects"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "ir-india-africa-global-south",
+  "subject": "ir",
+  "group": "B",
+  "title": "India, Africa, Latin America and the Global South",
+  "definition": "Development partnership, trade and diplomacy with Africa, Latin America and island regions.",
+  "subconcepts": [
+   "India-Africa Forum Summit and African Union membership",
+   "Lines of Credit and capacity building",
+   "Energy and resource ties",
+   "Pan-African e-Network and digital cooperation",
+   "Latin America outreach",
+   "Pacific Islands engagement",
+   "Voice of Global South Summit",
+   "Competition with China's footprint"
+  ],
+  "distinctions": [
+   "Development partnership vs aid"
+  ],
+  "prerequisites": [
+   "ir-global-groupings-agreements"
+  ],
+  "foundation_focus": "Initiatives and partners.",
+  "mains_focus": "Evaluate India's soft-power-led approach.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS2-18",
+   "S-GS2-19"
+  ],
+  "keywords": [
+   "Africa",
+   "Latin America",
+   "Global South",
+   "African Union",
+   "Lines? of Credit",
+   "Pacific Island",
+   "capacity building",
+   "development partnership"
+  ],
+  "resource_ids": [
+   "R-MEA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "ir-global-groupings-agreements"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-rural-development-schemes",
+  "subject": "governance",
+  "group": "C",
+  "title": "Rural development schemes and livelihood missions",
+  "definition": "Major programmes for rural employment, housing, roads and livelihoods, and how they are delivered.",
+  "subconcepts": [
+   "MGNREGA: demand-driven employment",
+   "NRLM and self-help groups",
+   "PMAY-G housing; PMGSY roads",
+   "Deendayal Upadhyaya Grameen Kaushalya Yojana",
+   "Social security pensions",
+   "Panchayat role and social audit",
+   "Convergence and leakages",
+   "Evaluation and outcome issues"
+  ],
+  "distinctions": [
+   "Demand-driven vs supply-driven scheme",
+   "Centrally sponsored vs state scheme"
+  ],
+  "prerequisites": [
+   "governance-policy-design-implementation"
+  ],
+  "foundation_focus": "Scheme names and objectives.",
+  "mains_focus": "Assess design, financing and leakages.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-10",
+   "S-GS2-12"
+  ],
+  "keywords": [
+   "MGNREGA|Mahatma Gandhi National Rural",
+   "\\bNRLM\\b|National Rural Livelihoods",
+   "PMAY|Pradhan Mantri Awas",
+   "PMGSY|Gram Sadak",
+   "rural (development|employment|livelihood)",
+   "self[- ]help group",
+   "social audit"
+  ],
+  "resource_ids": [
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-human-development-poverty-employment"
+  ],
+  "related": [
+   "governance-policy-design-implementation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-food-security-pds",
+  "subject": "governance",
+  "group": "C",
+  "title": "Food security, PDS and nutrition governance",
+  "definition": "Legal entitlements, procurement and distribution systems, and nutrition programmes.",
+  "subconcepts": [
+   "National Food Security Act",
+   "Public Distribution System reforms",
+   "MSP, procurement and buffer stock",
+   "Food Corporation of India",
+   "ICDS, POSHAN and mid-day meal",
+   "One Nation One Ration Card",
+   "Malnutrition indicators",
+   "WTO and food subsidy issues"
+  ],
+  "distinctions": [
+   "Food security vs nutrition security",
+   "MSP vs procurement price"
+  ],
+  "prerequisites": [
+   "governance-policy-design-implementation"
+  ],
+  "foundation_focus": "Acts, bodies and schemes.",
+  "mains_focus": "Evaluate PDS efficiency, targeting and the cash-transfer debate.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-12",
+   "S-GS2-13",
+   "S-GS2-10"
+  ],
+  "keywords": [
+   "food security",
+   "Public Distribution System|\\bPDS\\b",
+   "National Food Security",
+   "\\bMSP\\b|minimum support price",
+   "buffer stock",
+   "Food Corporation",
+   "POSHAN|ICDS|mid-?day meal",
+   "malnutrition|hunger",
+   "ration card"
+  ],
+  "resource_ids": [
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-agriculture-rural-development"
+  ],
+  "related": [
+   "governance-social-sector-welfare"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-education-policy",
+  "subject": "governance",
+  "group": "C",
+  "title": "Education policy and governance",
+  "definition": "Structure, regulation and reform of school, higher and vocational education.",
+  "subconcepts": [
+   "Right to Education Act",
+   "National Education Policy 2020 principles",
+   "Higher education regulation and accreditation",
+   "Foundational literacy and learning outcomes",
+   "Skilling and vocational education",
+   "Digital learning and the digital divide",
+   "Private participation and fees",
+   "Teacher quality and governance"
+  ],
+  "distinctions": [
+   "Formal vs vocational education",
+   "Access vs quality"
+  ],
+  "prerequisites": [
+   "governance-social-sector-welfare"
+  ],
+  "foundation_focus": "Provisions and bodies.",
+  "mains_focus": "Evaluate implementation gaps in NEP and RTE.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-13",
+   "S-GS2-12"
+  ],
+  "keywords": [
+   "Right to Education|\\bRTE\\b",
+   "National Education Policy|\\bNEP\\b",
+   "higher education|\\bUGC\\b|\\bAICTE\\b|\\bNAAC\\b",
+   "learning outcome|foundational literacy",
+   "skill (development|India)|vocational",
+   "school education",
+   "teacher",
+   "digital (learning|education)"
+  ],
+  "resource_ids": [
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "governance-social-sector-welfare"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-health-policy",
+  "subject": "governance",
+  "group": "C",
+  "title": "Health policy and governance",
+  "definition": "Public health system design, financing, regulation and recent reforms.",
+  "subconcepts": [
+   "National Health Mission and primary care",
+   "Ayushman Bharat and health insurance",
+   "Health infrastructure and workforce gaps",
+   "Drug and device regulation",
+   "Public vs private provision",
+   "Digital Health Mission",
+   "Maternal and child health indicators",
+   "Communicable disease control programmes"
+  ],
+  "distinctions": [
+   "Public health vs medical care",
+   "Insurance vs direct provision"
+  ],
+  "prerequisites": [
+   "governance-social-sector-welfare"
+  ],
+  "foundation_focus": "Schemes and indicators.",
+  "mains_focus": "Assess access, affordability and quality.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-13"
+  ],
+  "keywords": [
+   "National Health Mission|\\bNHM\\b",
+   "Ayushman|health insurance",
+   "primary health|health infrastructure",
+   "drug regulation|Drugs and Cosmetics|\\bCDSCO\\b",
+   "Digital Health",
+   "maternal|infant mortality",
+   "public health",
+   "health (care|policy|system)"
+  ],
+  "resource_ids": [
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-health-diseases"
+  ],
+  "related": [
+   "governance-social-sector-welfare"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-civil-society-media-pressure-groups",
+  "subject": "governance",
+  "group": "A",
+  "title": "Civil society, media and pressure groups",
+  "definition": "Role of non-state stakeholders in governance: media, NGOs, interest groups and citizens.",
+  "subconcepts": [
+   "Pressure and interest groups",
+   "NGOs and accountability concerns",
+   "Media as watchdog; media ethics and regulation",
+   "Social media and governance",
+   "Citizen participation; Gram Sabha; participatory budgeting",
+   "Foreign contribution regulation",
+   "Think tanks and consultations",
+   "Role in policy feedback"
+  ],
+  "distinctions": [
+   "Pressure group vs political party",
+   "Civil society vs state"
+  ],
+  "prerequisites": [
+   "governance-policy-design-implementation"
+  ],
+  "foundation_focus": "Definitions and roles.",
+  "mains_focus": "Weigh benefits and risks of non-state actors in policy.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS2-10",
+   "S-GS2-15"
+  ],
+  "keywords": [
+   "pressure group|interest group",
+   "civil society",
+   "\\bmedia\\b",
+   "\\bNGO",
+   "social media",
+   "\\bFCRA\\b|Foreign Contribution",
+   "participatory",
+   "citizen participation"
+  ],
+  "resource_ids": [
+   "R-ARC"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "society-social-movements-civil-society"
+  ],
+  "related": [
+   "governance-transparency-e-governance-citizens-charter"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "governance-digital-public-infrastructure",
+  "subject": "governance",
+  "group": "A",
+  "title": "Digital public infrastructure and data governance",
+  "definition": "Aadhaar, UPI and other public digital platforms, and issues of privacy, inclusion and data protection.",
+  "subconcepts": [
+   "Aadhaar and its legal framework",
+   "UPI, DigiLocker, CoWIN, ONDC",
+   "India Stack concept",
+   "Data protection law and privacy judgment",
+   "Digital divide and inclusion",
+   "Cyber-security and platform risk",
+   "JAM trinity and DBT",
+   "Exporting DPI and global governance"
+  ],
+  "distinctions": [
+   "Digital public infrastructure vs private platform",
+   "Privacy vs surveillance"
+  ],
+  "prerequisites": [
+   "governance-transparency-e-governance-citizens-charter"
+  ],
+  "foundation_focus": "Platforms and laws.",
+  "mains_focus": "Evaluate inclusion, privacy and security trade-offs.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS2-15",
+   "S-GS2-10"
+  ],
+  "keywords": [
+   "Aadhaar",
+   "\\bUPI\\b|DigiLocker|CoWIN|\\bONDC\\b",
+   "India Stack",
+   "data protection|privacy",
+   "digital (divide|inclusion|public)",
+   "\\bJAM\\b|Jan Dhan",
+   "direct benefit transfer",
+   "Digital India"
+  ],
+  "resource_ids": [
+   "R-MEITY",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-information-technology-cyber",
+   "economy-financial-inclusion-digital-payments"
+  ],
+  "related": [
+   "governance-transparency-e-governance-citizens-charter"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
  }
 ]

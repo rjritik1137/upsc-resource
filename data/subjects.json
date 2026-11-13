@@ -161,6 +161,10 @@
    {
     "id": "B",
     "title": "Social sector and vulnerable sections"
+   },
+   {
+    "id": "C",
+    "title": "Sectoral governance"
    }
   ]
  },
@@ -175,6 +179,10 @@
    {
     "id": "A",
     "title": "India and the world"
+   },
+   {
+    "id": "B",
+    "title": "Major bilateral relationships"
    }
   ]
  },
@@ -277,7 +285,11 @@
    },
    {
     "id": "B",
-    "title": "Cyber and border security"
+    "title": "Cyber, border and maritime security"
+   },
+   {
+    "id": "C",
+    "title": "Defence reform"
    }
   ]
  },
@@ -292,6 +304,14 @@
    {
     "id": "A",
     "title": "Disaster management"
+   },
+   {
+    "id": "B",
+    "title": "Hazard types"
+   },
+   {
+    "id": "C",
+    "title": "Resilience, relief and recovery"
    }
   ]
  },

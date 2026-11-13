@@ -123,26 +123,26 @@ OCR (tesseract, English) was used; Hindi lines were filtered out heuristically. 
 
 ## 4. Polity pilot
 
-- Concepts authored: **157** (status `draft-unreviewed`: written by the assistant from general knowledge, not checked against textbooks).
-- Proposed PYQ↔concept links: **5640** (all `proposed`; keyword/label rules; not human reviewed; precision unmeasured).
-- Concepts with no PYQ link in the supplied data: ['polity-upsc-spsc'] (they still link to syllabus points).
+- Concepts authored: **182** (status `draft-unreviewed`: written by the assistant from general knowledge, not checked against textbooks).
+- Proposed PYQ↔concept links: **5804** (all `proposed`; keyword/label rules; not human reviewed; precision unmeasured).
+- Concepts with no PYQ link in the supplied data: ['polity-upsc-spsc', 'disaster-man-made-disasters'] (they still link to syllabus points).
 
 | Subject | Status | Concepts | Proposed PYQ links | Prelims Qs of that label with no link |
 |---|---|---|---|---|
-| Polity & Constitution | authored | 51 | 889 | 4 |
-| History & Culture | authored | 26 | 1007 | 36 |
-| Geography | authored | 14 | 782 | 14 |
-| Indian Society | authored | 4 | 117 | 0 |
-| Governance & Social Justice | authored | 5 | 92 | 0 |
-| International Relations | authored | 5 | 244 | 0 |
-| Economy & Agriculture | authored | 15 | 919 | 2 |
+| Polity & Constitution | authored | 51 | 888 | 4 |
+| History & Culture | authored | 26 | 1006 | 36 |
+| Geography | authored | 14 | 776 | 14 |
+| Indian Society | authored | 9 | 138 | 0 |
+| Governance & Social Justice | authored | 11 | 135 | 0 |
+| International Relations | authored | 10 | 317 | 0 |
+| Economy & Agriculture | authored | 15 | 916 | 2 |
 | Environment & Ecology | authored | 12 | 484 | 1 |
-| Science & Technology | authored | 11 | 847 | 22 |
-| Security | authored | 4 | 44 | 0 |
-| Disaster Management | authored | 1 | 30 | 0 |
-| Ethics & GS-IV case studies | authored | 9 | 185 | 0 |
+| Science & Technology | authored | 11 | 845 | 22 |
+| Security | authored | 8 | 67 | 0 |
+| Disaster Management | authored | 6 | 52 | 0 |
+| Ethics & GS-IV case studies | authored | 9 | 180 | 0 |
 
-- Mains questions matching no concept yet (subjects not built): {'mains-GS-1': 50, 'mains-GS-2': 32, 'mains-GS-3': 26, 'mains-GS-4': 2}.
+- Mains questions matching no concept yet (subjects not built): {'mains-GS-1': 48, 'mains-GS-2': 22, 'mains-GS-3': 24, 'mains-GS-4': 2}.
 - Resources cataloged: 55 (URLs HTTP-checked on 2026-11-13; NCERT chapter locations and book chapters/editions are **not verified** and are not given).
 - Cross-subject stub targets (not authored yet): 0.
 - Syllabus items extracted from the supplied syllabus.pdf: 68.
