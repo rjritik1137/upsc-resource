@@ -108,13 +108,18 @@ TOPIC_FALLBACK = {
     "Vedic Period": "history-indus-vedic-ancient-foundations", "Indus Valley Civilization": "history-indus-vedic-ancient-foundations",
     "Buddhism & Jainism": "history-buddhism-jainism-mahajanapadas", "Mahajanapadas & Early Kingdoms": "history-buddhism-jainism-mahajanapadas",
     "Post-Gupta & Early Medieval Dynasties": "history-early-medieval-regional-kingdoms", "Delhi Sultanate": "history-delhi-sultanate",
-    "Mughal Empire": "history-mughal-empire", "Maratha Empire": "history-mughal-empire", "Vijayanagara Empire": "history-bhakti-sufi-vijayanagara",
+    "Mughal Empire": "history-mughal-empire", "Maratha Empire": "history-maratha-sikh-regional-powers", "Vijayanagara Empire": "history-bhakti-sufi-vijayanagara",
     "Bhakti Movement": "history-bhakti-sufi-vijayanagara", "Sufism": "history-bhakti-sufi-vijayanagara",
     "Architecture & World Heritage": "history-art-architecture-sculpture", "Painting & Visual Arts": "history-art-architecture-sculpture",
     "Sculpture & Iconography": "history-art-architecture-sculpture", "Music": "history-performing-arts-music-dance",
     "Classical Dance Forms": "history-performing-arts-music-dance", "Theatre & Cinema": "history-performing-arts-music-dance",
     "Literature & Languages": "history-literature-languages-philosophy", "Philosophy & Religion": "history-literature-languages-philosophy",
     "Cultural Institutions & Awards": "history-heritage-institutions-crafts", "Festivals, Crafts & Folk Traditions": "history-heritage-institutions-crafts",
+    "Trade & Economy": "history-ancient-economy-society-science", "Society, Law & Administration": "history-ancient-economy-society-science",
+    "Science & Technology": "history-ancient-economy-society-science", "Archaeology & Epigraphy": "history-ancient-sources-archaeology",
+    "Foreign Travellers & Accounts": "history-ancient-sources-archaeology", "South Indian Dynasties": "history-south-indian-dynasties-chola",
+    "Medieval Administration & Socio-Economic Institutions": "history-mughal-administration-economy", "Medieval Culture & Historiography": "history-medieval-culture-historiography",
+    "Regional Kingdoms & Frontier States": "history-maratha-sikh-regional-powers", "European Powers & Early Colonial Contacts": "history-medieval-economy-society-trade",
     # science & technology
     "Physics": "scitech-physics-basics", "Chemistry": "scitech-chemistry-basics", "Chemistry – Radioactivity": "scitech-nuclear-energy",
     "Biology": "scitech-biology-basics", "Health & Diseases": "scitech-health-diseases", "Biotechnology & Genetics": "scitech-biotechnology-genetics",
@@ -138,7 +143,7 @@ GENERIC = {r"salient features", r"Parliament", r"Supreme Court", r"sovereign", r
            r"employment", r"poverty", r"agricultur", r"farmer", r"subsid", r"plastic", r"solar", r"\bbond", r"rupee", r"inflation", r"coal", r"Ghats", r"Himalaya", r"biodiversity",
            r"climate change", r"pollut", r"peasant", r"Moderate", r"Extremist", r"revolutionar", r"famine", r"1857", r"1935", r"estuar", r"coral", r"mangrove", r"tide", r"\btide",
            r"conflict|war\b", r"treaty", r"\bscheme", r"\bwomen", r"\bgender", r"\beducation", r"\bdisease", r"terroris", r"extremis", r"\bcyber", r"festival", r"foreign policy",
-           r"transparency", r"accountability", r"stakeholder", r"\bscientist", r"\bsatellite", r"\bmissile", r"\bcell\b", r"\bhazard", r"\bdisaster", r"\bstupa|vihara", r"urbani[sz]ation", r"\bmarriage|family", r"\bChina\b|Chinese", r"Russia|Soviet", r"\bAfrica", r"United States|\bUSA?\b", r"Gulf|\bGCC\b|Saudi", r"\bresilien", r"\bmedia\b", r"relief|rehabilitation", r"humanitarian", r"tribe|tribal", r"Kashmir", r"\bNGO", r"religion", r"religious", r"\bethic", r"moral", r"\bvalues?\b", r"civil servant", r"public administration", r"stakeholder"}
+           r"transparency", r"accountability", r"stakeholder", r"\bscientist", r"\bsatellite", r"\bmissile", r"\bcell\b", r"\bhazard", r"\bdisaster", r"\bstupa|vihara", r"urbani[sz]ation", r"\bmarriage|family", r"\bChina\b|Chinese", r"Russia|Soviet", r"\bAfrica", r"United States|\bUSA?\b", r"Gulf|\bGCC\b|Saudi", r"\bresilien", r"\bmedia\b", r"relief|rehabilitation", r"humanitarian", r"tribe|tribal", r"Kashmir", r"\bNGO", r"religion", r"religious", r"urban (centre|centers|life)|\btown", r"crafts|artisan", r"slavery", r"\bcaste", r"Nehru", r"trade route", r"\bethic", r"moral", r"\bvalues?\b", r"civil servant", r"public administration", r"stakeholder"}
 pats = {sid: [(c["id"], [re.compile(k, re.I) for k in c["keywords"]], c["keywords"]) for c in cs] for sid, cs in by_subj.items()}
 links, unclassified = [], collections.defaultdict(list)
 MAXC = 3

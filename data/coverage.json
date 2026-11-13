@@ -572,12 +572,12 @@
   ]
  },
  "concepts": {
-  "count": 182,
+  "count": 192,
   "without_pyq_link": [
    "polity-upsc-spsc",
    "disaster-man-made-disasters"
   ],
-  "pyq_links": 5804,
+  "pyq_links": 5996,
   "all_links_proposed": true,
   "by_subject": {
    "polity": {
@@ -590,22 +590,22 @@
    "history": {
     "title": "History & Culture",
     "status": "authored",
-    "concepts": 26,
-    "pyq_links": 1006,
-    "prelims_unlinked": 36
+    "concepts": 36,
+    "pyq_links": 1201,
+    "prelims_unlinked": 9
    },
    "geography": {
     "title": "Geography",
     "status": "authored",
     "concepts": 14,
-    "pyq_links": 776,
+    "pyq_links": 775,
     "prelims_unlinked": 14
    },
    "society": {
     "title": "Indian Society",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 138,
+    "pyq_links": 137,
     "prelims_unlinked": 0
    },
    "governance": {
@@ -626,7 +626,7 @@
     "title": "Economy & Agriculture",
     "status": "authored",
     "concepts": 15,
-    "pyq_links": 916,
+    "pyq_links": 915,
     "prelims_unlinked": 2
    },
    "environment": {
@@ -666,7 +666,7 @@
    }
   },
   "mains_unmatched": {
-   "mains-GS-1": 48,
+   "mains-GS-1": 44,
    "mains-GS-2": 22,
    "mains-GS-3": 24,
    "mains-GS-4": 2

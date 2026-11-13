@@ -7,6 +7,7 @@ import author_subjects as S
 import author_subjects2 as S2
 import author_subjects3 as S3
 import author_subjects4 as S4
+import author_subjects5 as S5
 
 S.STUB_RESOLVE.update({
     'xs-governance-rti': 'governance-transparency-e-governance-citizens-charter',

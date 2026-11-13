@@ -9869,5 +9869,539 @@
   ],
   "review_status": "draft-unreviewed",
   "confidence": "medium"
+ },
+ {
+  "id": "history-ancient-sources-archaeology",
+  "subject": "history",
+  "group": "E",
+  "title": "Sources of ancient history: archaeology, epigraphy, coins and accounts",
+  "definition": "How ancient Indian history is reconstructed: material remains, inscriptions, coins, literature and foreign accounts.",
+  "subconcepts": [
+   "Archaeological methods and dating (stratigraphy, radiocarbon)",
+   "Inscriptions: Ashokan edicts, Allahabad Pillar, Hathigumpha, land grants",
+   "Coins: punch-marked, Indo-Greek, Kushana, Gupta",
+   "Literary sources: Vedic, epic, Buddhist, Jain, Sangam, Puranic",
+   "Foreign accounts: Megasthenes, Pliny, Fa-Hien, Hiuen Tsang, Al-Biruni",
+   "Scripts and their decipherment (Brahmi, Kharosthi; James Prinsep)",
+   "Monuments and sites",
+   "Limits and biases of sources"
+  ],
+  "distinctions": [
+   "Primary vs secondary source",
+   "Epigraphy vs numismatics"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Source types with one example each.",
+  "mains_focus": "Assess what each source can and cannot tell historians.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "epigraph|inscription",
+   "numismat|\\bcoins?\\b|punch[- ]marked",
+   "archaeolog",
+   "Prinsep|decipher",
+   "Allahabad (Pillar|Prashasti)|Hathigumpha|Junagadh|Rudradaman",
+   "foreign (traveller|account)",
+   "Megasthenes|Fa[- ]?Hien|Hiuen|Xuanzang|Pliny|Periplus",
+   "radiocarbon|stratigraph",
+   "literary source"
+  ],
+  "resource_ids": [
+   "R-ASI",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-indus-vedic-ancient-foundations",
+   "history-mauryan-gupta-empires"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-sangam-south-india",
+  "subject": "history",
+  "group": "E",
+  "title": "Sangam age and early South India",
+  "definition": "Early historic Tamilakam: Sangam literature, the Chera, Chola and Pandya kingdoms, trade and society.",
+  "subconcepts": [
+   "Sangam literature: Tolkappiyam, Ettuttokai, Pattuppattu, Silappadikaram, Manimekalai",
+   "Chera, Chola and Pandya kingdoms",
+   "Roman trade and port towns (Muziris, Arikamedu)",
+   "Tinai: landscape-based society",
+   "Kings, chieftains and warrior culture",
+   "Role of women poets",
+   "Megalithic background",
+   "Religion: early Tamil gods, Buddhism, Jainism"
+  ],
+  "distinctions": [
+   "Sangam vs Gupta age",
+   "Tinai vs varna"
+  ],
+  "prerequisites": [
+   "history-indus-vedic-ancient-foundations"
+  ],
+  "foundation_focus": "Texts, kingdoms and trade centres.",
+  "mains_focus": "Link Roman trade to economy and urbanisation in the south.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "Sangam",
+   "Tolkappiyam|Silappadikaram|Manimekalai|Ettuttokai|Pattuppattu|Tirukkural",
+   "Chera|Pandya|Early Chola",
+   "Muziris|Arikamedu|Roman trade|Yavana",
+   "Tamilakam|Tamil\\b",
+   "tinai",
+   "Karikala|Senguttuvan"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-ASI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-mauryan-gupta-empires",
+   "history-early-medieval-regional-kingdoms"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-post-mauryan-foreign-rule",
+  "subject": "history",
+  "group": "E",
+  "title": "Post-Mauryan states and foreign rule",
+  "definition": "Successor states and the Indo-Greeks, Shakas, Parthians and Kushanas between the Mauryas and the Guptas.",
+  "subconcepts": [
+   "Sungas, Kanvas, Satavahanas",
+   "Indo-Greeks and the Gandhara region",
+   "Shakas and Parthians",
+   "Kushanas: Kanishka, Silk Route trade",
+   "Gold coinage and trade with Rome",
+   "Gandhara and Mathura art",
+   "Mahayana Buddhism's development",
+   "Society: foreigners' integration into varna order"
+  ],
+  "distinctions": [
+   "Indo-Greeks vs Kushanas",
+   "Gandhara vs Mathura school"
+  ],
+  "prerequisites": [
+   "history-mauryan-gupta-empires"
+  ],
+  "foundation_focus": "Dynasties, rulers and contributions.",
+  "mains_focus": "Explain cultural exchange along trade routes.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "Indo-Greek|Bactrian|Menander|Milinda",
+   "Shaka|Saka\\b|Parthian|Pahlava",
+   "Kushan|Kanishka",
+   "Satavahana|Gautamiputra",
+   "Silk Route|Silk Road",
+   "Gandhara",
+   "Sunga|Pushyamitra|Kanva",
+   "Mahayana"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-art-architecture-sculpture"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-ancient-economy-society-science",
+  "subject": "history",
+  "group": "E",
+  "title": "Ancient economy, society, education and science",
+  "definition": "Agrarian and trade economy, social structure, education and scientific achievements of ancient India.",
+  "subconcepts": [
+   "Agriculture, land grants and revenue",
+   "Trade routes, guilds (shrenis) and ports",
+   "Urbanisation and decline of towns",
+   "Varna, jati and slavery; status of women",
+   "Education centres: Takshashila, Nalanda, Vikramashila",
+   "Mathematics and astronomy: Aryabhata, Brahmagupta, Varahamihira",
+   "Medicine: Charaka, Sushruta",
+   "Metallurgy and technology",
+   "Law and polity: Smritis, Arthashastra"
+  ],
+  "distinctions": [
+   "Shreni vs guild in medieval period",
+   "Varna vs jati"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Names, centres and contributions.",
+  "mains_focus": "Discuss continuity and change in economy and society.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "guild|shreni",
+   "Takshashila|Taxila|Nalanda|Vikramashila",
+   "Aryabhata|Brahmagupta|Varahamihira|Bhaskara",
+   "Charaka|Sushruta|Ayurved",
+   "land grant|agrahara",
+   "varna|jati",
+   "Smriti|Manusmriti|Dharmashastra",
+   "slavery|status of women",
+   "ancient (trade|economy|science)",
+   "metallurg|iron pillar"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-science-institutions-achievements"
+  ],
+  "related": [
+   "history-mauryan-gupta-empires"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-south-indian-dynasties-chola",
+  "subject": "history",
+  "group": "F",
+  "title": "Cholas, Pallavas, Chalukyas and South Indian polity",
+  "definition": "Administration, temple culture and maritime power of the major South Indian dynasties.",
+  "subconcepts": [
+   "Pallavas and Chalukyas of Badami: rivalry and art",
+   "Rashtrakutas",
+   "Imperial Cholas: Rajaraja I, Rajendra I",
+   "Chola local government: uttaramerur inscriptions, ur and sabha",
+   "Maritime expeditions and trade with Southeast Asia",
+   "Temple economy: Brihadeshwara, Gangaikondacholapuram",
+   "Bronze sculpture",
+   "Later Chalukyas, Hoysalas, Kakatiyas"
+  ],
+  "distinctions": [
+   "Chola vs Pallava temple styles",
+   "Ur vs sabha vs nagaram"
+  ],
+  "prerequisites": [
+   "history-early-medieval-regional-kingdoms"
+  ],
+  "foundation_focus": "Rulers, institutions and monuments.",
+  "mains_focus": "Assess village self-government and maritime reach.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "Chola",
+   "Rajaraja|Rajendra",
+   "Pallava|Mahabalipuram|Mamallapuram",
+   "Chalukya|Badami|Pulakeshin|Aihole|Pattadakal",
+   "Rashtrakuta",
+   "Hoysala|Kakatiya|Yadava",
+   "uttaramerur",
+   "Brihadeshwara|Gangaikonda",
+   "Southeast Asia"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-ASI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-early-medieval-regional-kingdoms",
+   "history-bhakti-sufi-vijayanagara"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-mughal-administration-economy",
+  "subject": "history",
+  "group": "F",
+  "title": "Mughal administration, revenue and economy",
+  "definition": "The Mughal imperial system: mansabdari, revenue settlements, agrarian economy, crafts and trade.",
+  "subconcepts": [
+   "Mansabdari: zat and sawar ranks",
+   "Jagirdari crisis",
+   "Land revenue: Zabt, Dahsala, Todar Mal",
+   "Provinces, subas and local officials",
+   "Agrarian relations: zamindars, peasants",
+   "Crafts, textiles and urban centres",
+   "Trade, silver inflow and European companies",
+   "Currency and banking (hundi)"
+  ],
+  "distinctions": [
+   "Zat vs sawar",
+   "Khalisa vs jagir land",
+   "Zabt vs batai"
+  ],
+  "prerequisites": [
+   "history-mughal-empire"
+  ],
+  "foundation_focus": "Terms and systems.",
+  "mains_focus": "Explain how the revenue and mansab system sustained and then strained the empire.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-P1-02"
+  ],
+  "keywords": [
+   "mansab|zat\\b|sawar",
+   "jagir|khalisa",
+   "Todar Mal|Zabt|Dahsala|batai|revenue (system|settlement)",
+   "zamindar",
+   "\\bsuba\\b|sarkar|pargana",
+   "hundi",
+   "Mughal (administration|economy|revenue)",
+   "silver",
+   "karkhana"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-SPECTRUM"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-mughal-empire",
+   "history-medieval-economy-society-trade"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-maratha-sikh-regional-powers",
+  "subject": "history",
+  "group": "F",
+  "title": "Marathas, Sikhs, Rajputs and eighteenth-century regional states",
+  "definition": "Successor and rival powers as Mughal authority weakened.",
+  "subconcepts": [
+   "Shivaji: administration, Ashtapradhan, chauth and sardeshmukhi",
+   "Peshwas and Maratha confederacy; Panipat 1761",
+   "Sikh gurus, Khalsa and Ranjit Singh",
+   "Rajput states and Mughal relations",
+   "Hyderabad, Awadh, Bengal and Mysore",
+   "Jats and other regional powers",
+   "Economy and fiscal pressures",
+   "Political fragmentation and the British entry"
+  ],
+  "distinctions": [
+   "Chauth vs sardeshmukhi",
+   "Successor states vs independent kingdoms"
+  ],
+  "prerequisites": [
+   "history-mughal-empire"
+  ],
+  "foundation_focus": "Rulers, institutions and battles.",
+  "mains_focus": "Evaluate why no successor power unified India before the British.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "Shivaji|Maratha|Peshwa|Ashtapradhan|chauth|sardeshmukhi",
+   "Panipat",
+   "Ranjit Singh|Khalsa|Sikh (gurus|empire|Misl)",
+   "Rajput",
+   "Hyderabad|Awadh|Nawab|Murshid Quli",
+   "Haider Ali|Tipu",
+   "successor state|eighteenth[- ]century",
+   "Jat\\b"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-SPECTRUM"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "history-advent-british-expansion"
+  ],
+  "related": [
+   "history-mughal-empire"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-medieval-economy-society-trade",
+  "subject": "history",
+  "group": "F",
+  "title": "Medieval economy, society, urban life and trade",
+  "definition": "Agrarian change, towns and crafts, trade routes and the effects of early European contact.",
+  "subconcepts": [
+   "Agricultural expansion, irrigation and crops",
+   "Urban centres and crafts; guilds in the south",
+   "Overland and maritime trade; Indian Ocean networks",
+   "Social structure, caste and gender",
+   "Slavery and the status of women",
+   "Currency and trade policy",
+   "Portuguese and early European contacts",
+   "Technology: paper, spinning wheel, Persian wheel"
+  ],
+  "distinctions": [
+   "Overland vs maritime trade",
+   "Rural vs urban economy"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Concepts and examples.",
+  "mains_focus": "Discuss commercialisation and its social effects.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02"
+  ],
+  "keywords": [
+   "medieval (economy|trade|society)",
+   "Indian Ocean trade|maritime trade",
+   "Portuguese|Vasco da Gama|Albuquerque",
+   "Persian wheel|spinning wheel",
+   "urban (centre|centers|life)|\\btown",
+   "crafts|artisan",
+   "\\bhundi\\b",
+   "slavery",
+   "caste",
+   "trade route"
+  ],
+  "resource_ids": [
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-mughal-administration-economy",
+   "history-delhi-sultanate"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-medieval-culture-historiography",
+  "subject": "history",
+  "group": "F",
+  "title": "Medieval culture, languages and historians",
+  "definition": "Indo-Persian culture, regional languages and literature, chroniclers and Indo-Islamic synthesis.",
+  "subconcepts": [
+   "Persian histories: Barani, Abul Fazl, Badauni, Ferishta",
+   "Urdu, Hindi and regional-language growth",
+   "Travel accounts: Ibn Battuta, Bernier, Tavernier",
+   "Music and painting traditions: Dhrupad, Mughal miniature",
+   "Architecture: Indo-Islamic synthesis",
+   "Sufi and bhakti literature",
+   "Education and madrasas",
+   "Historiographical debates"
+  ],
+  "distinctions": [
+   "Persian vs vernacular literature",
+   "Court chronicle vs travel account"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Names and works.",
+  "mains_focus": "Assess the cultural synthesis and use of sources.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-02",
+   "S-GS1-01"
+  ],
+  "keywords": [
+   "Barani|Abul Fazl|Badauni|Ferishta|Amir Khusro",
+   "Ibn Battuta|Bernier|Tavernier|Abdur Razzaq",
+   "Persian (literature|language|history)",
+   "\\bUrdu\\b",
+   "Dhrupad|miniature",
+   "chronicle|historiograph",
+   "Indo-Islamic|Indo-Persian",
+   "madrasa|Tulsidas|Malik Muhammad Jayasi"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-SINGHANIA"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "history-literature-languages-philosophy",
+   "history-art-architecture-sculpture"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "history-post-independence-consolidation",
+  "subject": "history",
+  "group": "I",
+  "title": "Post-independence consolidation and reorganisation",
+  "definition": "Integration of princely states, linguistic reorganisation and the major political and economic turning points after 1947.",
+  "subconcepts": [
+   "Integration of princely states: Junagadh, Hyderabad, Kashmir",
+   "Partition aftermath: refugees and rehabilitation",
+   "Constitution-making and first general elections",
+   "Linguistic reorganisation: States Reorganisation Commission, 1956",
+   "Language and regional movements",
+   "Planning, land reforms, Green Revolution",
+   "Wars and foreign policy: 1962, 1965, 1971",
+   "Emergency 1975–77 and the Janata experiment",
+   "Coalition era and liberalisation 1991",
+   "Movements: JP, Naxalbari, Mandal, Ayodhya"
+  ],
+  "distinctions": [
+   "Integration vs accession",
+   "States reorganisation of 1956 vs later new States"
+  ],
+  "prerequisites": [
+   "history-transfer-of-power-partition"
+  ],
+  "foundation_focus": "Chronology and major events.",
+  "mains_focus": "Assess the success of nation-building and integration.",
+  "effort_hours_editorial": 5,
+  "syllabus_ids": [
+   "S-GS1-04"
+  ],
+  "keywords": [
+   "princely State|integration of (the )?(princely|States)",
+   "Sardar Patel|V\\.?P\\.? Menon|Instrument of Accession",
+   "Junagadh|Hyderabad.*(Police|Operation)|Operation Polo",
+   "States Reorganisation|linguistic (reorgani|State|basis)|Fazl Ali",
+   "Emergency (of|in) 1975|National Emergency|Janata",
+   "Green Revolution",
+   "land reform",
+   "Mandal Commission",
+   "Naxalbari",
+   "Punjab Accord|Assam Accord|Mizo Accord",
+   "post-independence|after independence",
+   "Nehru"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-SPECTRUM"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "polity-emergency-provisions",
+   "society-regionalism-language-integration"
+  ],
+  "related": [
+   "history-transfer-of-power-partition",
+   "history-key-personalities-ideologies"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
  }
 ]
