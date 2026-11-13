@@ -1,0 +1,30 @@
+[
+ {
+  "file": "UPSC_Static_Study_Guide_Product_Requirements.pdf",
+  "type": "Product requirements",
+  "pages": "4",
+  "text_layer": "yes",
+  "handling": "read (spec)"
+ },
+ {
+  "file": "syllabus.pdf",
+  "type": "Syllabus (official extract)",
+  "pages": "5",
+  "text_layer": "yes",
+  "handling": "pdftotext \u2192 syllabus.json"
+ },
+ {
+  "file": "upsc-prelims-complete.pdf",
+  "type": "Prelims GS-I PYQs with answers (third-party compilation, UnlockIAS)",
+  "pages": "1294",
+  "text_layer": "yes",
+  "handling": "pdftotext -layout \u2192 parse_prelims.py"
+ },
+ {
+  "file": "pyq/UPSC_Mains_<2016\u20132026>_GS<1\u20134>.pdf (44 files)",
+  "type": "Mains GS papers downloaded from upsc.gov.in",
+  "pages": "4\u201316 each (284 total)",
+  "text_layer": "no (scanned images)",
+  "handling": "pdftoppm 300dpi + tesseract psm4 (psm6 fallback) \u2192 parse_mains.py"
+ }
+]

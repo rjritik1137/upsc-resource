@@ -1,0 +1,324 @@
+[
+ {
+  "id": "polity",
+  "title": "Polity & Constitution",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-II"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Foundations of the Constitution"
+   },
+   {
+    "id": "B",
+    "title": "Rights, Duties and Directives"
+   },
+   {
+    "id": "C",
+    "title": "Amendment and Basic Structure"
+   },
+   {
+    "id": "D",
+    "title": "Union Executive"
+   },
+   {
+    "id": "E",
+    "title": "Parliament"
+   },
+   {
+    "id": "F",
+    "title": "State Government"
+   },
+   {
+    "id": "G",
+    "title": "Federalism and Emergency"
+   },
+   {
+    "id": "H",
+    "title": "Judiciary and Dispute Redressal"
+   },
+   {
+    "id": "I",
+    "title": "Local Government"
+   },
+   {
+    "id": "J",
+    "title": "Constitutional and Statutory Bodies"
+   },
+   {
+    "id": "K",
+    "title": "Elections and Political Parties"
+   }
+  ]
+ },
+ {
+  "id": "history",
+  "title": "History & Culture",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-I"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Colonial consolidation"
+   },
+   {
+    "id": "B",
+    "title": "Colonial economy and society"
+   },
+   {
+    "id": "C",
+    "title": "Nationalism and the freedom struggle"
+   },
+   {
+    "id": "D",
+    "title": "Constitutional steps and independence"
+   },
+   {
+    "id": "E",
+    "title": "Ancient India"
+   },
+   {
+    "id": "F",
+    "title": "Medieval India"
+   },
+   {
+    "id": "G",
+    "title": "Art, architecture and culture"
+   },
+   {
+    "id": "H",
+    "title": "World history"
+   }
+  ]
+ },
+ {
+  "id": "geography",
+  "title": "Geography",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-I"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "The Earth: interior, landforms, space"
+   },
+   {
+    "id": "B",
+    "title": "Atmosphere and oceans"
+   },
+   {
+    "id": "C",
+    "title": "India: physical geography"
+   },
+   {
+    "id": "D",
+    "title": "Resources, agriculture and industry"
+   },
+   {
+    "id": "E",
+    "title": "Human and political geography"
+   }
+  ]
+ },
+ {
+  "id": "society",
+  "title": "Indian Society",
+  "status": "authored",
+  "papers": [
+   "Mains GS-I"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Indian society and its diversity"
+   },
+   {
+    "id": "B",
+    "title": "Social issues and globalisation"
+   }
+  ]
+ },
+ {
+  "id": "governance",
+  "title": "Governance & Social Justice",
+  "status": "authored",
+  "papers": [
+   "Mains GS-II"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Policy, delivery and accountability"
+   },
+   {
+    "id": "B",
+    "title": "Social sector and vulnerable sections"
+   }
+  ]
+ },
+ {
+  "id": "ir",
+  "title": "International Relations",
+  "status": "authored",
+  "papers": [
+   "Mains GS-II"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "India and the world"
+   }
+  ]
+ },
+ {
+  "id": "economy",
+  "title": "Economy & Agriculture",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-III"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Growth, prices and development"
+   },
+   {
+    "id": "B",
+    "title": "Money, banking and markets"
+   },
+   {
+    "id": "C",
+    "title": "Government finance and the external sector"
+   },
+   {
+    "id": "D",
+    "title": "Agriculture and rural economy"
+   },
+   {
+    "id": "E",
+    "title": "Industry and infrastructure"
+   }
+  ]
+ },
+ {
+  "id": "environment",
+  "title": "Environment & Ecology",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-III"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Ecology foundations"
+   },
+   {
+    "id": "B",
+    "title": "Biodiversity and conservation"
+   },
+   {
+    "id": "C",
+    "title": "Pollution and climate"
+   },
+   {
+    "id": "D",
+    "title": "Law, governance and international regimes"
+   }
+  ]
+ },
+ {
+  "id": "scitech",
+  "title": "Science & Technology",
+  "status": "authored",
+  "papers": [
+   "Prelims GS-I",
+   "Mains GS-III"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Foundations: physics, chemistry, biology"
+   },
+   {
+    "id": "B",
+    "title": "Health and biotechnology"
+   },
+   {
+    "id": "C",
+    "title": "Space, defence and nuclear"
+   },
+   {
+    "id": "D",
+    "title": "Information technology and emerging fields"
+   }
+  ]
+ },
+ {
+  "id": "security",
+  "title": "Security",
+  "status": "authored",
+  "papers": [
+   "Mains GS-III"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Internal security"
+   },
+   {
+    "id": "B",
+    "title": "Cyber and border security"
+   }
+  ]
+ },
+ {
+  "id": "disaster",
+  "title": "Disaster Management",
+  "status": "authored",
+  "papers": [
+   "Mains GS-III"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Disaster management"
+   }
+  ]
+ },
+ {
+  "id": "ethics",
+  "title": "Ethics & GS-IV case studies",
+  "status": "authored",
+  "papers": [
+   "Mains GS-IV"
+  ],
+  "groups": [
+   {
+    "id": "A",
+    "title": "Ethics and human interface"
+   },
+   {
+    "id": "B",
+    "title": "Attitude, aptitude and emotional intelligence"
+   },
+   {
+    "id": "C",
+    "title": "Thinkers and public-service values"
+   },
+   {
+    "id": "D",
+    "title": "Probity in governance and case studies"
+   }
+  ]
+ }
+]

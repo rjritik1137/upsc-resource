@@ -1,0 +1,688 @@
+{
+ "inputs": [
+  {
+   "file": "UPSC_Static_Study_Guide_Product_Requirements.pdf",
+   "type": "Product requirements",
+   "pages": "4",
+   "text_layer": "yes",
+   "handling": "read (spec)"
+  },
+  {
+   "file": "syllabus.pdf",
+   "type": "Syllabus (official extract)",
+   "pages": "5",
+   "text_layer": "yes",
+   "handling": "pdftotext \u2192 syllabus.json"
+  },
+  {
+   "file": "upsc-prelims-complete.pdf",
+   "type": "Prelims GS-I PYQs with answers (third-party compilation, UnlockIAS)",
+   "pages": "1294",
+   "text_layer": "yes",
+   "handling": "pdftotext -layout \u2192 parse_prelims.py"
+  },
+  {
+   "file": "pyq/UPSC_Mains_<2016\u20132026>_GS<1\u20134>.pdf (44 files)",
+   "type": "Mains GS papers downloaded from upsc.gov.in",
+   "pages": "4\u201316 each (284 total)",
+   "text_layer": "no (scanned images)",
+   "handling": "pdftoppm 300dpi + tesseract psm4 (psm6 fallback) \u2192 parse_mains.py"
+  }
+ ],
+ "prelims": {
+  "total": 3976,
+  "years": {
+   "1995": 148,
+   "1996": 147,
+   "1997": 150,
+   "1998": 147,
+   "1999": 147,
+   "2000": 146,
+   "2001": 146,
+   "2002": 149,
+   "2003": 150,
+   "2004": 150,
+   "2005": 149,
+   "2006": 150,
+   "2007": 147,
+   "2008": 150,
+   "2009": 150,
+   "2010": 150,
+   "2011": 100,
+   "2012": 100,
+   "2013": 100,
+   "2014": 100,
+   "2015": 100,
+   "2016": 100,
+   "2017": 100,
+   "2018": 100,
+   "2019": 100,
+   "2020": 100,
+   "2021": 100,
+   "2022": 100,
+   "2023": 100,
+   "2024": 100,
+   "2025": 100,
+   "2026": 100
+  },
+  "answer_status": {
+   "supplied": 3963,
+   "cancelled": 9,
+   "unresolved": 4
+  },
+  "flagged": 16,
+  "official_key_check": "NOT PERFORMED \u2014 answers are as supplied by the third-party compilation",
+  "years_not_100": {}
+ },
+ "mains": {
+  "total": 760,
+  "rows": [
+   {
+    "year": 2013,
+    "paper": "GS-1",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2013,
+    "paper": "GS-2",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2013,
+    "paper": "GS-3",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2013,
+    "paper": "GS-4",
+    "status": "MISSING-PAPER",
+    "expected": null,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2014,
+    "paper": "GS-1",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2014,
+    "paper": "GS-2",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2014,
+    "paper": "GS-3",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2014,
+    "paper": "GS-4",
+    "status": "MISSING-PAPER",
+    "expected": null,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2015,
+    "paper": "GS-1",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2015,
+    "paper": "GS-2",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2015,
+    "paper": "GS-3",
+    "status": "MISSING-PAPER",
+    "expected": 20,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2015,
+    "paper": "GS-4",
+    "status": "MISSING-PAPER",
+    "expected": null,
+    "parsed": 0,
+    "flagged": 0
+   },
+   {
+    "year": 2016,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2016,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 20,
+    "manual": 0
+   },
+   {
+    "year": 2016,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 6,
+    "manual": 1
+   },
+   {
+    "year": 2016,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 14,
+    "flagged": 14,
+    "manual": 0
+   },
+   {
+    "year": 2017,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 12,
+    "manual": 1
+   },
+   {
+    "year": 2017,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 7,
+    "manual": 0
+   },
+   {
+    "year": 2017,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 9,
+    "manual": 0
+   },
+   {
+    "year": 2017,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 12,
+    "flagged": 12,
+    "manual": 0
+   },
+   {
+    "year": 2018,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2018,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2018,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 1,
+    "manual": 0
+   },
+   {
+    "year": 2018,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 4,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2019,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2019,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 16,
+    "manual": 0
+   },
+   {
+    "year": 2019,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 2,
+    "manual": 0
+   },
+   {
+    "year": 2019,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 6,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2020,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2020,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2020,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 7,
+    "manual": 0
+   },
+   {
+    "year": 2020,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 8,
+    "flagged": 8,
+    "manual": 0
+   },
+   {
+    "year": 2021,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 3,
+    "manual": 0
+   },
+   {
+    "year": 2021,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 9,
+    "manual": 0
+   },
+   {
+    "year": 2021,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 3,
+    "manual": 0
+   },
+   {
+    "year": 2021,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 11,
+    "flagged": 11,
+    "manual": 0
+   },
+   {
+    "year": 2022,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 16,
+    "manual": 0
+   },
+   {
+    "year": 2022,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2022,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 0,
+    "manual": 0
+   },
+   {
+    "year": 2022,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 6,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2023,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 2,
+    "manual": 0
+   },
+   {
+    "year": 2023,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 7,
+    "manual": 0
+   },
+   {
+    "year": 2023,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2023,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 11,
+    "flagged": 11,
+    "manual": 0
+   },
+   {
+    "year": 2024,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 1,
+    "manual": 0
+   },
+   {
+    "year": 2024,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 14,
+    "manual": 0
+   },
+   {
+    "year": 2024,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 4,
+    "manual": 0
+   },
+   {
+    "year": 2024,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 11,
+    "flagged": 11,
+    "manual": 0
+   },
+   {
+    "year": 2025,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 14,
+    "manual": 0
+   },
+   {
+    "year": 2025,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 2,
+    "manual": 0
+   },
+   {
+    "year": 2025,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 0,
+    "manual": 0
+   },
+   {
+    "year": 2025,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 6,
+    "flagged": 6,
+    "manual": 0
+   },
+   {
+    "year": 2026,
+    "paper": "GS-1",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 2,
+    "manual": 0
+   },
+   {
+    "year": 2026,
+    "paper": "GS-2",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 3,
+    "manual": 0
+   },
+   {
+    "year": 2026,
+    "paper": "GS-3",
+    "status": "imported",
+    "expected": 20,
+    "parsed": 20,
+    "flagged": 10,
+    "manual": 0
+   },
+   {
+    "year": 2026,
+    "paper": "GS-4",
+    "status": "imported",
+    "expected": null,
+    "parsed": 11,
+    "flagged": 11,
+    "manual": 0
+   }
+  ]
+ },
+ "concepts": {
+  "count": 157,
+  "without_pyq_link": [
+   "polity-upsc-spsc"
+  ],
+  "pyq_links": 5640,
+  "all_links_proposed": true,
+  "by_subject": {
+   "polity": {
+    "title": "Polity & Constitution",
+    "status": "authored",
+    "concepts": 51,
+    "pyq_links": 889,
+    "prelims_unlinked": 4
+   },
+   "history": {
+    "title": "History & Culture",
+    "status": "authored",
+    "concepts": 26,
+    "pyq_links": 1007,
+    "prelims_unlinked": 36
+   },
+   "geography": {
+    "title": "Geography",
+    "status": "authored",
+    "concepts": 14,
+    "pyq_links": 782,
+    "prelims_unlinked": 14
+   },
+   "society": {
+    "title": "Indian Society",
+    "status": "authored",
+    "concepts": 4,
+    "pyq_links": 117,
+    "prelims_unlinked": 0
+   },
+   "governance": {
+    "title": "Governance & Social Justice",
+    "status": "authored",
+    "concepts": 5,
+    "pyq_links": 92,
+    "prelims_unlinked": 0
+   },
+   "ir": {
+    "title": "International Relations",
+    "status": "authored",
+    "concepts": 5,
+    "pyq_links": 244,
+    "prelims_unlinked": 0
+   },
+   "economy": {
+    "title": "Economy & Agriculture",
+    "status": "authored",
+    "concepts": 15,
+    "pyq_links": 919,
+    "prelims_unlinked": 2
+   },
+   "environment": {
+    "title": "Environment & Ecology",
+    "status": "authored",
+    "concepts": 12,
+    "pyq_links": 484,
+    "prelims_unlinked": 1
+   },
+   "scitech": {
+    "title": "Science & Technology",
+    "status": "authored",
+    "concepts": 11,
+    "pyq_links": 847,
+    "prelims_unlinked": 22
+   },
+   "security": {
+    "title": "Security",
+    "status": "authored",
+    "concepts": 4,
+    "pyq_links": 44,
+    "prelims_unlinked": 0
+   },
+   "disaster": {
+    "title": "Disaster Management",
+    "status": "authored",
+    "concepts": 1,
+    "pyq_links": 30,
+    "prelims_unlinked": 0
+   },
+   "ethics": {
+    "title": "Ethics & GS-IV case studies",
+    "status": "authored",
+    "concepts": 9,
+    "pyq_links": 185,
+    "prelims_unlinked": 0
+   }
+  },
+  "mains_unmatched": {
+   "mains-GS-1": 50,
+   "mains-GS-2": 32,
+   "mains-GS-3": 26,
+   "mains-GS-4": 2
+  }
+ },
+ "review_queue": {
+  "question-flagged": 326,
+  "unattached-fragment": 1,
+  "missing-paper": 12
+ },
+ "resources": {
+  "count": 55,
+  "by_access": {
+   "free-online": 48,
+   "purchase": 5,
+   "free-legal-download": 1,
+   "user-provided": 1
+  }
+ }
+}
