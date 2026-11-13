@@ -572,19 +572,20 @@
   ]
  },
  "concepts": {
-  "count": 192,
+  "count": 219,
   "without_pyq_link": [
    "polity-upsc-spsc",
+   "security-security-forces-agencies",
    "disaster-man-made-disasters"
   ],
-  "pyq_links": 5996,
+  "pyq_links": 6310,
   "all_links_proposed": true,
   "by_subject": {
    "polity": {
     "title": "Polity & Constitution",
     "status": "authored",
     "concepts": 51,
-    "pyq_links": 888,
+    "pyq_links": 886,
     "prelims_unlinked": 4
    },
    "history": {
@@ -597,15 +598,15 @@
    "geography": {
     "title": "Geography",
     "status": "authored",
-    "concepts": 14,
-    "pyq_links": 775,
-    "prelims_unlinked": 14
+    "concepts": 23,
+    "pyq_links": 887,
+    "prelims_unlinked": 10
    },
    "society": {
     "title": "Indian Society",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 137,
+    "pyq_links": 134,
     "prelims_unlinked": 0
    },
    "governance": {
@@ -619,56 +620,56 @@
     "title": "International Relations",
     "status": "authored",
     "concepts": 10,
-    "pyq_links": 317,
+    "pyq_links": 316,
     "prelims_unlinked": 0
    },
    "economy": {
     "title": "Economy & Agriculture",
     "status": "authored",
-    "concepts": 15,
-    "pyq_links": 915,
+    "concepts": 26,
+    "pyq_links": 1059,
     "prelims_unlinked": 2
    },
    "environment": {
     "title": "Environment & Ecology",
     "status": "authored",
-    "concepts": 12,
-    "pyq_links": 484,
+    "concepts": 19,
+    "pyq_links": 557,
     "prelims_unlinked": 1
    },
    "scitech": {
     "title": "Science & Technology",
     "status": "authored",
     "concepts": 11,
-    "pyq_links": 845,
+    "pyq_links": 844,
     "prelims_unlinked": 22
    },
    "security": {
     "title": "Security",
     "status": "authored",
     "concepts": 8,
-    "pyq_links": 67,
+    "pyq_links": 65,
     "prelims_unlinked": 0
    },
    "disaster": {
     "title": "Disaster Management",
     "status": "authored",
     "concepts": 6,
-    "pyq_links": 52,
+    "pyq_links": 50,
     "prelims_unlinked": 0
    },
    "ethics": {
     "title": "Ethics & GS-IV case studies",
     "status": "authored",
     "concepts": 9,
-    "pyq_links": 180,
+    "pyq_links": 176,
     "prelims_unlinked": 0
    }
   },
   "mains_unmatched": {
-   "mains-GS-1": 44,
+   "mains-GS-1": 42,
    "mains-GS-2": 22,
-   "mains-GS-3": 24,
+   "mains-GS-3": 21,
    "mains-GS-4": 2
   }
  },

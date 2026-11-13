@@ -4682,7 +4682,7 @@
  {
   "id": "L-0521",
   "source": "disaster-climate-risk-resilience",
-  "target": "S-GS3-10",
+  "target": "S-GS3-14",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
   "evidence": "UPSC syllabus text (supplied)",
@@ -5222,7 +5222,7 @@
  {
   "id": "L-0581",
   "source": "governance-food-security-pds",
-  "target": "S-GS2-12",
+  "target": "S-GS2-14",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
   "evidence": "UPSC syllabus text (supplied)",
@@ -5231,7 +5231,7 @@
  {
   "id": "L-0582",
   "source": "governance-food-security-pds",
-  "target": "S-GS2-13",
+  "target": "S-GS3-05",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
   "evidence": "UPSC syllabus text (supplied)",
@@ -5240,7 +5240,7 @@
  {
   "id": "L-0583",
   "source": "governance-food-security-pds",
-  "target": "S-GS2-10",
+  "target": "S-GS2-12",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
   "evidence": "UPSC syllabus text (supplied)",
@@ -5555,15 +5555,6 @@
  {
   "id": "L-0618",
   "source": "history-maratha-sikh-regional-powers",
-  "target": "S-P1-03",
-  "relation": "tests",
-  "rationale": "Concept lies within this syllabus point.",
-  "evidence": "UPSC syllabus text (supplied)",
-  "verification": "authored-unreviewed"
- },
- {
-  "id": "L-0619",
-  "source": "history-maratha-sikh-regional-powers",
   "target": "history-advent-british-expansion",
   "relation": "related",
   "rationale": "Cross-subject connection to 'Advent of Europeans and British expansion'.",
@@ -5571,8 +5562,17 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0620",
+  "id": "L-0619",
   "source": "history-medieval-economy-society-trade",
+  "target": "S-P1-02",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0620",
+  "source": "history-medieval-culture-historiography",
   "target": "S-P1-02",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
@@ -5582,15 +5582,6 @@
  {
   "id": "L-0621",
   "source": "history-medieval-culture-historiography",
-  "target": "S-P1-02",
-  "relation": "tests",
-  "rationale": "Concept lies within this syllabus point.",
-  "evidence": "UPSC syllabus text (supplied)",
-  "verification": "authored-unreviewed"
- },
- {
-  "id": "L-0622",
-  "source": "history-medieval-culture-historiography",
   "target": "S-GS1-01",
   "relation": "tests",
   "rationale": "Concept lies within this syllabus point.",
@@ -5598,7 +5589,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0623",
+  "id": "L-0622",
   "source": "history-post-independence-consolidation",
   "target": "history-transfer-of-power-partition",
   "relation": "prerequisite",
@@ -5607,7 +5598,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0624",
+  "id": "L-0623",
   "source": "history-post-independence-consolidation",
   "target": "S-GS1-04",
   "relation": "tests",
@@ -5616,7 +5607,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0625",
+  "id": "L-0624",
   "source": "history-post-independence-consolidation",
   "target": "polity-emergency-provisions",
   "relation": "related",
@@ -5625,7 +5616,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0626",
+  "id": "L-0625",
   "source": "history-post-independence-consolidation",
   "target": "society-regionalism-language-integration",
   "relation": "related",
@@ -5634,7 +5625,871 @@
   "verification": "authored-unreviewed"
  },
  {
+  "id": "L-0626",
+  "source": "economy-microeconomics-basics",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
   "id": "L-0627",
+  "source": "economy-microeconomics-basics",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0628",
+  "source": "economy-unemployment-labour-markets",
+  "target": "economy-human-development-poverty-employment",
+  "relation": "prerequisite",
+  "rationale": "'Unemployment, labour markets and labour codes' builds on 'Human development, poverty and employment'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0629",
+  "source": "economy-unemployment-labour-markets",
+  "target": "S-GS3-02",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0630",
+  "source": "economy-unemployment-labour-markets",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0631",
+  "source": "economy-unemployment-labour-markets",
+  "target": "governance-rural-development-schemes",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Rural development schemes and livelihood missions'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0632",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "economy-national-income-growth",
+  "relation": "prerequisite",
+  "rationale": "'Sustainable development, inclusive growth and development indices' builds on 'National income and economic growth'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0633",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0634",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "S-GS3-02",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0635",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0636",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "environment-sustainable-development-green-economy",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Sustainable development, circular economy and green economy'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0637",
+  "source": "economy-insurance-pension-sector",
+  "target": "economy-banking-structure",
+  "relation": "prerequisite",
+  "rationale": "'Insurance and pension sector' builds on 'Banking structure and the RBI'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0638",
+  "source": "economy-insurance-pension-sector",
+  "target": "S-GS3-02",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0639",
+  "source": "economy-insurance-pension-sector",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0640",
+  "source": "economy-nbfc-npa-resolution",
+  "target": "economy-banking-structure",
+  "relation": "prerequisite",
+  "rationale": "'NBFCs, NPAs and bad-loan resolution' builds on 'Banking structure and the RBI'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0641",
+  "source": "economy-nbfc-npa-resolution",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0642",
+  "source": "economy-nbfc-npa-resolution",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0643",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "economy-fiscal-policy-budget",
+  "relation": "prerequisite",
+  "rationale": "'Subsidies, direct benefit transfers and public expenditure' builds on 'Fiscal policy and the budget'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0644",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "S-GS3-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0645",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "S-GS3-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0646",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "governance-food-security-pds",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Food security, PDS and nutrition governance'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0647",
+  "source": "economy-disinvestment-public-sector",
+  "target": "economy-economic-reforms-1991",
+  "relation": "prerequisite",
+  "rationale": "'Public sector enterprises and disinvestment' builds on 'Economic planning, 1991 reforms and NITI Aayog'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0648",
+  "source": "economy-disinvestment-public-sector",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0649",
+  "source": "economy-disinvestment-public-sector",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0650",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "economy-industry-infrastructure",
+  "relation": "prerequisite",
+  "rationale": "'MSMEs, start-ups and manufacturing policy' builds on 'Industry and infrastructure'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0651",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "S-GS3-08",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0652",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0653",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0654",
+  "source": "economy-energy-sector-economy",
+  "target": "economy-industry-infrastructure",
+  "relation": "prerequisite",
+  "rationale": "'Energy sector: coal, power, oil and gas' builds on 'Industry and infrastructure'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0655",
+  "source": "economy-energy-sector-economy",
+  "target": "S-GS3-09",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0656",
+  "source": "economy-energy-sector-economy",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0657",
+  "source": "economy-energy-sector-economy",
+  "target": "environment-renewable-energy-green-tech",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Renewable energy and green technologies'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0658",
+  "source": "economy-energy-sector-economy",
+  "target": "geography-indian-energy-industry-regions",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Indian energy resources and industrial regions'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0659",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "economy-agriculture-rural-development",
+  "relation": "prerequisite",
+  "rationale": "'Agricultural marketing, pricing and credit' builds on 'Agriculture, food security and rural development'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0660",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "S-GS3-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0661",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "S-GS3-07",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0662",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0663",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "governance-food-security-pds",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Food security, PDS and nutrition governance'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0664",
+  "source": "economy-services-tourism-it",
+  "target": "economy-national-income-growth",
+  "relation": "prerequisite",
+  "rationale": "'Services sector, IT and tourism' builds on 'National income and economic growth'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0665",
+  "source": "economy-services-tourism-it",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0666",
+  "source": "economy-services-tourism-it",
+  "target": "S-P1-05",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0667",
+  "source": "geography-geomorphic-processes-landforms",
+  "target": "geography-earth-structure-geomorphology",
+  "relation": "prerequisite",
+  "rationale": "'Geomorphic processes and landforms' builds on 'Earth's interior, plate tectonics and landforms'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0668",
+  "source": "geography-geomorphic-processes-landforms",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0669",
+  "source": "geography-geomorphic-processes-landforms",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0670",
+  "source": "geography-climate-phenomena-enso-jetstreams",
+  "target": "geography-atmosphere-climatology",
+  "relation": "prerequisite",
+  "rationale": "'Jet streams, ENSO, IOD and other climate phenomena' builds on 'Atmosphere and climatology'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0671",
+  "source": "geography-climate-phenomena-enso-jetstreams",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0672",
+  "source": "geography-climate-phenomena-enso-jetstreams",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0673",
+  "source": "geography-world-climate-regions-biomes",
+  "target": "geography-atmosphere-climatology",
+  "relation": "prerequisite",
+  "rationale": "'World climate regions and biomes' builds on 'Atmosphere and climatology'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0674",
+  "source": "geography-world-climate-regions-biomes",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0675",
+  "source": "geography-world-climate-regions-biomes",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0676",
+  "source": "geography-world-regional-geography-features",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0677",
+  "source": "geography-world-regional-geography-features",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0678",
+  "source": "geography-world-regional-geography-features",
+  "target": "geography-world-political-geography-borders",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'World political geography and borders'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0679",
+  "source": "geography-global-resources-distribution",
+  "target": "geography-minerals-industries-location",
+  "relation": "prerequisite",
+  "rationale": "'Global distribution of resources, agriculture and industry' builds on 'Minerals, energy resources and industrial location'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0680",
+  "source": "geography-global-resources-distribution",
+  "target": "S-GS1-11",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0681",
+  "source": "geography-global-resources-distribution",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0682",
+  "source": "geography-global-resources-distribution",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0683",
+  "source": "geography-global-resources-distribution",
+  "target": "economy-international-trade-wto",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'International trade and the WTO'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0684",
+  "source": "geography-indian-energy-industry-regions",
+  "target": "geography-minerals-industries-location",
+  "relation": "prerequisite",
+  "rationale": "'Indian energy resources and industrial regions' builds on 'Minerals, energy resources and industrial location'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0685",
+  "source": "geography-indian-energy-industry-regions",
+  "target": "S-GS1-11",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0686",
+  "source": "geography-indian-energy-industry-regions",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0687",
+  "source": "geography-indian-energy-industry-regions",
+  "target": "economy-energy-sector-economy",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Energy sector: coal, power, oil and gas'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0688",
+  "source": "geography-human-geography-settlements-migration",
+  "target": "geography-population-demography-urbanisation",
+  "relation": "prerequisite",
+  "rationale": "'Human geography: settlements, migration and cultural regions' builds on 'Population, demography and urbanisation'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0689",
+  "source": "geography-human-geography-settlements-migration",
+  "target": "S-GS1-07",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0690",
+  "source": "geography-human-geography-settlements-migration",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0691",
+  "source": "geography-india-map-locations",
+  "target": "geography-indian-physical-geography",
+  "relation": "prerequisite",
+  "rationale": "'India map and locations: passes, ports, parks, power plants and places in news' builds on 'Physical features of India'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0692",
+  "source": "geography-india-map-locations",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0693",
+  "source": "geography-remote-sensing-gis-maps",
+  "target": "S-GS1-10",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0694",
+  "source": "geography-remote-sensing-gis-maps",
+  "target": "S-GS3-11",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0695",
+  "source": "geography-remote-sensing-gis-maps",
+  "target": "S-P1-03",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0696",
+  "source": "geography-remote-sensing-gis-maps",
+  "target": "scitech-space-technology",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Space technology and ISRO'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0697",
+  "source": "environment-species-conservation-iucn-cites",
+  "target": "environment-biodiversity-types-hotspots",
+  "relation": "prerequisite",
+  "rationale": "'Species conservation: IUCN Red List, CITES and conservation strategies' builds on 'Biodiversity: types, hotspots and threat categories'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0698",
+  "source": "environment-species-conservation-iucn-cites",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0699",
+  "source": "environment-species-conservation-iucn-cites",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0700",
+  "source": "environment-forest-resources-policy",
+  "target": "environment-ecosystem-ecology-basics",
+  "relation": "prerequisite",
+  "rationale": "'Forest resources, forest cover and forest policy' builds on 'Ecosystem and ecology basics'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0701",
+  "source": "environment-forest-resources-policy",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0702",
+  "source": "environment-forest-resources-policy",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0703",
+  "source": "environment-forest-resources-policy",
+  "target": "society-tribal-society-issues",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Tribal society, rights and development'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0704",
+  "source": "environment-marine-coastal-crz",
+  "target": "environment-wetlands-water-conservation",
+  "relation": "prerequisite",
+  "rationale": "'Marine and coastal ecosystems and coastal regulation' builds on 'Wetlands, mangroves, coral reefs and water conservation'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0705",
+  "source": "environment-marine-coastal-crz",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0706",
+  "source": "environment-marine-coastal-crz",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0707",
+  "source": "environment-marine-coastal-crz",
+  "target": "security-maritime-security-indian-ocean",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Maritime and coastal security in the Indian Ocean'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0708",
+  "source": "environment-invasive-species-human-wildlife-conflict",
+  "target": "environment-species-conservation-iucn-cites",
+  "relation": "prerequisite",
+  "rationale": "'Invasive species and human–wildlife conflict' builds on 'Species conservation: IUCN Red List, CITES and conservation strategies'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0709",
+  "source": "environment-invasive-species-human-wildlife-conflict",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0710",
+  "source": "environment-invasive-species-human-wildlife-conflict",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0711",
+  "source": "environment-carbon-markets-climate-finance",
+  "target": "environment-climate-change-ghg",
+  "relation": "prerequisite",
+  "rationale": "'Carbon markets, climate finance and net-zero targets' builds on 'Climate change and greenhouse gases'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0712",
+  "source": "environment-carbon-markets-climate-finance",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0713",
+  "source": "environment-carbon-markets-climate-finance",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0714",
+  "source": "environment-carbon-markets-climate-finance",
+  "target": "economy-international-economic-institutions",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'International economic institutions and reports'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0715",
+  "source": "environment-environmental-organisations-indices",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0716",
+  "source": "environment-environmental-organisations-indices",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0717",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "environment-ecosystem-ecology-basics",
+  "relation": "prerequisite",
+  "rationale": "'Sustainable development, circular economy and green economy' builds on 'Ecosystem and ecology basics'.",
+  "evidence": "authoring judgement (study-order)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0718",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "S-P1-06",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0719",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "S-GS3-14",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0720",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "S-GS3-01",
+  "relation": "tests",
+  "rationale": "Concept lies within this syllabus point.",
+  "evidence": "UPSC syllabus text (supplied)",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0721",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "economy-sdg-inclusive-growth",
+  "relation": "related",
+  "rationale": "Cross-subject connection to 'Sustainable development, inclusive growth and development indices'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0722",
   "source": "polity-fr-equality",
   "target": "polity-fr-freedoms",
   "relation": "related",
@@ -5643,7 +6498,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0628",
+  "id": "L-0723",
   "source": "polity-fr-equality",
   "target": "polity-constitutional-amendments-major",
   "relation": "related",
@@ -5652,7 +6507,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0629",
+  "id": "L-0724",
   "source": "polity-fr-freedoms",
   "target": "polity-judicial-review-activism-pil",
   "relation": "related",
@@ -5661,7 +6516,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0630",
+  "id": "L-0725",
   "source": "polity-fr-remedies-writs",
   "target": "polity-judicial-review-activism-pil",
   "relation": "related",
@@ -5670,7 +6525,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0631",
+  "id": "L-0726",
   "source": "polity-fr-remedies-writs",
   "target": "polity-high-courts-subordinate",
   "relation": "related",
@@ -5679,7 +6534,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0632",
+  "id": "L-0727",
   "source": "polity-basic-structure-doctrine",
   "target": "polity-amendment-procedure",
   "relation": "related",
@@ -5688,7 +6543,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0633",
+  "id": "L-0728",
   "source": "polity-basic-structure-doctrine",
   "target": "polity-judicial-review-activism-pil",
   "relation": "related",
@@ -5697,7 +6552,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0634",
+  "id": "L-0729",
   "source": "polity-basic-structure-doctrine",
   "target": "polity-separation-of-powers",
   "relation": "related",
@@ -5706,7 +6561,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0635",
+  "id": "L-0730",
   "source": "polity-basic-structure-doctrine",
   "target": "polity-preamble",
   "relation": "related",
@@ -5715,7 +6570,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0636",
+  "id": "L-0731",
   "source": "polity-basic-structure-doctrine",
   "target": "polity-fr-dpsp-relationship",
   "relation": "related",
@@ -5724,7 +6579,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0637",
+  "id": "L-0732",
   "source": "polity-president",
   "target": "polity-emergency-provisions",
   "relation": "related",
@@ -5733,7 +6588,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0638",
+  "id": "L-0733",
   "source": "polity-president",
   "target": "polity-governor",
   "relation": "related",
@@ -5742,7 +6597,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0639",
+  "id": "L-0734",
   "source": "polity-governor",
   "target": "polity-federalism-centre-state",
   "relation": "related",
@@ -5751,7 +6606,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0640",
+  "id": "L-0735",
   "source": "polity-governor",
   "target": "polity-emergency-provisions",
   "relation": "related",
@@ -5760,7 +6615,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0641",
+  "id": "L-0736",
   "source": "polity-federalism-centre-state",
   "target": "polity-finance-commission-fiscal-federalism",
   "relation": "related",
@@ -5769,7 +6624,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0642",
+  "id": "L-0737",
   "source": "polity-federalism-centre-state",
   "target": "polity-special-provisions-schedules",
   "relation": "related",
@@ -5778,7 +6633,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0643",
+  "id": "L-0738",
   "source": "polity-federalism-centre-state",
   "target": "polity-inter-state-relations",
   "relation": "related",
@@ -5787,7 +6642,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0644",
+  "id": "L-0739",
   "source": "polity-federalism-centre-state",
   "target": "polity-emergency-provisions",
   "relation": "related",
@@ -5796,7 +6651,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0645",
+  "id": "L-0740",
   "source": "polity-federalism-centre-state",
   "target": "polity-salient-features",
   "relation": "related",
@@ -5805,7 +6660,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0646",
+  "id": "L-0741",
   "source": "polity-legislative-procedure",
   "target": "polity-budget-financial-control",
   "relation": "related",
@@ -5814,7 +6669,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0647",
+  "id": "L-0742",
   "source": "polity-parliament-houses",
   "target": "polity-anti-defection-law",
   "relation": "related",
@@ -5823,7 +6678,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0648",
+  "id": "L-0743",
   "source": "polity-presiding-officers",
   "target": "polity-anti-defection-law",
   "relation": "related",
@@ -5832,7 +6687,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0649",
+  "id": "L-0744",
   "source": "polity-budget-financial-control",
   "target": "polity-cag-attorney-general",
   "relation": "related",
@@ -5841,7 +6696,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0650",
+  "id": "L-0745",
   "source": "polity-panchayati-raj",
   "target": "polity-urban-local-bodies",
   "relation": "related",
@@ -5850,7 +6705,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0651",
+  "id": "L-0746",
   "source": "polity-election-commission",
   "target": "polity-rpa-electoral-system",
   "relation": "related",
@@ -5859,7 +6714,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0652",
+  "id": "L-0747",
   "source": "polity-rpa-electoral-system",
   "target": "polity-electoral-reforms",
   "relation": "related",
@@ -5868,7 +6723,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0653",
+  "id": "L-0748",
   "source": "polity-electoral-reforms",
   "target": "polity-anti-defection-law",
   "relation": "related",
@@ -5877,7 +6732,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0654",
+  "id": "L-0749",
   "source": "polity-tribunals-dispute-redressal",
   "target": "polity-statutory-bodies",
   "relation": "related",
@@ -5886,7 +6741,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0655",
+  "id": "L-0750",
   "source": "geography-atmosphere-climatology",
   "target": "environment-climate-change-ghg",
   "relation": "related",
@@ -5895,7 +6750,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0656",
+  "id": "L-0751",
   "source": "geography-geophysical-hazards",
   "target": "environment-climate-change-ghg",
   "relation": "related",
@@ -5904,7 +6759,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0657",
+  "id": "L-0752",
   "source": "economy-industry-infrastructure",
   "target": "geography-minerals-industries-location",
   "relation": "related",
@@ -5913,7 +6768,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0658",
+  "id": "L-0753",
   "source": "history-colonisation-imperialism",
   "target": "history-british-administration-economy",
   "relation": "related",
@@ -5922,7 +6777,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0659",
+  "id": "L-0754",
   "source": "history-world-wars-interwar",
   "target": "history-transfer-of-power-partition",
   "relation": "related",
@@ -5931,7 +6786,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0660",
+  "id": "L-0755",
   "source": "history-art-architecture-sculpture",
   "target": "history-buddhism-jainism-mahajanapadas",
   "relation": "related",
@@ -5940,7 +6795,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0661",
+  "id": "L-0756",
   "source": "history-mughal-empire",
   "target": "history-advent-british-expansion",
   "relation": "related",
@@ -5949,7 +6804,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0662",
+  "id": "L-0757",
   "source": "economy-industry-infrastructure",
   "target": "scitech-materials-nanotechnology",
   "relation": "related",
@@ -5958,7 +6813,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0663",
+  "id": "L-0758",
   "source": "polity-constitution-constitutionalism",
   "target": "polity-salient-features",
   "relation": "related",
@@ -5967,7 +6822,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0664",
+  "id": "L-0759",
   "source": "polity-constitution-constitutionalism",
   "target": "polity-separation-of-powers",
   "relation": "related",
@@ -5976,7 +6831,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0665",
+  "id": "L-0760",
   "source": "polity-historical-underpinnings",
   "target": "polity-constituent-assembly",
   "relation": "related",
@@ -5985,7 +6840,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0666",
+  "id": "L-0761",
   "source": "polity-constituent-assembly",
   "target": "polity-preamble",
   "relation": "related",
@@ -5994,7 +6849,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0667",
+  "id": "L-0762",
   "source": "polity-constituent-assembly",
   "target": "polity-salient-features",
   "relation": "related",
@@ -6003,7 +6858,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0668",
+  "id": "L-0763",
   "source": "polity-salient-features",
   "target": "polity-preamble",
   "relation": "related",
@@ -6012,7 +6867,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0669",
+  "id": "L-0764",
   "source": "polity-union-territory-citizenship",
   "target": "polity-federalism-centre-state",
   "relation": "related",
@@ -6021,7 +6876,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0670",
+  "id": "L-0765",
   "source": "polity-fr-exploitation-religion-cultural",
   "target": "polity-preamble",
   "relation": "related",
@@ -6030,7 +6885,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0671",
+  "id": "L-0766",
   "source": "polity-dpsp",
   "target": "polity-fr-dpsp-relationship",
   "relation": "related",
@@ -6039,7 +6894,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0672",
+  "id": "L-0767",
   "source": "polity-fundamental-duties",
   "target": "polity-dpsp",
   "relation": "related",
@@ -6048,7 +6903,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0673",
+  "id": "L-0768",
   "source": "polity-fundamental-duties",
   "target": "polity-fr-equality",
   "relation": "related",
@@ -6057,7 +6912,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0674",
+  "id": "L-0769",
   "source": "polity-amendment-procedure",
   "target": "polity-constitutional-amendments-major",
   "relation": "related",
@@ -6066,7 +6921,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0675",
+  "id": "L-0770",
   "source": "polity-constitutional-amendments-major",
   "target": "polity-panchayati-raj",
   "relation": "related",
@@ -6075,7 +6930,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0676",
+  "id": "L-0771",
   "source": "polity-constitutional-amendments-major",
   "target": "polity-anti-defection-law",
   "relation": "related",
@@ -6084,7 +6939,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0677",
+  "id": "L-0772",
   "source": "polity-parliamentary-system",
   "target": "polity-pm-council-of-ministers",
   "relation": "related",
@@ -6093,7 +6948,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0678",
+  "id": "L-0773",
   "source": "polity-parliamentary-system",
   "target": "polity-president",
   "relation": "related",
@@ -6102,7 +6957,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0679",
+  "id": "L-0774",
   "source": "polity-president",
   "target": "polity-vice-president",
   "relation": "related",
@@ -6111,7 +6966,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0680",
+  "id": "L-0775",
   "source": "polity-vice-president",
   "target": "polity-presiding-officers",
   "relation": "related",
@@ -6120,7 +6975,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0681",
+  "id": "L-0776",
   "source": "polity-pm-council-of-ministers",
   "target": "polity-chief-minister-council",
   "relation": "related",
@@ -6129,7 +6984,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0682",
+  "id": "L-0777",
   "source": "polity-parliament-houses",
   "target": "polity-presiding-officers",
   "relation": "related",
@@ -6138,7 +6993,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0683",
+  "id": "L-0778",
   "source": "polity-parliament-houses",
   "target": "polity-legislative-procedure",
   "relation": "related",
@@ -6147,7 +7002,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0684",
+  "id": "L-0779",
   "source": "polity-presiding-officers",
   "target": "polity-legislative-procedure",
   "relation": "related",
@@ -6156,7 +7011,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0685",
+  "id": "L-0780",
   "source": "polity-legislative-procedure",
   "target": "polity-president",
   "relation": "related",
@@ -6165,7 +7020,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0686",
+  "id": "L-0781",
   "source": "polity-budget-financial-control",
   "target": "polity-parliamentary-committees",
   "relation": "related",
@@ -6174,7 +7029,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0687",
+  "id": "L-0782",
   "source": "polity-parliamentary-committees",
   "target": "polity-legislative-procedure",
   "relation": "related",
@@ -6183,7 +7038,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0688",
+  "id": "L-0783",
   "source": "polity-parliamentary-devices-privileges",
   "target": "polity-presiding-officers",
   "relation": "related",
@@ -6192,7 +7047,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0689",
+  "id": "L-0784",
   "source": "polity-parliamentary-devices-privileges",
   "target": "polity-state-legislature",
   "relation": "related",
@@ -6201,7 +7056,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0690",
+  "id": "L-0785",
   "source": "polity-governor",
   "target": "polity-chief-minister-council",
   "relation": "related",
@@ -6210,7 +7065,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0691",
+  "id": "L-0786",
   "source": "polity-governor",
   "target": "polity-state-legislature",
   "relation": "related",
@@ -6219,7 +7074,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0692",
+  "id": "L-0787",
   "source": "polity-chief-minister-council",
   "target": "polity-state-legislature",
   "relation": "related",
@@ -6228,7 +7083,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0693",
+  "id": "L-0788",
   "source": "polity-state-legislature",
   "target": "polity-parliament-houses",
   "relation": "related",
@@ -6237,7 +7092,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0694",
+  "id": "L-0789",
   "source": "polity-emergency-provisions",
   "target": "polity-fr-freedoms",
   "relation": "related",
@@ -6246,7 +7101,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0695",
+  "id": "L-0790",
   "source": "polity-special-provisions-schedules",
   "target": "polity-panchayati-raj",
   "relation": "related",
@@ -6255,7 +7110,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0696",
+  "id": "L-0791",
   "source": "polity-supreme-court",
   "target": "polity-high-courts-subordinate",
   "relation": "related",
@@ -6264,7 +7119,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0697",
+  "id": "L-0792",
   "source": "polity-supreme-court",
   "target": "polity-judicial-review-activism-pil",
   "relation": "related",
@@ -6273,7 +7128,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0698",
+  "id": "L-0793",
   "source": "polity-high-courts-subordinate",
   "target": "polity-tribunals-dispute-redressal",
   "relation": "related",
@@ -6282,7 +7137,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0699",
+  "id": "L-0794",
   "source": "polity-judicial-review-activism-pil",
   "target": "polity-separation-of-powers",
   "relation": "related",
@@ -6291,7 +7146,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0700",
+  "id": "L-0795",
   "source": "polity-panchayati-raj",
   "target": "polity-federalism-centre-state",
   "relation": "related",
@@ -6300,7 +7155,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0701",
+  "id": "L-0796",
   "source": "polity-election-commission",
   "target": "polity-electoral-reforms",
   "relation": "related",
@@ -6309,7 +7164,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0702",
+  "id": "L-0797",
   "source": "polity-upsc-spsc",
   "target": "polity-cag-attorney-general",
   "relation": "related",
@@ -6318,7 +7173,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0703",
+  "id": "L-0798",
   "source": "polity-cag-attorney-general",
   "target": "polity-parliamentary-committees",
   "relation": "related",
@@ -6327,7 +7182,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0704",
+  "id": "L-0799",
   "source": "polity-national-commissions-vulnerable-sections",
   "target": "polity-statutory-bodies",
   "relation": "related",
@@ -6336,7 +7191,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0705",
+  "id": "L-0800",
   "source": "polity-political-parties-pressure-groups",
   "target": "polity-electoral-reforms",
   "relation": "related",
@@ -6345,7 +7200,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0706",
+  "id": "L-0801",
   "source": "polity-political-parties-pressure-groups",
   "target": "polity-election-commission",
   "relation": "related",
@@ -6354,7 +7209,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0707",
+  "id": "L-0802",
   "source": "economy-economic-reforms-1991",
   "target": "polity-finance-commission-fiscal-federalism",
   "relation": "related",
@@ -6363,7 +7218,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0708",
+  "id": "L-0803",
   "source": "economy-national-income-growth",
   "target": "economy-inflation-price-indices",
   "relation": "related",
@@ -6372,7 +7227,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0709",
+  "id": "L-0804",
   "source": "economy-national-income-growth",
   "target": "economy-human-development-poverty-employment",
   "relation": "related",
@@ -6381,7 +7236,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0710",
+  "id": "L-0805",
   "source": "economy-inflation-price-indices",
   "target": "economy-money-supply-monetary-policy",
   "relation": "related",
@@ -6390,7 +7245,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0711",
+  "id": "L-0806",
   "source": "economy-human-development-poverty-employment",
   "target": "economy-agriculture-rural-development",
   "relation": "related",
@@ -6399,7 +7254,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0712",
+  "id": "L-0807",
   "source": "economy-money-supply-monetary-policy",
   "target": "economy-banking-structure",
   "relation": "related",
@@ -6408,7 +7263,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0713",
+  "id": "L-0808",
   "source": "economy-banking-structure",
   "target": "economy-financial-inclusion-digital-payments",
   "relation": "related",
@@ -6417,7 +7272,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0714",
+  "id": "L-0809",
   "source": "economy-financial-markets",
   "target": "economy-external-sector-bop",
   "relation": "related",
@@ -6426,7 +7281,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0715",
+  "id": "L-0810",
   "source": "economy-financial-inclusion-digital-payments",
   "target": "economy-human-development-poverty-employment",
   "relation": "related",
@@ -6435,7 +7290,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0716",
+  "id": "L-0811",
   "source": "economy-fiscal-policy-budget",
   "target": "economy-taxation",
   "relation": "related",
@@ -6444,7 +7299,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0717",
+  "id": "L-0812",
   "source": "economy-external-sector-bop",
   "target": "economy-international-trade-wto",
   "relation": "related",
@@ -6453,7 +7308,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0718",
+  "id": "L-0813",
   "source": "economy-international-economic-institutions",
   "target": "economy-international-trade-wto",
   "relation": "related",
@@ -6462,7 +7317,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0719",
+  "id": "L-0814",
   "source": "economy-industry-infrastructure",
   "target": "economy-economic-reforms-1991",
   "relation": "related",
@@ -6471,7 +7326,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0720",
+  "id": "L-0815",
   "source": "geography-earth-structure-geomorphology",
   "target": "geography-geophysical-hazards",
   "relation": "related",
@@ -6480,7 +7335,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0721",
+  "id": "L-0816",
   "source": "geography-astronomy-earth-sun",
   "target": "geography-atmosphere-climatology",
   "relation": "related",
@@ -6489,7 +7344,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0722",
+  "id": "L-0817",
   "source": "geography-atmosphere-climatology",
   "target": "geography-indian-monsoon-climate",
   "relation": "related",
@@ -6498,7 +7353,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0723",
+  "id": "L-0818",
   "source": "geography-atmosphere-climatology",
   "target": "geography-oceanography",
   "relation": "related",
@@ -6507,7 +7362,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0724",
+  "id": "L-0819",
   "source": "geography-indian-physical-geography",
   "target": "geography-rivers-water-resources",
   "relation": "related",
@@ -6516,7 +7371,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0725",
+  "id": "L-0820",
   "source": "geography-indian-physical-geography",
   "target": "geography-indian-monsoon-climate",
   "relation": "related",
@@ -6525,7 +7380,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0726",
+  "id": "L-0821",
   "source": "geography-indian-monsoon-climate",
   "target": "geography-rivers-water-resources",
   "relation": "related",
@@ -6534,7 +7389,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0727",
+  "id": "L-0822",
   "source": "geography-biogeography-soils-vegetation",
   "target": "geography-indian-agriculture-land-use",
   "relation": "related",
@@ -6543,7 +7398,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0728",
+  "id": "L-0823",
   "source": "geography-minerals-industries-location",
   "target": "geography-transport-infrastructure-geography",
   "relation": "related",
@@ -6552,7 +7407,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0729",
+  "id": "L-0824",
   "source": "geography-population-demography-urbanisation",
   "target": "geography-transport-infrastructure-geography",
   "relation": "related",
@@ -6561,7 +7416,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0730",
+  "id": "L-0825",
   "source": "geography-world-political-geography-borders",
   "target": "geography-transport-infrastructure-geography",
   "relation": "related",
@@ -6570,7 +7425,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0731",
+  "id": "L-0826",
   "source": "geography-geophysical-hazards",
   "target": "geography-atmosphere-climatology",
   "relation": "related",
@@ -6579,7 +7434,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0732",
+  "id": "L-0827",
   "source": "environment-ecosystem-ecology-basics",
   "target": "environment-biogeochemical-cycles",
   "relation": "related",
@@ -6588,7 +7443,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0733",
+  "id": "L-0828",
   "source": "environment-ecosystem-ecology-basics",
   "target": "environment-biodiversity-types-hotspots",
   "relation": "related",
@@ -6597,7 +7452,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0734",
+  "id": "L-0829",
   "source": "environment-biogeochemical-cycles",
   "target": "environment-climate-change-ghg",
   "relation": "related",
@@ -6606,7 +7461,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0735",
+  "id": "L-0830",
   "source": "environment-biodiversity-types-hotspots",
   "target": "environment-protected-areas-wildlife",
   "relation": "related",
@@ -6615,7 +7470,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0736",
+  "id": "L-0831",
   "source": "environment-protected-areas-wildlife",
   "target": "environment-environmental-governance-legislation",
   "relation": "related",
@@ -6624,7 +7479,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0737",
+  "id": "L-0832",
   "source": "environment-wetlands-water-conservation",
   "target": "environment-protected-areas-wildlife",
   "relation": "related",
@@ -6633,7 +7488,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0738",
+  "id": "L-0833",
   "source": "environment-pollution-waste-management",
   "target": "environment-environmental-governance-legislation",
   "relation": "related",
@@ -6642,7 +7497,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0739",
+  "id": "L-0834",
   "source": "environment-climate-change-ghg",
   "target": "environment-international-treaties-summits",
   "relation": "related",
@@ -6651,7 +7506,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0740",
+  "id": "L-0835",
   "source": "environment-international-treaties-summits",
   "target": "environment-environmental-governance-legislation",
   "relation": "related",
@@ -6660,7 +7515,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0741",
+  "id": "L-0836",
   "source": "environment-environmental-governance-legislation",
   "target": "environment-environmental-impact-assessment",
   "relation": "related",
@@ -6669,7 +7524,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0742",
+  "id": "L-0837",
   "source": "environment-renewable-energy-green-tech",
   "target": "environment-climate-change-ghg",
   "relation": "related",
@@ -6678,7 +7533,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0743",
+  "id": "L-0838",
   "source": "environment-sustainable-agriculture-forestry",
   "target": "environment-biodiversity-types-hotspots",
   "relation": "related",
@@ -6687,7 +7542,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0744",
+  "id": "L-0839",
   "source": "history-advent-british-expansion",
   "target": "history-british-administration-economy",
   "relation": "related",
@@ -6696,7 +7551,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0745",
+  "id": "L-0840",
   "source": "history-british-administration-economy",
   "target": "history-peasant-tribal-labour-movements",
   "relation": "related",
@@ -6705,7 +7560,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0746",
+  "id": "L-0841",
   "source": "history-revolt-of-1857",
   "target": "history-early-nationalism-inc",
   "relation": "related",
@@ -6714,7 +7569,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0747",
+  "id": "L-0842",
   "source": "history-social-religious-reform",
   "target": "history-early-nationalism-inc",
   "relation": "related",
@@ -6723,7 +7578,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0748",
+  "id": "L-0843",
   "source": "history-early-nationalism-inc",
   "target": "history-gandhian-mass-movements",
   "relation": "related",
@@ -6732,7 +7587,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0749",
+  "id": "L-0844",
   "source": "history-revolutionary-communist-movements",
   "target": "history-gandhian-mass-movements",
   "relation": "related",
@@ -6741,7 +7596,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0750",
+  "id": "L-0845",
   "source": "history-gandhian-mass-movements",
   "target": "history-constitutional-developments-1909-1947",
   "relation": "related",
@@ -6750,7 +7605,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0751",
+  "id": "L-0846",
   "source": "history-gandhian-mass-movements",
   "target": "history-peasant-tribal-labour-movements",
   "relation": "related",
@@ -6759,7 +7614,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0752",
+  "id": "L-0847",
   "source": "history-constitutional-developments-1909-1947",
   "target": "history-transfer-of-power-partition",
   "relation": "related",
@@ -6768,7 +7623,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0753",
+  "id": "L-0848",
   "source": "history-key-personalities-ideologies",
   "target": "history-gandhian-mass-movements",
   "relation": "related",
@@ -6777,7 +7632,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0754",
+  "id": "L-0849",
   "source": "scitech-physics-basics",
   "target": "scitech-materials-nanotechnology",
   "relation": "related",
@@ -6786,7 +7641,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0755",
+  "id": "L-0850",
   "source": "scitech-chemistry-basics",
   "target": "scitech-materials-nanotechnology",
   "relation": "related",
@@ -6795,7 +7650,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0756",
+  "id": "L-0851",
   "source": "scitech-biology-basics",
   "target": "scitech-health-diseases",
   "relation": "related",
@@ -6804,7 +7659,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0757",
+  "id": "L-0852",
   "source": "scitech-biology-basics",
   "target": "scitech-biotechnology-genetics",
   "relation": "related",
@@ -6813,7 +7668,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0758",
+  "id": "L-0853",
   "source": "scitech-health-diseases",
   "target": "scitech-biotechnology-genetics",
   "relation": "related",
@@ -6822,7 +7677,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0759",
+  "id": "L-0854",
   "source": "scitech-space-technology",
   "target": "scitech-defence-technology",
   "relation": "related",
@@ -6831,7 +7686,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0760",
+  "id": "L-0855",
   "source": "scitech-space-technology",
   "target": "scitech-physics-basics",
   "relation": "related",
@@ -6840,7 +7695,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0761",
+  "id": "L-0856",
   "source": "scitech-nuclear-energy",
   "target": "scitech-physics-basics",
   "relation": "related",
@@ -6849,7 +7704,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0762",
+  "id": "L-0857",
   "source": "scitech-information-technology-cyber",
   "target": "scitech-materials-nanotechnology",
   "relation": "related",
@@ -6858,7 +7713,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0763",
+  "id": "L-0858",
   "source": "scitech-science-institutions-achievements",
   "target": "scitech-defence-technology",
   "relation": "related",
@@ -6867,7 +7722,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0764",
+  "id": "L-0859",
   "source": "scitech-science-institutions-achievements",
   "target": "scitech-space-technology",
   "relation": "related",
@@ -6876,7 +7731,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0765",
+  "id": "L-0860",
   "source": "history-indus-vedic-ancient-foundations",
   "target": "history-mauryan-gupta-empires",
   "relation": "related",
@@ -6885,7 +7740,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0766",
+  "id": "L-0861",
   "source": "history-buddhism-jainism-mahajanapadas",
   "target": "history-mauryan-gupta-empires",
   "relation": "related",
@@ -6894,7 +7749,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0767",
+  "id": "L-0862",
   "source": "history-mauryan-gupta-empires",
   "target": "history-early-medieval-regional-kingdoms",
   "relation": "related",
@@ -6903,7 +7758,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0768",
+  "id": "L-0863",
   "source": "history-early-medieval-regional-kingdoms",
   "target": "history-delhi-sultanate",
   "relation": "related",
@@ -6912,7 +7767,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0769",
+  "id": "L-0864",
   "source": "history-delhi-sultanate",
   "target": "history-mughal-empire",
   "relation": "related",
@@ -6921,7 +7776,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0770",
+  "id": "L-0865",
   "source": "history-bhakti-sufi-vijayanagara",
   "target": "history-mughal-empire",
   "relation": "related",
@@ -6930,7 +7785,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0771",
+  "id": "L-0866",
   "source": "history-art-architecture-sculpture",
   "target": "history-performing-arts-music-dance",
   "relation": "related",
@@ -6939,7 +7794,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0772",
+  "id": "L-0867",
   "source": "history-performing-arts-music-dance",
   "target": "history-literature-languages-philosophy",
   "relation": "related",
@@ -6948,7 +7803,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0773",
+  "id": "L-0868",
   "source": "history-heritage-institutions-crafts",
   "target": "history-art-architecture-sculpture",
   "relation": "related",
@@ -6957,7 +7812,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0774",
+  "id": "L-0869",
   "source": "society-indian-society-diversity",
   "target": "society-social-empowerment-women",
   "relation": "related",
@@ -6966,7 +7821,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0775",
+  "id": "L-0870",
   "source": "society-social-empowerment-women",
   "target": "society-population-poverty-urbanisation",
   "relation": "related",
@@ -6975,7 +7830,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0776",
+  "id": "L-0871",
   "source": "society-population-poverty-urbanisation",
   "target": "society-globalisation-social-change",
   "relation": "related",
@@ -6984,7 +7839,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0777",
+  "id": "L-0872",
   "source": "governance-policy-design-implementation",
   "target": "governance-transparency-e-governance-citizens-charter",
   "relation": "related",
@@ -6993,7 +7848,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0778",
+  "id": "L-0873",
   "source": "governance-transparency-e-governance-citizens-charter",
   "target": "governance-civil-services-role",
   "relation": "related",
@@ -7002,7 +7857,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0779",
+  "id": "L-0874",
   "source": "governance-social-sector-welfare",
   "target": "governance-vulnerable-sections-welfare",
   "relation": "related",
@@ -7011,7 +7866,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0780",
+  "id": "L-0875",
   "source": "ir-india-neighbourhood",
   "target": "ir-global-groupings-agreements",
   "relation": "related",
@@ -7020,7 +7875,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0781",
+  "id": "L-0876",
   "source": "ir-global-groupings-agreements",
   "target": "ir-international-institutions-un",
   "relation": "related",
@@ -7029,7 +7884,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0782",
+  "id": "L-0877",
   "source": "ir-diaspora-foreign-policy-effects",
   "target": "ir-global-groupings-agreements",
   "relation": "related",
@@ -7038,7 +7893,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0783",
+  "id": "L-0878",
   "source": "ir-global-conflicts-treaties",
   "target": "ir-international-institutions-un",
   "relation": "related",
@@ -7047,7 +7902,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0784",
+  "id": "L-0879",
   "source": "security-external-actors-extremism",
   "target": "security-security-forces-agencies",
   "relation": "related",
@@ -7056,7 +7911,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0785",
+  "id": "L-0880",
   "source": "security-cyber-security",
   "target": "security-external-actors-extremism",
   "relation": "related",
@@ -7065,7 +7920,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0786",
+  "id": "L-0881",
   "source": "security-border-management-organised-crime",
   "target": "security-external-actors-extremism",
   "relation": "related",
@@ -7074,7 +7929,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0787",
+  "id": "L-0882",
   "source": "ethics-essence-dimensions",
   "target": "ethics-moral-thinkers-philosophers",
   "relation": "related",
@@ -7083,7 +7938,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0788",
+  "id": "L-0883",
   "source": "ethics-essence-dimensions",
   "target": "ethics-ethical-dilemmas-conflict-of-interest",
   "relation": "related",
@@ -7092,7 +7947,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0789",
+  "id": "L-0884",
   "source": "ethics-ethical-dilemmas-conflict-of-interest",
   "target": "ethics-probity-governance-corruption",
   "relation": "related",
@@ -7101,7 +7956,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0790",
+  "id": "L-0885",
   "source": "ethics-ethical-dilemmas-conflict-of-interest",
   "target": "ethics-civil-service-values-aptitude",
   "relation": "related",
@@ -7110,7 +7965,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0791",
+  "id": "L-0886",
   "source": "ethics-attitude-persuasion",
   "target": "ethics-emotional-intelligence",
   "relation": "related",
@@ -7119,7 +7974,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0792",
+  "id": "L-0887",
   "source": "ethics-civil-service-values-aptitude",
   "target": "ethics-emotional-intelligence",
   "relation": "related",
@@ -7128,7 +7983,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0793",
+  "id": "L-0888",
   "source": "ethics-civil-service-values-aptitude",
   "target": "ethics-public-service-ethics",
   "relation": "related",
@@ -7137,7 +7992,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0794",
+  "id": "L-0889",
   "source": "ethics-public-service-ethics",
   "target": "ethics-probity-governance-corruption",
   "relation": "related",
@@ -7146,7 +8001,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0795",
+  "id": "L-0890",
   "source": "ethics-case-study-method",
   "target": "ethics-ethical-dilemmas-conflict-of-interest",
   "relation": "related",
@@ -7155,7 +8010,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0796",
+  "id": "L-0891",
   "source": "history-industrial-revolution-capitalism",
   "target": "history-colonisation-imperialism",
   "relation": "related",
@@ -7164,7 +8019,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0797",
+  "id": "L-0892",
   "source": "history-colonisation-imperialism",
   "target": "history-world-wars-interwar",
   "relation": "related",
@@ -7173,7 +8028,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0798",
+  "id": "L-0893",
   "source": "history-world-wars-interwar",
   "target": "history-cold-war-decolonisation",
   "relation": "related",
@@ -7182,7 +8037,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0799",
+  "id": "L-0894",
   "source": "history-cold-war-decolonisation",
   "target": "history-colonisation-imperialism",
   "relation": "related",
@@ -7191,7 +8046,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0800",
+  "id": "L-0895",
   "source": "disaster-hydro-meteorological-disasters",
   "target": "disaster-geological-disasters",
   "relation": "related",
@@ -7200,7 +8055,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0801",
+  "id": "L-0896",
   "source": "disaster-hydro-meteorological-disasters",
   "target": "disaster-climate-risk-resilience",
   "relation": "related",
@@ -7209,7 +8064,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0802",
+  "id": "L-0897",
   "source": "disaster-man-made-disasters",
   "target": "disaster-disaster-management-framework",
   "relation": "related",
@@ -7218,7 +8073,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0803",
+  "id": "L-0898",
   "source": "disaster-relief-recovery-financing",
   "target": "disaster-disaster-management-framework",
   "relation": "related",
@@ -7227,7 +8082,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0804",
+  "id": "L-0899",
   "source": "security-terrorism-counter-terrorism",
   "target": "security-external-actors-extremism",
   "relation": "related",
@@ -7236,7 +8091,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0805",
+  "id": "L-0900",
   "source": "security-terrorism-counter-terrorism",
   "target": "security-security-forces-agencies",
   "relation": "related",
@@ -7245,7 +8100,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0806",
+  "id": "L-0901",
   "source": "security-jk-northeast-security",
   "target": "security-external-actors-extremism",
   "relation": "related",
@@ -7254,7 +8109,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0807",
+  "id": "L-0902",
   "source": "security-maritime-security-indian-ocean",
   "target": "security-border-management-organised-crime",
   "relation": "related",
@@ -7263,7 +8118,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0808",
+  "id": "L-0903",
   "source": "security-defence-reforms-procurement",
   "target": "security-security-forces-agencies",
   "relation": "related",
@@ -7272,7 +8127,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0809",
+  "id": "L-0904",
   "source": "society-tribal-society-issues",
   "target": "society-indian-society-diversity",
   "relation": "related",
@@ -7281,7 +8136,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0810",
+  "id": "L-0905",
   "source": "society-religion-secularism-communalism",
   "target": "society-indian-society-diversity",
   "relation": "related",
@@ -7290,7 +8145,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0811",
+  "id": "L-0906",
   "source": "society-family-marriage-changes",
   "target": "society-social-empowerment-women",
   "relation": "related",
@@ -7299,7 +8154,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0812",
+  "id": "L-0907",
   "source": "society-social-movements-civil-society",
   "target": "society-globalisation-social-change",
   "relation": "related",
@@ -7308,7 +8163,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0813",
+  "id": "L-0908",
   "source": "society-regionalism-language-integration",
   "target": "society-indian-society-diversity",
   "relation": "related",
@@ -7317,7 +8172,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0814",
+  "id": "L-0909",
   "source": "society-regionalism-language-integration",
   "target": "society-religion-secularism-communalism",
   "relation": "related",
@@ -7326,7 +8181,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0815",
+  "id": "L-0910",
   "source": "ir-india-china-relations",
   "target": "ir-global-groupings-agreements",
   "relation": "related",
@@ -7335,7 +8190,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0816",
+  "id": "L-0911",
   "source": "ir-india-us-relations",
   "target": "ir-india-china-relations",
   "relation": "related",
@@ -7344,7 +8199,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0817",
+  "id": "L-0912",
   "source": "ir-india-russia-central-asia",
   "target": "ir-india-china-relations",
   "relation": "related",
@@ -7353,7 +8208,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0818",
+  "id": "L-0913",
   "source": "ir-india-west-asia",
   "target": "ir-diaspora-foreign-policy-effects",
   "relation": "related",
@@ -7362,7 +8217,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0819",
+  "id": "L-0914",
   "source": "ir-india-africa-global-south",
   "target": "ir-global-groupings-agreements",
   "relation": "related",
@@ -7371,7 +8226,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0820",
+  "id": "L-0915",
   "source": "governance-rural-development-schemes",
   "target": "governance-policy-design-implementation",
   "relation": "related",
@@ -7380,7 +8235,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0821",
+  "id": "L-0916",
   "source": "governance-food-security-pds",
   "target": "governance-social-sector-welfare",
   "relation": "related",
@@ -7389,7 +8244,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0822",
+  "id": "L-0917",
   "source": "governance-education-policy",
   "target": "governance-social-sector-welfare",
   "relation": "related",
@@ -7398,7 +8253,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0823",
+  "id": "L-0918",
   "source": "governance-health-policy",
   "target": "governance-social-sector-welfare",
   "relation": "related",
@@ -7407,7 +8262,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0824",
+  "id": "L-0919",
   "source": "governance-civil-society-media-pressure-groups",
   "target": "governance-transparency-e-governance-citizens-charter",
   "relation": "related",
@@ -7416,7 +8271,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0825",
+  "id": "L-0920",
   "source": "governance-digital-public-infrastructure",
   "target": "governance-transparency-e-governance-citizens-charter",
   "relation": "related",
@@ -7425,7 +8280,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0826",
+  "id": "L-0921",
   "source": "history-ancient-sources-archaeology",
   "target": "history-indus-vedic-ancient-foundations",
   "relation": "related",
@@ -7434,7 +8289,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0827",
+  "id": "L-0922",
   "source": "history-ancient-sources-archaeology",
   "target": "history-mauryan-gupta-empires",
   "relation": "related",
@@ -7443,7 +8298,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0828",
+  "id": "L-0923",
   "source": "history-sangam-south-india",
   "target": "history-mauryan-gupta-empires",
   "relation": "related",
@@ -7452,7 +8307,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0829",
+  "id": "L-0924",
   "source": "history-sangam-south-india",
   "target": "history-early-medieval-regional-kingdoms",
   "relation": "related",
@@ -7461,7 +8316,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0830",
+  "id": "L-0925",
   "source": "history-post-mauryan-foreign-rule",
   "target": "history-art-architecture-sculpture",
   "relation": "related",
@@ -7470,7 +8325,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0831",
+  "id": "L-0926",
   "source": "history-ancient-economy-society-science",
   "target": "history-mauryan-gupta-empires",
   "relation": "related",
@@ -7479,7 +8334,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0832",
+  "id": "L-0927",
   "source": "history-south-indian-dynasties-chola",
   "target": "history-early-medieval-regional-kingdoms",
   "relation": "related",
@@ -7488,7 +8343,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0833",
+  "id": "L-0928",
   "source": "history-south-indian-dynasties-chola",
   "target": "history-bhakti-sufi-vijayanagara",
   "relation": "related",
@@ -7497,7 +8352,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0834",
+  "id": "L-0929",
   "source": "history-mughal-administration-economy",
   "target": "history-mughal-empire",
   "relation": "related",
@@ -7506,7 +8361,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0835",
+  "id": "L-0930",
   "source": "history-mughal-administration-economy",
   "target": "history-medieval-economy-society-trade",
   "relation": "related",
@@ -7515,7 +8370,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0836",
+  "id": "L-0931",
   "source": "history-maratha-sikh-regional-powers",
   "target": "history-mughal-empire",
   "relation": "related",
@@ -7524,7 +8379,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0837",
+  "id": "L-0932",
   "source": "history-medieval-economy-society-trade",
   "target": "history-delhi-sultanate",
   "relation": "related",
@@ -7533,7 +8388,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0838",
+  "id": "L-0933",
   "source": "history-medieval-culture-historiography",
   "target": "history-literature-languages-philosophy",
   "relation": "related",
@@ -7542,7 +8397,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0839",
+  "id": "L-0934",
   "source": "history-medieval-culture-historiography",
   "target": "history-art-architecture-sculpture",
   "relation": "related",
@@ -7551,7 +8406,7 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0840",
+  "id": "L-0935",
   "source": "history-post-independence-consolidation",
   "target": "history-transfer-of-power-partition",
   "relation": "related",
@@ -7560,11 +8415,326 @@
   "verification": "authored-unreviewed"
  },
  {
-  "id": "L-0841",
+  "id": "L-0936",
   "source": "history-post-independence-consolidation",
   "target": "history-key-personalities-ideologies",
   "relation": "related",
   "rationale": "Topics are studied together: 'Post-independence consolidation and reorganisation' and 'Key personalities and ideologies'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0937",
+  "source": "economy-microeconomics-basics",
+  "target": "economy-national-income-growth",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Microeconomic basics: demand, supply and market structures' and 'National income and economic growth'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0938",
+  "source": "economy-microeconomics-basics",
+  "target": "economy-subsidies-direct-transfers",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Microeconomic basics: demand, supply and market structures' and 'Subsidies, direct benefit transfers and public expenditure'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0939",
+  "source": "economy-unemployment-labour-markets",
+  "target": "economy-human-development-poverty-employment",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Unemployment, labour markets and labour codes' and 'Human development, poverty and employment'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0940",
+  "source": "economy-sdg-inclusive-growth",
+  "target": "economy-human-development-poverty-employment",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Sustainable development, inclusive growth and development indices' and 'Human development, poverty and employment'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0941",
+  "source": "economy-insurance-pension-sector",
+  "target": "economy-financial-inclusion-digital-payments",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Insurance and pension sector' and 'Financial inclusion and digital payments'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0942",
+  "source": "economy-nbfc-npa-resolution",
+  "target": "economy-financial-markets",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'NBFCs, NPAs and bad-loan resolution' and 'Financial markets and SEBI'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0943",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "economy-fiscal-policy-budget",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Subsidies, direct benefit transfers and public expenditure' and 'Fiscal policy and the budget'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0944",
+  "source": "economy-subsidies-direct-transfers",
+  "target": "economy-agriculture-marketing-pricing-credit",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Subsidies, direct benefit transfers and public expenditure' and 'Agricultural marketing, pricing and credit'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0945",
+  "source": "economy-disinvestment-public-sector",
+  "target": "economy-industry-infrastructure",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Public sector enterprises and disinvestment' and 'Industry and infrastructure'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0946",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "economy-industry-infrastructure",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'MSMEs, start-ups and manufacturing policy' and 'Industry and infrastructure'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0947",
+  "source": "economy-msme-startups-manufacturing",
+  "target": "economy-unemployment-labour-markets",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'MSMEs, start-ups and manufacturing policy' and 'Unemployment, labour markets and labour codes'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0948",
+  "source": "economy-energy-sector-economy",
+  "target": "economy-industry-infrastructure",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Energy sector: coal, power, oil and gas' and 'Industry and infrastructure'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0949",
+  "source": "economy-agriculture-marketing-pricing-credit",
+  "target": "economy-agriculture-rural-development",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Agricultural marketing, pricing and credit' and 'Agriculture, food security and rural development'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0950",
+  "source": "economy-services-tourism-it",
+  "target": "economy-national-income-growth",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Services sector, IT and tourism' and 'National income and economic growth'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0951",
+  "source": "economy-services-tourism-it",
+  "target": "economy-international-trade-wto",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Services sector, IT and tourism' and 'International trade and the WTO'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0952",
+  "source": "geography-geomorphic-processes-landforms",
+  "target": "geography-earth-structure-geomorphology",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Geomorphic processes and landforms' and 'Earth's interior, plate tectonics and landforms'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0953",
+  "source": "geography-climate-phenomena-enso-jetstreams",
+  "target": "geography-indian-monsoon-climate",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Jet streams, ENSO, IOD and other climate phenomena' and 'Indian monsoon and climate'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0954",
+  "source": "geography-climate-phenomena-enso-jetstreams",
+  "target": "geography-atmosphere-climatology",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Jet streams, ENSO, IOD and other climate phenomena' and 'Atmosphere and climatology'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0955",
+  "source": "geography-world-climate-regions-biomes",
+  "target": "geography-biogeography-soils-vegetation",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'World climate regions and biomes' and 'Soils and natural vegetation'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0956",
+  "source": "geography-world-regional-geography-features",
+  "target": "geography-transport-infrastructure-geography",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'World physical features: mountains, rivers, deserts, lakes and straits' and 'Transport networks, ports and chokepoints'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0957",
+  "source": "geography-global-resources-distribution",
+  "target": "geography-minerals-industries-location",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Global distribution of resources, agriculture and industry' and 'Minerals, energy resources and industrial location'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0958",
+  "source": "geography-indian-energy-industry-regions",
+  "target": "geography-minerals-industries-location",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Indian energy resources and industrial regions' and 'Minerals, energy resources and industrial location'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0959",
+  "source": "geography-human-geography-settlements-migration",
+  "target": "geography-population-demography-urbanisation",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Human geography: settlements, migration and cultural regions' and 'Population, demography and urbanisation'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0960",
+  "source": "geography-india-map-locations",
+  "target": "geography-indian-physical-geography",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'India map and locations: passes, ports, parks, power plants and places in news' and 'Physical features of India'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0961",
+  "source": "geography-india-map-locations",
+  "target": "geography-rivers-water-resources",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'India map and locations: passes, ports, parks, power plants and places in news' and 'Rivers, drainage and water resources'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0962",
+  "source": "geography-remote-sensing-gis-maps",
+  "target": "geography-transport-infrastructure-geography",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Maps, remote sensing, GIS and GPS' and 'Transport networks, ports and chokepoints'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0963",
+  "source": "environment-species-conservation-iucn-cites",
+  "target": "environment-protected-areas-wildlife",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Species conservation: IUCN Red List, CITES and conservation strategies' and 'Protected areas and wildlife conservation'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0964",
+  "source": "environment-forest-resources-policy",
+  "target": "environment-sustainable-agriculture-forestry",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Forest resources, forest cover and forest policy' and 'Sustainable agriculture and forestry'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0965",
+  "source": "environment-forest-resources-policy",
+  "target": "environment-environmental-governance-legislation",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Forest resources, forest cover and forest policy' and 'Environmental governance and legislation in India'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0966",
+  "source": "environment-marine-coastal-crz",
+  "target": "environment-wetlands-water-conservation",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Marine and coastal ecosystems and coastal regulation' and 'Wetlands, mangroves, coral reefs and water conservation'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0967",
+  "source": "environment-invasive-species-human-wildlife-conflict",
+  "target": "environment-protected-areas-wildlife",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Invasive species and human–wildlife conflict' and 'Protected areas and wildlife conservation'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0968",
+  "source": "environment-carbon-markets-climate-finance",
+  "target": "environment-international-treaties-summits",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Carbon markets, climate finance and net-zero targets' and 'International environmental treaties and summits'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0969",
+  "source": "environment-environmental-organisations-indices",
+  "target": "environment-international-treaties-summits",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Environmental organisations, reports and indices' and 'International environmental treaties and summits'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0970",
+  "source": "environment-environmental-organisations-indices",
+  "target": "environment-environmental-governance-legislation",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Environmental organisations, reports and indices' and 'Environmental governance and legislation in India'.",
+  "evidence": "authoring judgement; rationale generic — refine on review",
+  "verification": "authored-unreviewed"
+ },
+ {
+  "id": "L-0971",
+  "source": "environment-sustainable-development-green-economy",
+  "target": "environment-pollution-waste-management",
+  "relation": "related",
+  "rationale": "Topics are studied together: 'Sustainable development, circular economy and green economy' and 'Pollution and waste management'.",
   "evidence": "authoring judgement; rationale generic — refine on review",
   "verification": "authored-unreviewed"
  }

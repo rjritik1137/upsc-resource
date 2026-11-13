@@ -8724,7 +8724,7 @@
   "effort_hours_editorial": 3,
   "syllabus_ids": [
    "S-GS3-15",
-   "S-GS3-10"
+   "S-GS3-14"
   ],
   "keywords": [
    "\\bresilien",
@@ -9628,9 +9628,9 @@
   "mains_focus": "Evaluate PDS efficiency, targeting and the cash-transfer debate.",
   "effort_hours_editorial": 3,
   "syllabus_ids": [
-   "S-GS2-12",
-   "S-GS2-13",
-   "S-GS2-10"
+   "S-GS2-14",
+   "S-GS3-05",
+   "S-GS2-12"
   ],
   "keywords": [
    "food security",
@@ -10214,8 +10214,7 @@
   "mains_focus": "Evaluate why no successor power unified India before the British.",
   "effort_hours_editorial": 3,
   "syllabus_ids": [
-   "S-P1-02",
-   "S-P1-03"
+   "S-P1-02"
   ],
   "keywords": [
    "Shivaji|Maratha|Peshwa|Ashtapradhan|chauth|sardeshmukhi",
@@ -10400,6 +10399,1475 @@
   "related": [
    "history-transfer-of-power-partition",
    "history-key-personalities-ideologies"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-microeconomics-basics",
+  "subject": "economy",
+  "group": "A",
+  "title": "Microeconomic basics: demand, supply and market structures",
+  "definition": "Core micro concepts used across economy questions: demand, supply, elasticity, costs and market forms.",
+  "subconcepts": [
+   "Law of demand and supply; equilibrium",
+   "Elasticity of demand and supply",
+   "Consumer surplus, utility",
+   "Production, costs and returns to scale",
+   "Perfect competition, monopoly, oligopoly",
+   "Public goods, externalities, market failure",
+   "Price controls and subsidies' effects",
+   "Giffen and Veblen goods"
+  ],
+  "distinctions": [
+   "Normal vs inferior vs Giffen good",
+   "Public good vs merit good",
+   "Monopoly vs monopsony"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Definitions and diagrams.",
+  "mains_focus": "Apply to price controls, taxes and subsidies.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-P1-05",
+   "S-GS3-01"
+  ],
+  "keywords": [
+   "elasticity",
+   "law of demand|demand curve|supply curve",
+   "Giffen|Veblen|inferior good",
+   "monopol|oligopol|perfect competition",
+   "public good|merit good|externalit",
+   "consumer surplus|marginal utility",
+   "market failure",
+   "opportunity cost",
+   "returns to scale"
+  ],
+  "resource_ids": [
+   "R-RSINGH",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-national-income-growth",
+   "economy-subsidies-direct-transfers"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-unemployment-labour-markets",
+  "subject": "economy",
+  "group": "A",
+  "title": "Unemployment, labour markets and labour codes",
+  "definition": "Types and measurement of unemployment, the informal sector and recent labour reforms.",
+  "subconcepts": [
+   "Types: structural, frictional, cyclical, disguised, seasonal",
+   "Periodic Labour Force Survey measures",
+   "Formal vs informal employment",
+   "Four labour codes",
+   "Gender and youth employment",
+   "Skilling missions",
+   "Gig and platform work",
+   "Jobless growth and demographic dividend"
+  ],
+  "distinctions": [
+   "Disguised vs seasonal unemployment",
+   "Unemployment rate vs labour force participation"
+  ],
+  "prerequisites": [
+   "economy-human-development-poverty-employment"
+  ],
+  "foundation_focus": "Definitions and surveys.",
+  "mains_focus": "Discuss quality of jobs and policy responses.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-02",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "unemploy",
+   "labour (force|code|market|reform)",
+   "\\bPLFS\\b|Periodic Labour",
+   "informal (sector|employment|economy)",
+   "disguised",
+   "gig (work|economy)|platform worker",
+   "jobless growth",
+   "minimum wage",
+   "\\bEPFO\\b|provident fund"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-RSINGH",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-rural-development-schemes"
+  ],
+  "related": [
+   "economy-human-development-poverty-employment"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-sdg-inclusive-growth",
+  "subject": "economy",
+  "group": "A",
+  "title": "Sustainable development, inclusive growth and development indices",
+  "definition": "SDGs, inclusive growth and the main global and national development indicators.",
+  "subconcepts": [
+   "Sustainable Development Goals and the SDG India Index",
+   "Inclusive growth",
+   "Human Development Index, Multidimensional Poverty Index",
+   "Gender Inequality and Gender Gap indices",
+   "Happiness and hunger indices",
+   "Green GDP and natural capital accounting",
+   "Gini coefficient and Lorenz curve",
+   "Growth vs development"
+  ],
+  "distinctions": [
+   "Growth vs development",
+   "HDI vs MPI",
+   "Gini coefficient vs Lorenz curve"
+  ],
+  "prerequisites": [
+   "economy-national-income-growth"
+  ],
+  "foundation_focus": "Index names, publishers and what they measure.",
+  "mains_focus": "Critique indices and India's rank interpretations.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-01",
+   "S-GS3-02",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "Sustainable Development Goal|\\bSDG",
+   "inclusive growth",
+   "Human Development Index|\\bHDI\\b",
+   "Multidimensional Poverty",
+   "Gender (Inequality|Gap) Index",
+   "Global Hunger Index|Happiness",
+   "Gini|Lorenz",
+   "green GDP",
+   "SDG India Index"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-NITI",
+   "R-RSINGH"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-sustainable-development-green-economy"
+  ],
+  "related": [
+   "economy-human-development-poverty-employment"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-insurance-pension-sector",
+  "subject": "economy",
+  "group": "B",
+  "title": "Insurance and pension sector",
+  "definition": "Structure and regulation of insurance and pensions in India.",
+  "subconcepts": [
+   "Life and general insurance; IRDAI",
+   "Insurance penetration and FDI limits",
+   "Crop and health insurance schemes",
+   "Pension system: EPS, NPS, PFRDA",
+   "Atal Pension Yojana",
+   "Microinsurance and PMJJBY/PMSBY",
+   "Reinsurance basics",
+   "Unified Pension Scheme debate"
+  ],
+  "distinctions": [
+   "Insurance vs assurance",
+   "NPS vs old pension scheme"
+  ],
+  "prerequisites": [
+   "economy-banking-structure"
+  ],
+  "foundation_focus": "Regulators and schemes.",
+  "mains_focus": "Assess coverage gaps and regulation.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-02",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "insurance",
+   "\\bIRDAI\\b",
+   "pension",
+   "\\bPFRDA\\b|National Pension System|\\bNPS\\b",
+   "Atal Pension",
+   "PMJJBY|PMSBY|Fasal Bima",
+   "reinsurance"
+  ],
+  "resource_ids": [
+   "R-RBI",
+   "R-PIB",
+   "R-SURVEY"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-financial-inclusion-digital-payments"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-nbfc-npa-resolution",
+  "subject": "economy",
+  "group": "B",
+  "title": "NBFCs, NPAs and bad-loan resolution",
+  "definition": "Non-bank lenders, stressed assets and the legal tools for recovery.",
+  "subconcepts": [
+   "NBFC vs bank; shadow banking",
+   "Non-performing assets: classification and provisioning",
+   "Insolvency and Bankruptcy Code and NCLT",
+   "SARFAESI, DRTs, ARCs",
+   "Bad bank (NARCL)",
+   "Prompt corrective action",
+   "Priority sector lending",
+   "Bank recapitalisation and mergers"
+  ],
+  "distinctions": [
+   "NPA vs write-off",
+   "NBFC vs HFC",
+   "IBC vs SARFAESI"
+  ],
+  "prerequisites": [
+   "economy-banking-structure"
+  ],
+  "foundation_focus": "Terms and laws.",
+  "mains_focus": "Evaluate resolution architecture and stress in NBFCs.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-01",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "\\bNPA|non-?performing asset",
+   "NBFC|shadow bank",
+   "Insolvency and Bankruptcy|\\bIBC\\b|\\bNCLT\\b",
+   "SARFAESI|Debt Recovery Tribunal|asset reconstruction",
+   "bad bank|\\bNARCL\\b",
+   "Prompt Corrective Action",
+   "priority sector",
+   "recapitali[sz]ation",
+   "stressed asset"
+  ],
+  "resource_ids": [
+   "R-RBI",
+   "R-SURVEY"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-financial-markets"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-subsidies-direct-transfers",
+  "subject": "economy",
+  "group": "C",
+  "title": "Subsidies, direct benefit transfers and public expenditure",
+  "definition": "Design and fiscal effects of subsidies and the shift to cash transfers.",
+  "subconcepts": [
+   "Major subsidies: food, fertiliser, fuel",
+   "Direct Benefit Transfer and JAM",
+   "Targeting and leakages",
+   "Merit vs non-merit subsidies",
+   "Fiscal cost and crowding out",
+   "WTO subsidy boxes",
+   "Freebies debate",
+   "Public expenditure quality; outcome budgeting"
+  ],
+  "distinctions": [
+   "Subsidy vs subvention",
+   "Cash vs in-kind transfer"
+  ],
+  "prerequisites": [
+   "economy-fiscal-policy-budget"
+  ],
+  "foundation_focus": "Names and types.",
+  "mains_focus": "Evaluate subsidy rationalisation and DBT.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-05",
+   "S-GS3-03"
+  ],
+  "keywords": [
+   "subsid",
+   "direct benefit transfer|\\bDBT\\b",
+   "\\bJAM\\b|Jan Dhan",
+   "fertili[sz]er subsid|urea",
+   "food subsid",
+   "freebie|revdi",
+   "leakage",
+   "cash transfer",
+   "Green Box|Amber Box|Blue Box"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-BUDGET",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-food-security-pds"
+  ],
+  "related": [
+   "economy-fiscal-policy-budget",
+   "economy-agriculture-marketing-pricing-credit"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-disinvestment-public-sector",
+  "subject": "economy",
+  "group": "E",
+  "title": "Public sector enterprises and disinvestment",
+  "definition": "Role of PSUs, disinvestment methods and privatisation policy.",
+  "subconcepts": [
+   "Maharatna, Navratna, Miniratna categories",
+   "Disinvestment vs privatisation vs strategic sale",
+   "Offer for sale and CPSE ETF",
+   "Asset monetisation pipeline",
+   "Public sector in strategic sectors",
+   "Competition and regulatory issues",
+   "Performance and governance of PSUs",
+   "Bank privatisation debate"
+  ],
+  "distinctions": [
+   "Disinvestment vs privatisation",
+   "Maharatna vs Navratna"
+  ],
+  "prerequisites": [
+   "economy-economic-reforms-1991"
+  ],
+  "foundation_focus": "Categories and methods.",
+  "mains_focus": "Weigh efficiency gains against public-interest concerns.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-01",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "disinvest",
+   "privati[sz]ation",
+   "Maharatna|Navratna|Miniratna",
+   "strategic sale",
+   "public sector (undertaking|enterprise)|\\bCPSE\\b|\\bPSU\\b",
+   "asset monetisation",
+   "offer for sale"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-industry-infrastructure"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-msme-startups-manufacturing",
+  "subject": "economy",
+  "group": "E",
+  "title": "MSMEs, start-ups and manufacturing policy",
+  "definition": "Definition, support schemes and the manufacturing push.",
+  "subconcepts": [
+   "MSME classification and credit support",
+   "Make in India, PLI schemes",
+   "Start-up India and unicorns",
+   "Ease of doing business and compliance reforms",
+   "National manufacturing policy and industrial corridors",
+   "Special Economic Zones and export hubs",
+   "Clusters and ODOP",
+   "Atmanirbhar Bharat package"
+  ],
+  "distinctions": [
+   "MSME vs start-up",
+   "SEZ vs industrial corridor"
+  ],
+  "prerequisites": [
+   "economy-industry-infrastructure"
+  ],
+  "foundation_focus": "Definitions and schemes.",
+  "mains_focus": "Assess manufacturing share, employment and credit gaps.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-08",
+   "S-GS3-01",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "\\bMSME|micro, small and medium",
+   "Make in India",
+   "Production[- ]Linked Incentive|\\bPLI\\b",
+   "Start-?up India|start-?up|unicorn",
+   "ease of doing business",
+   "Special Economic Zone|\\bSEZ\\b",
+   "industrial corridor",
+   "Atmanirbhar",
+   "cluster|One District One Product"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-industry-infrastructure",
+   "economy-unemployment-labour-markets"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-energy-sector-economy",
+  "subject": "economy",
+  "group": "E",
+  "title": "Energy sector: coal, power, oil and gas",
+  "definition": "Structure, reforms and security issues of India's energy sector.",
+  "subconcepts": [
+   "Coal: reserves, commercial mining, imports",
+   "Power sector: generation, transmission, distribution; DISCOM losses",
+   "Electricity Act and reforms",
+   "Petroleum and natural gas: pricing, imports, strategic reserves",
+   "Energy security and import dependence",
+   "Renewable targets and grid integration",
+   "Energy efficiency and BEE",
+   "Hydrogen mission"
+  ],
+  "distinctions": [
+   "Installed capacity vs generation",
+   "Energy security vs energy independence"
+  ],
+  "prerequisites": [
+   "economy-industry-infrastructure"
+  ],
+  "foundation_focus": "Sources, bodies and policies.",
+  "mains_focus": "Evaluate energy security and transition costs.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS3-09",
+   "S-GS3-01"
+  ],
+  "keywords": [
+   "\\bcoal",
+   "power sector|\\bDISCOM|electricity (act|sector|distribution)",
+   "petroleum|crude oil|natural gas|\\bLNG\\b",
+   "strategic (petroleum )?reserve",
+   "energy (security|efficiency)|\\bBEE\\b",
+   "hydrogen",
+   "transmission",
+   "UDAY"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-PIB",
+   "R-NITI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "environment-renewable-energy-green-tech",
+   "geography-indian-energy-industry-regions"
+  ],
+  "related": [
+   "economy-industry-infrastructure"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-agriculture-marketing-pricing-credit",
+  "subject": "economy",
+  "group": "D",
+  "title": "Agricultural marketing, pricing and credit",
+  "definition": "Markets, price support and finance for farmers.",
+  "subconcepts": [
+   "APMC mandis and e-NAM",
+   "MSP and procurement; price deficiency ideas",
+   "Farm laws and their repeal",
+   "Farmer producer organisations and cooperatives",
+   "Kisan Credit Card, NABARD, priority lending",
+   "Crop insurance",
+   "Contract farming and warehousing",
+   "Land reforms and tenancy"
+  ],
+  "distinctions": [
+   "MSP vs market price",
+   "Cooperative vs FPO"
+  ],
+  "prerequisites": [
+   "economy-agriculture-rural-development"
+  ],
+  "foundation_focus": "Institutions and schemes.",
+  "mains_focus": "Assess price support, market access and credit gaps.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS3-05",
+   "S-GS3-07",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "\\bAPMC|mandi",
+   "\\be-NAM\\b",
+   "\\bMSP\\b|minimum support price",
+   "farm laws|Farmers.? Produce Trade",
+   "\\bFPO\\b|farmer producer",
+   "Kisan Credit|\\bNABARD\\b",
+   "contract farming",
+   "warehous",
+   "land reform|tenancy",
+   "cooperative"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-AGRI",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "governance-food-security-pds"
+  ],
+  "related": [
+   "economy-agriculture-rural-development",
+   "economy-subsidies-direct-transfers"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "economy-services-tourism-it",
+  "subject": "economy",
+  "group": "E",
+  "title": "Services sector, IT and tourism",
+  "definition": "The services-led growth model and its key components.",
+  "subconcepts": [
+   "Share of services in output and exports",
+   "IT and IT-enabled services; GCCs",
+   "Tourism policy and heritage circuits",
+   "Transport and logistics: National Logistics Policy",
+   "Telecom sector",
+   "Financial and professional services",
+   "Medical tourism",
+   "Services trade and GATS"
+  ],
+  "distinctions": [
+   "Goods vs services trade",
+   "Mode 1 vs Mode 4 GATS"
+  ],
+  "prerequisites": [
+   "economy-national-income-growth"
+  ],
+  "foundation_focus": "Sectors and policies.",
+  "mains_focus": "Discuss whether services can drive employment.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS3-01",
+   "S-P1-05"
+  ],
+  "keywords": [
+   "services sector",
+   "\\bIT[- ]?(BPM|sector|services)|information technology (sector|exports)|software exports",
+   "tourism",
+   "logistics",
+   "telecom",
+   "\\bGATS\\b",
+   "Global Capability Cent",
+   "medical tourism"
+  ],
+  "resource_ids": [
+   "R-SURVEY",
+   "R-PIB"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "economy-national-income-growth",
+   "economy-international-trade-wto"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-geomorphic-processes-landforms",
+  "subject": "geography",
+  "group": "A",
+  "title": "Geomorphic processes and landforms",
+  "definition": "Weathering, erosion and deposition by rivers, glaciers, wind, waves and groundwater, and the landforms they form.",
+  "subconcepts": [
+   "Weathering: physical, chemical, biological; mass wasting",
+   "Fluvial landforms: valleys, meanders, deltas, oxbow lakes",
+   "Glacial landforms: cirques, moraines, drumlins, fjords",
+   "Aeolian landforms: dunes, loess, mushroom rocks",
+   "Coastal landforms: cliffs, stacks, spits, lagoons",
+   "Karst topography",
+   "Erosion cycles",
+   "Rocks and the rock cycle"
+  ],
+  "distinctions": [
+   "Weathering vs erosion",
+   "Delta vs estuary",
+   "Igneous vs sedimentary vs metamorphic rock"
+  ],
+  "prerequisites": [
+   "geography-earth-structure-geomorphology"
+  ],
+  "foundation_focus": "Processes and named landforms.",
+  "mains_focus": "Link landforms to processes and to hazards.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS1-10",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "weathering",
+   "erosion|deposition",
+   "\\bdelta\\b|oxbow|meander",
+   "glacier|glacial|moraine|fjord|cirque",
+   "dune|loess|aeolian",
+   "karst|limestone cave|stalactite",
+   "landform",
+   "igneous|sedimentary|metamorphic",
+   "rock cycle",
+   "coastal (landform|erosion)|lagoon|spit"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-LEONG"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "geography-earth-structure-geomorphology"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-climate-phenomena-enso-jetstreams",
+  "subject": "geography",
+  "group": "B",
+  "title": "Jet streams, ENSO, IOD and other climate phenomena",
+  "definition": "Large-scale circulation features that shape weather and the monsoon.",
+  "subconcepts": [
+   "Jet streams: subtropical and polar",
+   "El Niño, La Niña and the Southern Oscillation",
+   "Indian Ocean Dipole",
+   "Madden–Julian Oscillation",
+   "Western disturbances",
+   "Intertropical Convergence Zone",
+   "Walker and Hadley circulations",
+   "Teleconnections and monsoon forecasting"
+  ],
+  "distinctions": [
+   "El Niño vs La Niña",
+   "ENSO vs IOD",
+   "Western disturbance vs tropical cyclone"
+  ],
+  "prerequisites": [
+   "geography-atmosphere-climatology"
+  ],
+  "foundation_focus": "Mechanisms and effects.",
+  "mains_focus": "Explain impacts on Indian monsoon and agriculture.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-10",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "jet stream",
+   "El Ni[nñ]o|La Ni[nñ]a|ENSO|Southern Oscillation",
+   "Indian Ocean Dipole|\\bIOD\\b",
+   "Madden|\\bMJO\\b",
+   "western disturbance",
+   "ITCZ|Inter-?tropical Convergence",
+   "Walker|Hadley",
+   "teleconnection"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-IMD",
+   "R-LEONG"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "geography-indian-monsoon-climate",
+   "geography-atmosphere-climatology"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-world-climate-regions-biomes",
+  "subject": "geography",
+  "group": "B",
+  "title": "World climate regions and biomes",
+  "definition": "Köppen-style climatic types and the natural vegetation and human life of each.",
+  "subconcepts": [
+   "Equatorial, tropical monsoon, savanna",
+   "Hot deserts and steppes",
+   "Mediterranean, temperate maritime and continental",
+   "Taiga, tundra, polar",
+   "Biomes and vegetation belts",
+   "Altitudinal zonation",
+   "Climate and human activity",
+   "Climate change and shifting zones"
+  ],
+  "distinctions": [
+   "Savanna vs steppe",
+   "Taiga vs tundra"
+  ],
+  "prerequisites": [
+   "geography-atmosphere-climatology"
+  ],
+  "foundation_focus": "Regions, features and examples.",
+  "mains_focus": "Link climate type to agriculture and settlement.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-10",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "equatorial|savanna|steppe|prairie|pampas|veld",
+   "Mediterranean (climate|region)",
+   "taiga|tundra",
+   "tropical (rainforest|monsoon|desert)",
+   "temperate (grassland|forest)",
+   "biome",
+   "K[oö]ppen",
+   "hot desert|Sahara|Atacama|Kalahari"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-LEONG"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "geography-biogeography-soils-vegetation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-world-regional-geography-features",
+  "subject": "geography",
+  "group": "E",
+  "title": "World physical features: mountains, rivers, deserts, lakes and straits",
+  "definition": "Locational knowledge of major features worldwide, tested often in map-based and 'in news' questions.",
+  "subconcepts": [
+   "Major mountain ranges and plateaus",
+   "Major rivers, basins and lakes",
+   "Deserts of the world",
+   "Seas, straits, gulfs and canals",
+   "Islands and archipelagos",
+   "Rift valleys",
+   "Volcanic belts: Ring of Fire",
+   "Countries and capitals in the news"
+  ],
+  "distinctions": [
+   "Strait vs channel",
+   "Gulf vs bay"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Locations and neighbours.",
+  "mains_focus": "Link features to trade, chokepoints and conflicts.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS1-10",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "strait of|\\bstrait\\b",
+   "\\bGulf of",
+   "\\bSea\\b.*(bordered|located|lies)",
+   "\\bAndes|\\bAlps\\b|Rockies|\\bUrals\\b|Atlas Mountains",
+   "Amazon|Nile|Danube|Mississippi|Yangtze|Mekong|Euphrates",
+   "Lake (Victoria|Baikal|Titicaca|Superior|Chad)",
+   "Suez|Panama Canal",
+   "Ring of Fire",
+   "Rift Valley",
+   "archipelago"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-LEONG"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "geography-world-political-geography-borders"
+  ],
+  "related": [
+   "geography-transport-infrastructure-geography"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-global-resources-distribution",
+  "subject": "geography",
+  "group": "D",
+  "title": "Global distribution of resources, agriculture and industry",
+  "definition": "Where major minerals, energy, crops and industries are located worldwide.",
+  "subconcepts": [
+   "World distribution of iron, coal, oil, gas and critical minerals",
+   "Rare earths and critical mineral supply chains",
+   "Major crops and agricultural regions",
+   "Fisheries and fishing grounds",
+   "Industrial regions of the world",
+   "Energy chokepoints",
+   "Resource geopolitics",
+   "Shifts in industrial location"
+  ],
+  "distinctions": [
+   "Renewable vs non-renewable resource",
+   "Primary vs secondary vs tertiary activity"
+  ],
+  "prerequisites": [
+   "geography-minerals-industries-location"
+  ],
+  "foundation_focus": "Locations and leading producers.",
+  "mains_focus": "Discuss resource geopolitics and supply chains.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-11",
+   "S-GS1-10",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "rare earth|critical mineral|lithium|cobalt",
+   "iron ore|coal (reserves|belt)|oil (reserves|fields)",
+   "fishing ground|fisher",
+   "industrial region",
+   "leading producer|largest producer",
+   "OPEC",
+   "resource (nationalism|geopolitics)",
+   "supply chain"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-LEONG"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-international-trade-wto"
+  ],
+  "related": [
+   "geography-minerals-industries-location"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-indian-energy-industry-regions",
+  "subject": "geography",
+  "group": "D",
+  "title": "Indian energy resources and industrial regions",
+  "definition": "Location of coal, oil, gas, nuclear and renewable energy, and India's industrial regions.",
+  "subconcepts": [
+   "Coalfields: Gondwana and Tertiary",
+   "Oil and gas basins: Assam, Mumbai High, Krishna–Godavari",
+   "Thermal, hydro, nuclear and renewable plant locations",
+   "Iron and steel clusters",
+   "Cotton textile, sugar, cement, automobile, IT industry location",
+   "Industrial regions and corridors",
+   "Factors of location",
+   "Resource-linked regional disparities"
+  ],
+  "distinctions": [
+   "Gondwana vs Tertiary coal",
+   "Industrial region vs corridor"
+  ],
+  "prerequisites": [
+   "geography-minerals-industries-location"
+  ],
+  "foundation_focus": "Names and locations.",
+  "mains_focus": "Explain location factors and regional imbalance.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-GS1-11",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "coalfield|Gondwana coal|Jharia|Raniganj",
+   "Mumbai High|Krishna[- ]Godavari|Digboi",
+   "thermal power|hydro(electric)? (power|project)|nuclear power plant",
+   "iron and steel|Bhilai|Jamshedpur|Rourkela|Bokaro",
+   "cotton textile|sugar industry|cement industry|automobile (hub|industry)",
+   "industrial (region|corridor|belt)",
+   "location of (industries|industry)",
+   "Kudankulam|Tarapur|Narora"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-LEONG",
+   "R-SOI"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-energy-sector-economy"
+  ],
+  "related": [
+   "geography-minerals-industries-location"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-human-geography-settlements-migration",
+  "subject": "geography",
+  "group": "E",
+  "title": "Human geography: settlements, migration and cultural regions",
+  "definition": "Settlement patterns, migration, races, tribes and cultural landscapes.",
+  "subconcepts": [
+   "Rural and urban settlement types and patterns",
+   "Site and situation of cities",
+   "Push and pull factors of migration",
+   "Races, tribes and languages of the world",
+   "Cultural landscapes and diffusion",
+   "Human development and spatial inequality",
+   "Urban hierarchy and primate cities",
+   "Land use and urban sprawl"
+  ],
+  "distinctions": [
+   "Site vs situation",
+   "Push vs pull factor",
+   "Migration vs immigration"
+  ],
+  "prerequisites": [
+   "geography-population-demography-urbanisation"
+  ],
+  "foundation_focus": "Terms and examples.",
+  "mains_focus": "Analyse migration and urban growth problems.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-GS1-07",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "settlement",
+   "push (and|vs) pull|push factor|pull factor",
+   "migration",
+   "urban (sprawl|hierarchy|agglomeration)|primate city|megacity|million[- ]plus",
+   "\\brace\\b|ethnic group|tribes of",
+   "cultural (landscape|region|diffusion)",
+   "site and situation"
+  ],
+  "resource_ids": [
+   "R-NCERT",
+   "R-CENSUS"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "geography-population-demography-urbanisation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-india-map-locations",
+  "subject": "geography",
+  "group": "C",
+  "title": "India map and locations: passes, ports, parks, power plants and places in news",
+  "definition": "Locational facts about India's physical and economic geography that are frequently asked in map-linked questions.",
+  "subconcepts": [
+   "Mountain passes of the Himalaya",
+   "Major and minor ports",
+   "National parks, sanctuaries and biosphere reserves by State",
+   "Hill ranges, plateaus and peaks",
+   "Rivers' origin and confluences; waterfalls",
+   "Lakes and wetlands",
+   "Dams and multipurpose projects",
+   "Union Territories, capitals and international borders",
+   "Places in the news"
+  ],
+  "distinctions": [
+   "Pass vs gap",
+   "Major vs minor port"
+  ],
+  "prerequisites": [
+   "geography-indian-physical-geography"
+  ],
+  "foundation_focus": "Locations and neighbours.",
+  "mains_focus": "Link locations to strategy and resource use.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-P1-03"
+  ],
+  "keywords": [
+   "Nathu La|Zoji La|Khardung|Shipki La|Bara-?lacha|Rohtang|Banihal|Jelep La",
+   "major port|Kandla|Paradip|Tuticorin|Ennore|Kolkata port|Mormugao",
+   "national park|biosphere reserve",
+   "Western Ghats|Eastern Ghats|Aravalli|Satpura|Vindhya|Nilgiri",
+   "waterfall|Jog Falls|Dudhsagar",
+   "\\bdam\\b|Bhakra|Tehri|Hirakud|Sardar Sarovar",
+   "Union Territor",
+   "Chilika|Wular|Sambhar|Loktak|Pulicat",
+   "peak (of|in)|Kanchenjunga|Nanda Devi|Anamudi"
+  ],
+  "resource_ids": [
+   "R-SOI",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "geography-indian-physical-geography",
+   "geography-rivers-water-resources"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "geography-remote-sensing-gis-maps",
+  "subject": "geography",
+  "group": "E",
+  "title": "Maps, remote sensing, GIS and GPS",
+  "definition": "Cartography basics and spatial technologies used in planning and disaster management.",
+  "subconcepts": [
+   "Types of maps and map scales",
+   "Toposheets and Survey of India",
+   "Remote sensing: sensors and platforms",
+   "GIS: layers, vector and raster",
+   "GPS and NavIC",
+   "Applications: land use, disaster, agriculture",
+   "Bhuvan portal",
+   "Drones and mapping"
+  ],
+  "distinctions": [
+   "Raster vs vector data",
+   "Active vs passive sensors"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Definitions and applications.",
+  "mains_focus": "Show applications in governance and disaster management.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-GS1-10",
+   "S-GS3-11",
+   "S-P1-03"
+  ],
+  "keywords": [
+   "remote sensing",
+   "\\bGIS\\b|geographic information",
+   "\\bGPS\\b|\\bNavIC\\b|navigation",
+   "toposheet|Survey of India",
+   "map scale|cartograph",
+   "\\bBhuvan\\b",
+   "satellite (imagery|data)|resourcesat"
+  ],
+  "resource_ids": [
+   "R-SOI",
+   "R-ISRO"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "scitech-space-technology"
+  ],
+  "related": [
+   "geography-transport-infrastructure-geography"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-species-conservation-iucn-cites",
+  "subject": "environment",
+  "group": "B",
+  "title": "Species conservation: IUCN Red List, CITES and conservation strategies",
+  "definition": "Categories of threat, trade regulation and in-situ and ex-situ conservation of species.",
+  "subconcepts": [
+   "IUCN Red List categories",
+   "CITES appendices and wildlife trade",
+   "In-situ vs ex-situ conservation; zoos, gene banks, seed banks",
+   "Project Tiger, Project Elephant and other species projects",
+   "Keystone, flagship, umbrella species",
+   "Wildlife Protection Act schedules",
+   "Convention on Migratory Species",
+   "Reintroduction programmes (cheetah)"
+  ],
+  "distinctions": [
+   "In-situ vs ex-situ",
+   "Endangered vs vulnerable vs critically endangered",
+   "CITES vs CMS"
+  ],
+  "prerequisites": [
+   "environment-biodiversity-types-hotspots"
+  ],
+  "foundation_focus": "Categories, instruments and projects.",
+  "mains_focus": "Evaluate species projects and trade controls.",
+  "effort_hours_editorial": 4,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "IUCN|Red List",
+   "\\bCITES\\b",
+   "in-?situ|ex-?situ",
+   "Project (Tiger|Elephant|Cheetah|Snow Leopard)",
+   "keystone|flagship species|umbrella species",
+   "Wildlife \\(Protection\\) Act|Schedule I",
+   "Migratory Species|\\bCMS\\b",
+   "critically endangered|endangered species",
+   "gene bank|seed bank"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-CBD",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "environment-protected-areas-wildlife"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-forest-resources-policy",
+  "subject": "environment",
+  "group": "B",
+  "title": "Forest resources, forest cover and forest policy",
+  "definition": "Types of forests, forest cover assessment, policy and community rights.",
+  "subconcepts": [
+   "Forest types of India",
+   "India State of Forest Report",
+   "National Forest Policy and Forest Conservation Act",
+   "Compensatory afforestation and CAMPA",
+   "Joint Forest Management and community rights",
+   "Deforestation and its drivers",
+   "REDD+",
+   "Agroforestry and green cover targets"
+  ],
+  "distinctions": [
+   "Forest cover vs tree cover",
+   "Reserved vs protected forest"
+  ],
+  "prerequisites": [
+   "environment-ecosystem-ecology-basics"
+  ],
+  "foundation_focus": "Types, laws and reports.",
+  "mains_focus": "Weigh development needs against forest conservation.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "forest (cover|type|report|policy|conservation)",
+   "State of Forest Report|\\bISFR\\b",
+   "Forest Conservation Act",
+   "\\bCAMPA\\b|compensatory afforestation",
+   "Joint Forest Management|\\bJFM\\b",
+   "deforestation",
+   "\\bREDD\\b",
+   "agroforestry",
+   "reserved forest|protected forest"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "society-tribal-society-issues"
+  ],
+  "related": [
+   "environment-sustainable-agriculture-forestry",
+   "environment-environmental-governance-legislation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-marine-coastal-crz",
+  "subject": "environment",
+  "group": "B",
+  "title": "Marine and coastal ecosystems and coastal regulation",
+  "definition": "Oceans, estuaries and coasts: ecology, threats and regulation.",
+  "subconcepts": [
+   "Coastal Regulation Zone notifications",
+   "Marine protected areas and biosphere reserves",
+   "Coral bleaching, ocean acidification",
+   "Mangroves and sea-grass",
+   "Marine pollution: plastics, oil spills, ballast water",
+   "Fisheries and overfishing",
+   "Blue economy",
+   "Ocean-related treaties and the High Seas treaty"
+  ],
+  "distinctions": [
+   "Estuary vs lagoon",
+   "Coastal Regulation Zone categories"
+  ],
+  "prerequisites": [
+   "environment-wetlands-water-conservation"
+  ],
+  "foundation_focus": "Concepts and regulations.",
+  "mains_focus": "Link coastal regulation to development and vulnerability.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "Coastal Regulation Zone|\\bCRZ\\b",
+   "marine (protected|ecosystem|pollution|biodiversity)",
+   "coral|bleaching",
+   "ocean acidification",
+   "mangrove|sea-?grass",
+   "ballast water|oil spill",
+   "overfishing|fisheries",
+   "High Seas|BBNJ",
+   "blue economy"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-NCERT"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "security-maritime-security-indian-ocean"
+  ],
+  "related": [
+   "environment-wetlands-water-conservation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-invasive-species-human-wildlife-conflict",
+  "subject": "environment",
+  "group": "B",
+  "title": "Invasive species and human–wildlife conflict",
+  "definition": "Alien species, their impacts and managing conflict between people and wildlife.",
+  "subconcepts": [
+   "Invasive alien species: water hyacinth, Lantana, Prosopis",
+   "Pathways of introduction; biosecurity",
+   "Impacts on native biodiversity and livelihoods",
+   "Human–elephant, tiger and leopard conflict",
+   "Compensation and mitigation measures",
+   "Corridors and habitat connectivity",
+   "Poaching and illegal wildlife trade",
+   "Zoonotic spillover link"
+  ],
+  "distinctions": [
+   "Alien vs invasive species",
+   "Native vs endemic"
+  ],
+  "prerequisites": [
+   "environment-species-conservation-iucn-cites"
+  ],
+  "foundation_focus": "Examples and measures.",
+  "mains_focus": "Discuss coexistence strategies and policy tools.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "invasive",
+   "alien species",
+   "water hyacinth|Lantana|Prosopis|Parthenium",
+   "human[- ]wildlife|human[- ]elephant|man[- ]animal conflict",
+   "wildlife corridor|elephant corridor",
+   "poaching",
+   "illegal wildlife trade",
+   "endemic"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-CBD"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "environment-protected-areas-wildlife"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-carbon-markets-climate-finance",
+  "subject": "environment",
+  "group": "C",
+  "title": "Carbon markets, climate finance and net-zero targets",
+  "definition": "Market and finance instruments for climate action and national targets.",
+  "subconcepts": [
+   "Carbon credits and trading; Paris Agreement Article 6",
+   "Carbon Credit Trading Scheme in India",
+   "Carbon tax and CBAM",
+   "Green Climate Fund and climate finance",
+   "Net-zero pledges and NDCs; India's 2070 target",
+   "Green bonds",
+   "Offsets, additionality and permanence",
+   "Just transition"
+  ],
+  "distinctions": [
+   "Carbon tax vs carbon trading",
+   "Mitigation vs adaptation finance"
+  ],
+  "prerequisites": [
+   "environment-climate-change-ghg"
+  ],
+  "foundation_focus": "Instruments and agreements.",
+  "mains_focus": "Assess market-based tools and equity concerns.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "carbon (credit|market|trading|tax|offset)",
+   "\\bCBAM\\b|border adjustment",
+   "Green Climate Fund|climate finance",
+   "net[- ]zero|NDC|nationally determined",
+   "green bond",
+   "Article 6",
+   "just transition",
+   "Paris Agreement"
+  ],
+  "resource_ids": [
+   "R-UNFCCC",
+   "R-IPCC",
+   "R-MOEF"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-international-economic-institutions"
+  ],
+  "related": [
+   "environment-international-treaties-summits"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-environmental-organisations-indices",
+  "subject": "environment",
+  "group": "D",
+  "title": "Environmental organisations, reports and indices",
+  "definition": "Bodies, flagship reports and rankings that are asked as 'who publishes what'.",
+  "subconcepts": [
+   "UNEP, UNDP, IUCN, WWF, IPBES, GEF, IPCC",
+   "Reports: Emissions Gap, Living Planet, Global Environment Outlook, State of the World's Forests",
+   "Indices: Environmental Performance Index, Climate Change Performance Index",
+   "Ramsar, World Heritage and MAB programmes",
+   "Indian bodies: CPCB, BSI, ZSI, WII, NGT",
+   "Environmental awards",
+   "International days and campaigns",
+   "Initiatives like LiFE and Mission Green"
+  ],
+  "distinctions": [
+   "UNEP vs UNDP",
+   "Publisher vs index"
+  ],
+  "prerequisites": [],
+  "foundation_focus": "Name, mandate and key publication.",
+  "mains_focus": "Use to cite evidence in answers.",
+  "effort_hours_editorial": 2,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14"
+  ],
+  "keywords": [
+   "\\bUNEP\\b|\\bUNDP\\b|\\bIPBES\\b|\\bGEF\\b|Global Environment Facility",
+   "Emissions Gap|Living Planet|Global Environment Outlook|Global Risks",
+   "Environmental Performance Index|\\bEPI\\b|Climate Change Performance",
+   "Botanical Survey|Zoological Survey|Wildlife Institute",
+   "\\bWWF\\b",
+   "Man and the Biosphere|\\bMAB\\b",
+   "Mission LiFE|Lifestyle for Environment",
+   "\\bIPCC\\b"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-UNFCCC"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [],
+  "related": [
+   "environment-international-treaties-summits",
+   "environment-environmental-governance-legislation"
+  ],
+  "review_status": "draft-unreviewed",
+  "confidence": "medium"
+ },
+ {
+  "id": "environment-sustainable-development-green-economy",
+  "subject": "environment",
+  "group": "D",
+  "title": "Sustainable development, circular economy and green economy",
+  "definition": "Frameworks that balance growth and environment: SDGs, circular economy, EPR and green finance.",
+  "subconcepts": [
+   "Sustainable development: Brundtland definition and pillars",
+   "Circular economy and waste hierarchy",
+   "Extended Producer Responsibility",
+   "Green GDP and ecosystem services",
+   "Ecological footprint and carrying capacity",
+   "Green buildings and ratings",
+   "Sustainable consumption and lifestyle (LiFE)",
+   "Environmental ethics and equity"
+  ],
+  "distinctions": [
+   "Sustainable development vs sustainable growth",
+   "Carrying capacity vs ecological footprint"
+  ],
+  "prerequisites": [
+   "environment-ecosystem-ecology-basics"
+  ],
+  "foundation_focus": "Concepts and instruments.",
+  "mains_focus": "Debate development–environment trade-offs.",
+  "effort_hours_editorial": 3,
+  "syllabus_ids": [
+   "S-P1-06",
+   "S-GS3-14",
+   "S-GS3-01"
+  ],
+  "keywords": [
+   "sustainable development",
+   "circular economy",
+   "Extended Producer Responsibility|\\bEPR\\b",
+   "ecological footprint|carrying capacity",
+   "ecosystem services",
+   "green (building|economy|growth)|\\bGRIHA\\b|\\bLEED\\b",
+   "Brundtland",
+   "waste hierarchy|reduce, reuse"
+  ],
+  "resource_ids": [
+   "R-MOEF",
+   "R-NITI",
+   "R-SURVEY"
+  ],
+  "constitution_locator": null,
+  "cross_subject": [
+   "economy-sdg-inclusive-growth"
+  ],
+  "related": [
+   "environment-pollution-waste-management"
   ],
   "review_status": "draft-unreviewed",
   "confidence": "medium"
